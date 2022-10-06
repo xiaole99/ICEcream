@@ -1,2 +1,2 @@
 # ICEcream
-Integrative and Conjugative Elements Classification and visualization Methods
+Integrative and Conjutative Elements Classification and gRaphical gEne Arrangement Method
