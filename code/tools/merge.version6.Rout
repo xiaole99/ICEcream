@@ -1,0 +1,138 @@
+
+R version 4.0.3 (2020-10-10) -- "Bunny-Wunnies Freak Out"
+Copyright (C) 2020 The R Foundation for Statistical Computing
+Platform: x86_64-conda-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> ###################################################################################################
+> ##################################### definition ##################################################
+> ###################################################################################################
+> args <- commandArgs(trailingOnly=TRUE)
+> #args <- commandArgs(trailingOnly = F)  
+> scriptPath <- normalizePath(dirname(sub("^--file=", "", args[grep("^--file=", args)])))
+> print(scriptPath)
+character(0)
+> library("reshape2")
+> options(stringsAsFactors = FALSE)
+> classify_ice_family_yxl<-function(familyname,orfname=c("orf1.txt","orf2.txt","orf3.txt"),idealORFcount,neighor,startORFname,secondstartORFname,endORFnamme,secondendORFname,filename_order,j,folder){
++   conju<-orfname
++   m=idealORFcount
++   hmmout_cut_filter<-hmmout_cut[which(hmmout_cut$model_name %in% conju),]
++   l=nrow(hmmout_cut_filter)
++   k=0
++   for (i in conju){ if( i %in% hmmout_cut$model_name ){k=k+1}}
++   if (icefinder_result[j,"end"]!=1e+07){
++     if ( m-k<=1 ){
++       w<<-w+1
++       write.table(hmmout_cut_filter,file=paste(folder,"/",filename_order,"_classification_summary_details",w,".txt",sep=""),sep="\t",quote=F,row.names=F,col.names=T)
++       icefinder_result[j,"ice_family"]<<-paste(icefinder_result[j,"ice_family"],familyname,sep="_")
++       icefinder_result[j,"ice_family_conju_ORF_count"]<<-paste(icefinder_result[j,"ice_family_conju_ORF_count"],m,sep="_")
++       icefinder_result[j,"detected_conju_ORF_count"]<<-paste(icefinder_result[j,"detected_conju_ORF_count"],l,sep="_")
++       icefinder_result[j,"count"]<<-paste(icefinder_result[j,"count"],floor(l/m),sep="_")
++       icefinder_result[j,"details_file_number"]<<-paste(icefinder_result[j,"details_file_number"],w,sep="_")
++       } 
++   } else {
++       if (k==m){
++         w<<-w+1
++         rownames(hmmout_cut_filter)<-1:nrow(hmmout_cut_filter)
++         write.table(hmmout_cut_filter,file=paste(folder,"/",filename_order,"_classification_summary_details",w,".txt",sep=""),sep="\t",quote=F,row.names=F,col.names=T)
++         tmp_start<-hmmout_cut_filter[which(hmmout_cut_filter$model_name==startORFname),]
++         tmp_end<-hmmout_cut_filter[which(hmmout_cut_filter$model_name==endORFnamme),]
++         tmp_start2<-data.frame()
++         tmp_end2<-data.frame()
++         for (z in 1:nrow(tmp_start)){
++           if (TRUE %in% (c((as.numeric(rownames(tmp_start[z,]))+m-2):(as.numeric(rownames(tmp_start[z,]))+m+1)) %in% rownames(tmp_end))|
++               TRUE %in% (c((as.numeric(rownames(tmp_start[z,]))-m-2):(as.numeric(rownames(tmp_start[z,]))-m+1)) %in% rownames(tmp_end))){
++             tmp_start2<-rbind(tmp_start2,tmp_start[z,])}}
++         for (z in 1:nrow(tmp_end)){
++           if (TRUE %in% (c((as.numeric(rownames(tmp_end[z,]))+m-2):(as.numeric(rownames(tmp_end[z,]))+m+1)) %in% rownames(tmp_start))|
++               TRUE %in% (c((as.numeric(rownames(tmp_end[z,]))-m-2):(as.numeric(rownames(tmp_end[z,]))-m+1)) %in% rownames(tmp_start))){
++             tmp_end2<-rbind(tmp_end2,tmp_end[z,])}}
++         q=nrow(icefinder_result)
++      if (nrow(tmp_end2) !=0 & nrow(tmp_start2) !=0 ){
++       for ( i in 1:min(nrow(tmp_end2),nrow(tmp_start2),floor(l/m))){
++           icefinder_result[q+i,"V1"]<<-filename_order
++           icefinder_result[q+i,"ice_family"]<<-familyname
++           icefinder_result[q+i,"ice_family_conju_ORF_count"]<<-m
++           icefinder_result[q+i,"detected_conju_ORF_count"]<<-l
++           icefinder_result[q+i,"count"]<<-floor(l/m)
++           icefinder_result[q+i,"details_file_number"]<<-w
++         if (neighor=="reverse"){
++           tmp_end<- tmp_end2[i,]
++           if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_end))-1)),"model_name"]==secondendORFname,"FALSE")[1]){
++           tmp_start<-tmp_start2
++           tmp_start$dis<-tmp_end$start-tmp_start$end
++           if (nrow(tmp_start[which(tmp_start$dis > 0),])!=0) {
++               tmp_start<-tmp_start[which(tmp_start$dis > 0),]
++               tmp_start<-tmp_start[which(tmp_start$dis==min(tmp_start$dis)),]
++               icefinder_result[q+i,"start"]<<-tmp_start[,"start"]
++               icefinder_result[q+i,"end"]<<-tmp_end[,"end"] 
++           }else if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_end))+1)),"model_name"]==secondendORFname,"FALSE")[1]){
++           tmp_start$dis<-tmp_start$start-tmp_end$end
++           if (nrow(tmp_start[which(tmp_start$dis > 0),])!=0) {
++               tmp_start<-tmp_start[which(tmp_start$dis > 0),]
++               tmp_start<-tmp_start[which(tmp_start$dis==min(tmp_start$dis)),]
++               icefinder_result[q+i,"start"]<<-tmp_end[,"start"]
++               icefinder_result[q+i,"end"]<<-tmp_start[,"end"] 
++           }}
++          } else if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_end))+1)),"model_name"]==secondendORFname,"FALSE")[1]){
++           tmp_start$dis<-tmp_start$start-tmp_end$end
++           if (nrow(tmp_start[which(tmp_start$dis > 0),])!=0) {
++               tmp_start<-tmp_start[which(tmp_start$dis > 0),]
++               tmp_start<-tmp_start[which(tmp_start$dis==min(tmp_start$dis)),]
++               icefinder_result[q+i,"start"]<<-tmp_end[,"start"]
++               icefinder_result[q+i,"end"]<<-tmp_start[,"end"] 
++           }}
++         } else if (neighor=="forward"){
++           tmp_start<- tmp_start2[i,]
++           tmp_end<-tmp_end2
++           if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_start))-1)),"model_name"]==secondstartORFname,"FALSE")[1]){
++           tmp_end$dis<-tmp_start$start-tmp_end$end
++           if (nrow(tmp_end[which(tmp_end$dis > 0),])!=0) {
++               tmp_end<-tmp_end[which(tmp_end$dis > 0),]
++               tmp_end<-tmp_end[which(tmp_end$dis==min(tmp_end$dis) ),]
++               icefinder_result[q+i,"start"]<<-tmp_end[,"start"]
++               icefinder_result[q+i,"end"]<<-tmp_start[,"end"] 
++           }else if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_start))+1)),"model_name"]==secondstartORFname,"FALSE")[1]){
++               tmp_end$dis<-tmp_end$start-tmp_start$end
++               if (nrow(tmp_end[which(tmp_end$dis > 0),])!=0) {
++                   tmp_end<-tmp_end[which(tmp_end$dis > 0),]
++                   tmp_end<-tmp_end[which(tmp_end$dis==min(tmp_end$dis)),]
++                   icefinder_result[q+i,"start"]<<-tmp_start[,"start"]
++                   icefinder_result[q+i,"end"]<<-tmp_end[,"end"] 
++           }}
++           } else if (c(hmmout_cut_filter[which(rownames(hmmout_cut_filter)==(as.numeric(rownames(tmp_start))+1)),"model_name"]==secondstartORFname,"FALSE")[1]){
++           tmp_end$dis<-tmp_end$start-tmp_start$end
++           if (nrow(tmp_end[which(tmp_end$dis > 0),])!=0) {
++               tmp_end<-tmp_end[which(tmp_end$dis > 0),]
++               tmp_end<-tmp_end[which(tmp_end$dis==min(tmp_end$dis)),]
++               icefinder_result[q+i,"start"]<<-tmp_start[,"start"]
++               icefinder_result[q+i,"end"]<<-tmp_end[,"end"] 
++           }}
++         }
++           }
++      }
++       }
++   }
++ }
+> #library(rlist)
+> list_ice_family<-readRDS(paste(scriptPath,"/list_ice_family.rds",sep=""))
+Error in gzfile(file, "rb") : cannot open the connection
+Calls: readRDS -> gzfile
+In addition: Warning message:
+In gzfile(file, "rb") :
+  cannot open compressed file '/list_ice_family.rds', probable reason 'No such file or directory'
+Execution halted
