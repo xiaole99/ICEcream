@@ -1,0 +1,164 @@
+LOCUS       NZ_DS990145             1551 bp    DNA     linear   CON 14-MAR-2023
+DEFINITION  Vibrio cholerae MO10 supercont1.10, whole genome shotgun sequence.
+ACCESSION   NZ_DS990145 NZ_AAKF03000000
+VERSION     NZ_DS990145.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN02435880
+            Assembly: GCF_000152425.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Vibrio cholerae MO10
+  ORGANISM  Vibrio cholerae MO10
+            Bacteria; Pseudomonadota; Gammaproteobacteria; Vibrionales;
+            Vibrionaceae; Vibrio.
+REFERENCE   1  (bases 1 to 1551)
+  AUTHORS   Colwell,R., Grim,C.J., Young,S., Jaffe,D., Gnerre,S., Berlin,A.,
+            Heiman,D., Hepburn,T., Shea,T., Sykes,S., Yandava,C., Alvarado,L.,
+            Kodira,C., Borodovsky,M., Heidelberg,J., Lander,E., Galagan,J.,
+            Nusbaum,C. and Birren,B.
+  TITLE     Annotation of Vibrio cholerae MO10
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1551)
+  AUTHORS   Colwell,R., Grim,C.J., Young,S., Jaffe,D., Gnerre,S., Berlin,A.,
+            Heiman,D., Hepburn,T., Shea,T., Sykes,S., Alvarado,L., Kodira,C.,
+            Heidelberg,J., Lander,E., Galagan,J., Nusbaum,C. and Birren,B.
+  CONSRTM   Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2008) Broad Institute of MIT and Harvard, 320
+            Charles Street, Cambridge, MA 02141, USA
+REFERENCE   3  (bases 1 to 1551)
+  AUTHORS   Colwell,R., Grim,C.J., Young,S., Jaffe,D., Gnerre,S., Berlin,A.,
+            Heiman,D., Hepburn,T., Shea,T., Sykes,S., Alvarado,L., Kodira,C.,
+            Heidelberg,J., Lander,E., Galagan,J., Nusbaum,C. and Birren,B.
+  CONSRTM   Broad Institute Genome Sequencing Platform
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2008) Broad Institute of MIT and Harvard, 320
+            Charles Street, Cambridge, MA 02141, USA
+REFERENCE   4  (bases 1 to 1551)
+  AUTHORS   Heidelberg,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2005) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+REFERENCE   5  (bases 1 to 1551)
+  AUTHORS   Heidelberg,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2005) The Institute for Genomic Research, 9712
+            Medical Center Drive, Rockville, MD 20850, USA
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            DS990145.1.
+            Annotation was added to the scaffolds in July 2009.
+            The annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (PGAP). Information about PGAP can be found here:
+            https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Date                   :: 03/14/2023 07:31:17
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 6.4
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA
+            Genes (total)                     :: 3,729
+            CDSs (total)                      :: 3,649
+            Genes (coding)                    :: 3,604
+            CDSs (with protein)               :: 3,604
+            Genes (RNA)                       :: 80
+            rRNAs                             :: 2, 1, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 2, 1, 1 (5S, 16S, 23S)
+            tRNAs                             :: 72
+            ncRNAs                            :: 4
+            Pseudo Genes (total)              :: 45
+            CDSs (without protein)            :: 45
+            Pseudo Genes (ambiguous residues) :: 0 of 45
+            Pseudo Genes (frameshifted)       :: 21 of 45
+            Pseudo Genes (incomplete)         :: 25 of 45
+            Pseudo Genes (internal stop)      :: 9 of 45
+            Pseudo Genes (multiple problems)  :: 9 of 45
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1551
+                     /organism="Vibrio cholerae MO10"
+                     /mol_type="genomic DNA"
+                     /strain="MO10"
+                     /db_xref="taxon:345072"
+     gene            <1..928
+                     /locus_tag="VCHOM_RS00110"
+                     /old_locus_tag="VchoM_03844"
+     CDS             <1..928
+                     /locus_tag="VCHOM_RS00110"
+                     /old_locus_tag="VchoM_03844"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000335802.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=2
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_001073574.1"
+                     /translation="CLQRYRGIKMDDLRRKCFFCKDRIDGKKTLEHIIPNSLLGKLGI
+                     KEKTVTGQFNTIQYSRVKVPAHESCNNQFGSDYENRILSLLENPEQLYNQLLEEAGIL
+                     MMYSPDSSVSALITTWLSKIYYGLFYYDLISTKAPQWKDVCSSIIQSDNFKLVQSSYK
+                     QGYGFQLPSSLYVFKTKNTETDLVTIVEPSTLLLKIGSLTFVLCICDGFLTKNYLNGH
+                     PLKKLRSWMEEEEKLDPHFPVQKLALAEIIALRKCIPKNPRFVYSKDQIINMSLSTMA
+                     KNPDIAYQINEEHLSHVRREVLLEMGIKIINT"
+     gene            925..1035
+                     /locus_tag="VCHOM_RS19720"
+     CDS             925..1035
+                     /locus_tag="VCHOM_RS19720"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_017045844.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="DUF3265 domain-containing protein"
+                     /protein_id="WP_071917832.1"
+                     /translation="MTNASRGTANAWHFYYALVFVIMVLCVKLVVALAAP"
+     gene            1063..1539
+                     /locus_tag="VCHOM_RS00105"
+                     /old_locus_tag="VchoM_03845"
+     CDS             1063..1539
+                     /locus_tag="VCHOM_RS00105"
+                     /old_locus_tag="VchoM_03845"
+                     /EC_number="2.3.1.-"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001047179.1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Protein Homology."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="GNAT family N-acetyltransferase"
+                     /protein_id="WP_001047180.1"
+                     /translation="MNLEEFQESDFDLLIKWIDSDELNYLWGGPAYVFPLTYEQIHSH
+                     CSKAEVFPYLLKVKGRHAGFVELYKVTDEQYRICRVFISNAYRGQGLSKSMLMLLIDK
+                     ARLDFSATKLSLGVFEQNTVARKCYESLGFEVVSTEIGTRAFNGKLWDLVRMEKRL"
+CONTIG      join(AAKF03000067.1:1..1551)
+ORIGIN      
+        1 gtgtttacag aggtatcgtg gaatcaaaat ggatgattta agaaggaagt gttttttctg
+       61 taaagataga attgatggca aaaagacact agagcacatt attccaaata gtttgctcgg
+      121 gaaattaggc ataaaagaaa aaacggtcac tggtcaattt aacactattc aatatagcag
+      181 agtaaaagtt ccagctcatg aaagctgcaa taatcagttt ggcagtgatt atgaaaacag
+      241 aatattaagc ttacttgaaa atccggaaca actttataac cagttacttg aagaagctgg
+      301 tatcttaatg atgtacagcc ccgatagctc cgtatctgca ttgattacaa cttggctatc
+      361 gaagatctat tatggactct tctactatga cttgatctct acgaaagccc ctcaatggaa
+      421 agatgtttgt tcatcaatta tacaaagtga taattttaaa ctcgtgcaga gctcgtataa
+      481 acaaggctat ggttttcaac tcccttcaag tctttatgtt ttcaaaacca agaacactga
+      541 aaccgatcta gtaacaatag tagaacctag tacattattg cttaaaattg gttcgttaac
+      601 atttgtgctc tgtatatgtg acggctttct aaccaagaat tatttgaatg gacatccgct
+      661 caaaaaatta cgttcttgga tggaagagga agagaagctg gatcctcatt ttccagtaca
+      721 aaagctcgcg ctagctgaga tcattgcact tagaaagtgt attcctaaga accccaggtt
+      781 tgtctattca aaagatcaga taattaacat gagcttgtcc acaatggcta aaaatcccga
+      841 cattgcttat caaatcaatg aggagcatct ttcacacgtg cgtagagagg ttttacttga
+      901 aatgggtatc aaaataataa acacataaca aacgcttcaa gagggacagc caacgcgtgg
+      961 catttttatt atgcgttggt ttttgtgatt atggtgttat gcgttaagtt agtagtagcg
+     1021 ttggctgccc cttaagcggg cgttataacc taatgggaaa tcatgaactt agaagagttt
+     1081 caagaatcgg attttgacct gcttataaaa tggattgact cagatgagtt gaactattta
+     1141 tggggtggcc ctgcgtatgt tttcccgctg acttatgaac agatccattc ccactgtagc
+     1201 aaagcggaag tatttcccta tctgctaaaa gtgaaaggta gacatgccgg gtttgttgag
+     1261 ttgtacaaag tcaccgatga gcaatatcgg atttgccgtg tctttatttc aaatgcttat
+     1321 cgtgggcaag ggctatcaaa atcgatgttg atgttattaa tcgataaagc ccgattagat
+     1381 ttttctgcaa ccaagcttag cttaggcgtt tttgaacaga acacagttgc tagaaaatgc
+     1441 tatgagtcat taggttttga agtggtttcg acagaaattg gtacaagagc ttttaatggt
+     1501 aagttatggg atctggtgcg aatggaaaaa cggttataac aaacgcctca a
+//
