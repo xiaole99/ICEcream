@@ -1,0 +1,4 @@
+id	ice_family	ice_family_conju_ORF_count	detected_conju_ORF_count	count	miss_ORF	details_file_number	genome_info	genome_length	icefinder_folder	ICE_description	ICE_start	ICE_end	ICE_length
+GCF_000152425.1.gbff.25	SXT_R391	_16	_16	_1		_1	Vibrio cholerae MO10 supercont1.3, whole genome shotgun sequence.	454874	ICEfinder_0_1	Putative conjugative region:	297660	391968	94309
+id	ice_family	ice_family_conju_ORF_count	detected_conju_ORF_count	count	miss_ORF	details_file_number	genome_info	genome_length	icefinder_folder	ICE_description	ICE_start	ICE_end	ICE_length
+GCF_900474925.1.gbff.1	Tn916	_11	_11	_1		_1	Streptococcus pyogenes strain NCTC12050 chromosome 1, complete sequence.	1851237	ICEfinder_2_0	Putative ICE with T4SS:	1740118	1845238	105121

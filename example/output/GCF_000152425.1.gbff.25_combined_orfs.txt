@@ -1,0 +1,102 @@
+start	end	strand	long_label	short_label	feature_type
+297660	298901	-1	Integrase	Integrase	Integrase
+298903	299172	-1	None	None	other ORFs
+299175	300149	-1	None	None	other ORFs
+300614	301057	1	None	None	other ORFs
+301068	302240	-1	None	None	other ORFs
+302524	303088	1	None	None	other ORFs
+304538	306208	1	None	None	other ORFs
+306626	308119	1	None	None	other ORFs
+308479	309034	1	ARG:trimethoprim:dfrA18	ARG:trimethoprim:dfrA18	ARGs
+308480	309034	-1	None	None	other ORFs
+309048	309593	-1	None	None	other ORFs
+309593	310759	-1	None	None	other ORFs
+310774	311400	-1	None	None	other ORFs
+312125	313009	1	None	None	other ORFs
+313225	314440	1	ARG:florfenicol:floR	ARG:florfenicol:floR	ARGs
+313226	314440	1	None	None	other ORFs
+314468	314773	1	None	None	other ORFs
+315395	316232	1	ARG:aminoglycoside:APH(6)-Id	ARG:aminoglycoside:APH(6)-Id	ARGs
+315396	316232	-1	None	None	other ORFs
+316231	317035	1	ARG:aminoglycoside:APH(3'')-Ib	ARG:aminoglycoside:APH(3'')-Ib	ARGs
+316232	317035	-1	None	None	other ORFs
+317095	317911	1	ARG:sulfonamide:sul2	ARG:sulfonamide:sul2	ARGs
+317096	317911	-1	None	None	other ORFs
+320338	320607	-1	None	None	other ORFs
+320615	321064	-1	None	None	other ORFs
+321063	321320	1	None	None	other ORFs
+321703	322611	1	None	None	other ORFs
+322685	322999	1	None	None	other ORFs
+323068	323994	1	None	None	other ORFs
+324004	324603	1	None	None	other ORFs
+324600	325184	1	None	None	other ORFs
+325203	328880	1	None	None	other ORFs
+328891	330060	1	None	None	other ORFs
+330057	330815	1	None	None	other ORFs
+330819	334391	1	None	None	other ORFs
+334391	337048	1	None	None	other ORFs
+337110	339140	1	None	None	other ORFs
+339184	341835	1	None	None	other ORFs
+341989	344140	1	TraI	TraI	conjugation
+341990	344140	1	None	None	other ORFs
+344188	346009	1	TraD	TraD	conjugation
+344189	346009	1	None	None	other ORFs
+346019	346579	1	None	None	other ORFs
+346565	347201	1	TraJ	TraJ	conjugation
+346566	347201	1	None	None	other ORFs
+347227	347505	-1	None	None	other ORFs
+347502	347825	-1	None	None	other ORFs
+348005	348287	1	TraL	TraL	conjugation
+348006	348287	1	None	None	other ORFs
+348283	348910	1	TraE	TraE	conjugation
+348284	348910	1	None	None	other ORFs
+348893	349790	1	TraK	TraK	conjugation
+348894	349790	1	None	None	other ORFs
+349792	351082	1	TraB	TraB	conjugation
+349793	351082	1	None	None	other ORFs
+351156	351729	1	TraV	TraV	conjugation
+351157	351729	1	None	None	other ORFs
+351725	352112	1	TraA	TraA	conjugation
+351726	352112	1	None	None	other ORFs
+352333	353124	1	None	None	other ORFs
+353117	354055	1	None	None	other ORFs
+354187	354879	1	None	None	other ORFs
+354878	357278	1	TraC	TraC	conjugation
+354879	357278	1	None	None	other ORFs
+357271	357618	1	None	None	other ORFs
+357602	358114	1	None	None	other ORFs
+358124	359249	1	TraW	TraW	conjugation
+358125	359249	1	None	None	other ORFs
+359232	360261	1	TraU	TraU	conjugation
+359233	360261	1	None	None	other ORFs
+360263	363962	1	TraN	TraN	conjugation
+360264	363962	1	None	None	other ORFs
+364055	364735	-1	None	None	other ORFs
+364742	365827	-1	None	None	other ORFs
+365827	366891	-1	None	None	other ORFs
+367004	367687	-1	None	None	other ORFs
+367828	368430	-1	None	None	other ORFs
+368798	369124	1	None	None	other ORFs
+369140	369559	1	None	None	other ORFs
+369639	370457	1	None	None	other ORFs
+370539	370682	1	None	None	other ORFs
+370743	371759	1	None	None	other ORFs
+371969	372928	1	None	None	other ORFs
+372928	373695	1	None	None	other ORFs
+373794	374747	1	None	None	other ORFs
+374809	375249	1	None	None	other ORFs
+375319	376974	1	None	None	other ORFs
+377056	377553	1	None	None	other ORFs
+377553	377894	1	None	None	other ORFs
+377986	379059	1	None	None	other ORFs
+379150	379857	1	None	None	other ORFs
+380120	381049	-1	None	None	other ORFs
+381055	384861	-1	None	None	other ORFs
+385595	386540	1	TraF	TraF	conjugation
+385596	386540	1	None	None	other ORFs
+386542	387931	1	TraH	TraH	conjugation
+386543	387931	1	None	None	other ORFs
+387934	391504	1	TraG	TraG	conjugation
+387935	391504	1	None	None	other ORFs
+391537	391968	-1	None	None	other ORFs
+391968	391978	1	DR	DR	DR

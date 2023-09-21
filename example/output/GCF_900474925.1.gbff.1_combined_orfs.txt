@@ -1,0 +1,111 @@
+start	end	strand	long_label	short_label	feature_type
+1740118	1740128	1	DR	DR	DR
+1741939	1742706	1	None	None	other ORFs
+1742840	1743880	1	None	None	other ORFs
+1744046	1745941	-1	None	None	other ORFs
+1746149	1747777	-1	None	None	other ORFs
+1747844	1749868	-1	None	None	other ORFs
+1750079	1750792	1	None	None	other ORFs
+1751598	1752455	1	None	None	other ORFs
+1752497	1753228	1	None	None	other ORFs
+1753402	1754016	-1	None	None	other ORFs
+1754016	1754525	-1	None	None	other ORFs
+1754534	1755469	-1	None	None	other ORFs
+1755498	1755644	-1	None	None	other ORFs
+1755827	1758025	-1	None	None	other ORFs
+1758122	1759681	-1	None	None	other ORFs
+1760094	1760399	-1	None	None	other ORFs
+1760411	1760830	-1	None	None	other ORFs
+1760827	1761096	-1	None	None	other ORFs
+1761211	1761609	-1	None	None	other ORFs
+1761900	1763036	-1	None	None	other ORFs
+1763125	1764396	-1	None	None	other ORFs
+1764465	1765025	-1	None	None	other ORFs
+1765035	1765631	-1	None	None	other ORFs
+1765632	1766853	1	ARG:multidrug:lmrP	ARG:multidrug:lmrP	ARGs
+1765633	1766853	-1	None	None	other ORFs
+1766864	1768846	-1	None	None	other ORFs
+1768975	1771530	-1	None	None	other ORFs
+1771865	1772302	-1	None	None	other ORFs
+1772593	1774284	1	None	None	other ORFs
+1774372	1774680	1	None	None	other ORFs
+1774707	1775579	-1	None	None	other ORFs
+1775622	1776500	-1	None	None	other ORFs
+1776520	1777461	-1	None	None	other ORFs
+1777454	1779202	-1	None	None	other ORFs
+1779540	1780820	-1	None	None	other ORFs
+1781040	1781222	1	None	None	other ORFs
+1781238	1781387	1	None	None	other ORFs
+1781681	1782295	1	None	None	other ORFs
+1782307	1782645	1	None	None	other ORFs
+1784427	1785029	1	None	None	other ORFs
+1785505	1785801	-1	None	None	other ORFs
+1786241	1787083	1	None	None	other ORFs
+1787130	1787771	-1	None	None	other ORFs
+1787977	1788303	1	None	None	other ORFs
+1788290	1788877	1	None	None	other ORFs
+1788874	1789956	1	None	None	other ORFs
+1790025	1792298	-1	None	None	other ORFs
+1792432	1792965	1	None	None	other ORFs
+1793119	1793730	-1	None	None	other ORFs
+1794460	1794732	-1	None	None	other ORFs
+1794749	1796110	-1	None	None	other ORFs
+1796146	1796598	-1	None	None	other ORFs
+1796595	1798571	-1	None	None	other ORFs
+1798661	1800559	-1	None	None	other ORFs
+1800683	1801000	-1	None	None	other ORFs
+1801776	1802897	-1	None	None	other ORFs
+1803195	1803866	1	None	None	other ORFs
+1803878	1804750	1	None	None	other ORFs
+1805164	1805778	-1	None	None	other ORFs
+1806083	1806883	-1	None	None	other ORFs
+1806876	1807718	-1	None	None	other ORFs
+1807694	1808533	-1	None	None	other ORFs
+1808535	1809077	-1	None	None	other ORFs
+1809091	1810116	-1	None	None	other ORFs
+1810166	1811455	-1	None	None	other ORFs
+1811457	1812701	-1	None	None	other ORFs
+1813138	1814397	1	None	None	other ORFs
+1814433	1815641	1	None	None	other ORFs
+1815823	1816737	1	None	None	other ORFs
+1817045	1817458	1	None	None	other ORFs
+1817460	1818566	1	None	None	other ORFs
+1818623	1819486	-1	None	None	other ORFs
+1819812	1821029	-1	Integrase	Integrase	Integrase
+1821111	1821314	-1	None	None	other ORFs
+1821298	1821549	1	None	None	other ORFs
+1821775	1822005	-1	None	None	other ORFs
+1822002	1822424	-1	None	None	other ORFs
+1822929	1823282	1	None	None	other ORFs
+1823342	1823509	-1	None	None	other ORFs
+1823627	1825547	1	ARG:tetracycline:tet(M)	ARG:tetracycline:tet(M)	ARGs
+1823628	1825547	-1	None	None	other ORFs
+1825563	1825679	-1	None	None	other ORFs
+1825923	1826856	1	Tn916.orf13.protein.11	orf13	conjugation
+1825924	1826856	-1	None	None	other ORFs
+1826852	1827854	1	Tn916.orf14.protein.9	orf14	conjugation
+1826853	1827854	-1	None	None	other ORFs
+1827850	1830028	1	Tn916.orf15.protein.17	orf15	conjugation
+1827851	1830028	-1	None	None	other ORFs
+1830030	1832478	1	Tn916.orf16.protein.14	orf16	conjugation
+1830031	1832478	-1	None	None	other ORFs
+1832461	1832854	1	Tn916.orf17.protein.9	orf17	conjugation
+1832462	1832854	-1	None	None	other ORFs
+1832942	1833440	1	Tn916.orf18.protein.6	orf18	conjugation
+1832943	1833440	-1	None	None	other ORFs
+1833556	1833778	1	Tn916.orf19.protein.1	orf19	conjugation
+1833557	1833778	-1	None	None	other ORFs
+1833820	1835026	1	Tn916.orf20.protein.14	orf20	conjugation
+1833821	1835026	-1	None	None	other ORFs
+1835049	1835201	-1	None	None	other ORFs
+1835203	1836589	1	Tn916.orf21.protein.6	orf21	conjugation
+1835204	1836589	-1	None	None	other ORFs
+1836617	1837004	1	Tn916.orf22.protein.6	orf22	conjugation
+1836618	1837004	-1	None	None	other ORFs
+1837019	1837334	1	Tn916.orf23.protein.6	orf23	conjugation
+1837020	1837334	-1	None	None	other ORFs
+1837728	1839209	-1	None	None	other ORFs
+1839517	1840539	-1	None	None	other ORFs
+1840958	1841830	1	None	None	other ORFs
+1841909	1843528	1	None	None	other ORFs
+1845238	1845248	1	DR	DR	DR
