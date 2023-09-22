@@ -6,6 +6,7 @@ Integrative and Conjugative Elements Classification and gRaphical gEne Arrangeme
 download the github folder to you local server
 
 navigate to the downloaded folder
+
 cd ICEcream/ICEcream
 
 bash ICEcream.sh --input <input_folder> --temp <temp_path> --output <output_path>
