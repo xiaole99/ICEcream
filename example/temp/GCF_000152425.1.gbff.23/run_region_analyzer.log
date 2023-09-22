@@ -1,0 +1,13 @@
+Candidate region0:candidate_region_left..candidate_region_right:1..178284
+Candidate region0:core_protein: 12584..14299	+	571	4495763222	VCHOM_RS01985	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 28412..30523	-	703	4495763237	VCHOM_RS01920	Integrase	Phage_integrase
+Candidate region0:core_protein: 32218..33420	-	400	4495763239	VCHOM_RS01910	Integrase	Phage_integrase
+Candidate region0:core_protein: 41925..42728	-	267	4495763245	VCHOM_RS01880	Integrase	Phage_integrase
+Candidate region0:core_protein: 48578..50407	-	609	4495763251	VCHOM_RS01850	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 52772..53557	+	261	4495763253	VCHOM_RS01840	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 172160..172486	+	108	4495763359	trxA	T4SS	TraF
+Candidate region0:core_protein: 172684..173943	+	419	4495763360	rho	T4CP	FtsK_SpoIIIE
+Candidate region0:conj_region0:conj_region[0][0]..conj_region[0][1]:172160..173943
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 1 0 1 0 0 -3 
+e2:0	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 0
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:0;0;1;1784

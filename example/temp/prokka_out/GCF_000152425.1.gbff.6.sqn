@@ -1,0 +1,143 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 9 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 21 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2023 } } } ,
+        create-date
+          std {
+            year 2023 ,
+            month 9 ,
+            day 21 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "NZ_DS990157.1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 712 ,
+            seq-data
+              iupacna "CAATATTTACAAAGTAAATGTAGATAACTTTTTTTCAGCCATCCTACTTATAAAA
+AAAGCAAATAACTTATCAATTTTATTGAAAGAAATAAAAAAAAGATTATAATCTTTTGATTGGTTTTATTTCAAGTTT
+AATTTTTGAAAATACGTAATATCTTAGTCTTGAAAATATCCAAGCTGGAAGCTGGAAGCAGCATGAAGTTTCTAAACA
+TTATATGCAACATGAAAAACTTAAATATGAAAATAGGACTCTTGACATACCTGTTAAAAAGTTGGCTAAAAATATCTA
+AATTTCTTTGGTTCAAGATTTTTTTCAACAAATGAATATTTAAATTGAAGCCTGGTAAAAAAGATTTTTTTTAATGTT
+AAAGGGTCCTGTTAATGTTAAAGGTGGTCCTGCACAACAAAAAAGCAACCTTAGAGAACTTTATATTGATTGTAAAAT
+TAAACACATTTATTTTAAAATAAAAACTTCAGAGCTTTGTAGTTTGCATCCAAAATTGTGTGCATGGGACCAGGTGGT
+AGTGGGACCAAGTGGTATGTGTTACTGATGTGTTTGTACTCACCATTAAAACTCAATATTGTTTGTAAATGCTATCCA
+ATAGAATGTGACATAAAAAGATTTAATGTCAAAATTTACACGTTATACAAACAATAATGAATGCATGGTTCATAAATG
+TNATCAAATGTGCTTATGTTTTGACAGCTTAAA" } } ,
+        seq {
+          id {
+            local
+              str "NZ_DS990157.1_1" } ,
+          descr {
+            title "hypothetical protein IKABJGFC_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 62 ,
+            seq-data
+              ncbieaa "MLKGPVNVKGGPAQQKSNLRELYIDCKIKHIYFKIKTSELCSLHPKLCAWDQVVV
+GPSGMCY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 2 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 61 ,
+                        id
+                          local
+                            str "NZ_DS990157.1_1" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NZ_DS990157.1_1" ,
+                location
+                  int {
+                    from 362 ,
+                    to 550 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NZ_DS990157.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "IKABJGFC_00001" } } } } } } } } } }

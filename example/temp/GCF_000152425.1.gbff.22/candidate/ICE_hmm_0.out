@@ -1,0 +1,8 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TrwB_AAD_bind        PF10412.4    386 9146618693_1         -            393   8.5e-05   13.6   0.1   1   3       0.2        14   -3.5   1.3   125   169    29    73    22    84 0.64 Type IV secretion-system coupling protein DNA-binding domain
+TrwB_AAD_bind        PF10412.4    386 9146618693_1         -            393   8.5e-05   13.6   0.1   2   3   1.2e-06   8.5e-05   13.6   0.1    15    47   189   221   177   226 0.84 Type IV secretion-system coupling protein DNA-binding domain
+TrwB_AAD_bind        PF10412.4    386 9146618693_1         -            393   8.5e-05   13.6   0.1   3   3     0.009      0.63    0.9   0.0    28    55   256   283   238   288 0.82 Type IV secretion-system coupling protein DNA-binding domain
+AAA_10               PF12846.2    328 9146618694_1         -            224   0.00023   12.8   0.1   1   2   2.5e-05    0.0017    9.9   0.0     4    22    31    49    29    64 0.87 AAA-like domain
+AAA_10               PF12846.2    328 9146618694_1         -            224   0.00023   12.8   0.1   2   2     0.018       1.3    0.5   0.0   260   288   170   198   146   214 0.86 AAA-like domain

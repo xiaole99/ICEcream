@@ -1,0 +1,6 @@
+Vibrio cholerae MO10 supercont1.15, whole genome shotgun sequence. - 1..924
+3 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+172..315	-	47	5495348690	-	VCHOM_RS19830	-	-	hypothetical protein
+370..738	-	122	5495348691	-	VCHOM_RS00070	-	-	hypothetical protein
+770..924	+	50.6666666666667	5495348692	-	VCHOM_RS00065	-	-	Rop family plasmid primer RNA-binding protein

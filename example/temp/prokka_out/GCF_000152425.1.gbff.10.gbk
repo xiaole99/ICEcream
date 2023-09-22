@@ -1,0 +1,32 @@
+LOCUS       NZ_DS990153.1            859 bp    DNA     linear       21-SEP-2023
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..859
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 aacttaccta aatatacatt tgcgttagtt gggaactttt cccaactgct ataaatgcgc
+       61 ctataaatca gtagagtaaa caggcttcat tgttcgcggt tagtttttgg gtagcttggg
+      121 tctggcagga cgggagcttt tctttttctt aacacctttt gtggctaacc gcgccgctca
+      181 gctttccaaa tattcgaacc tttatcgagc ggcttggtgc ctcggtcgcg ctccgcactc
+      241 ccttatccct gcggggcttt ttggtgcgga tttttcagta tgctactcaa ggtgcttatg
+      301 tcctgcatag cagggaggat tgaggcgtac acaatactac ttattaatgt gtaagaccgt
+      361 aattcataaa tgacgtggta ggtttgaact cgtatactgt gacttactga agcgactttc
+      421 ttagagccat caactttttg gaattgatat gatgaagaca gaaaagaaaa aaccccagag
+      481 cataaatgcg ctagggtttg tgtatctcaa accaacctaa taaggaggtc agtatgatag
+      541 agctgttaac tgcattcgtt cagttgctca cagcaattat caacgcgttc ttcttataac
+      601 gcgttctcaa aagctcagcc tcctaccgct gagcttttct atttcccact ttgggaaata
+      661 tatcataata ataagcccac acatttaaat gtaaaccctt atcggcccct cagataaaca
+      721 ttgaccacac aagcttggta ctctcaccga caaattgccc tgccaatcct tacgatgttt
+      781 tagggatata aaaatagaaa aaccaagcgg ttaagcttgg tttgtgtttc gtagtcttca
+      841 ctttctctac atacataat
+//

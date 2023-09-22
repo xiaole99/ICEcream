@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+T2SSE                PF00437.16   277 9444928196_1         -            706   0.00022   12.5   0.0   1   1   1.9e-05   0.00044   11.5   0.0   117   155   237   272   138   278 0.78 Type II/IV secretion system protein
+AAA_10               PF12846.2    328 9444928196_1         -            706    0.0003   12.5   0.0   1   1   2.9e-05   0.00067   11.3   0.0     4    70   250   350   248   521 0.70 AAA-like domain
+TrwB_AAD_bind        PF10412.4    386 9444928196_1         -            706   0.00041   11.4   0.1   1   1   3.7e-05   0.00086   10.3   0.1    13    42   245   274   234   280 0.80 Type IV secretion-system coupling protein DNA-binding domain
+AAA_10               PF12846.2    328 9444928258_1         -            540   6.6e-05   14.6   1.0   1   4     9e-06   0.00032   12.4   0.0     2    31    86   117    85   124 0.88 AAA-like domain
+AAA_10               PF12846.2    328 9444928258_1         -            540   6.6e-05   14.6   1.0   2   4      0.15       5.3   -1.5   0.0   164   198   212   248   176   259 0.68 AAA-like domain
+AAA_10               PF12846.2    328 9444928258_1         -            540   6.6e-05   14.6   1.0   3   4      0.21       7.2   -1.9   0.0    65    65   259   259   213   340 0.54 AAA-like domain
+AAA_10               PF12846.2    328 9444928258_1         -            540   6.6e-05   14.6   1.0   4   4      0.24       8.4   -2.2   0.0   277   307   414   445   413   451 0.91 AAA-like domain
+FtsK_SpoIIIE         PF01580.13   205 9444928258_1         -            540   0.00035   12.5   0.0   1   1   1.9e-05   0.00067   11.6   0.0    38    58    85   105    59   110 0.83 FtsK/SpoIIIE family
+T2SSE                PF00437.16   277 9444928294_1         -            562   5.3e-88  286.8   0.3   1   2     0.055       3.9   -1.4   0.0   121   166   129   174   108   176 0.84 Type II/IV secretion system protein
+T2SSE                PF00437.16   277 9444928294_1         -            562   5.3e-88  286.8   0.3   2   2   2.8e-89   1.9e-87  284.9   0.3     3   276   189   455   187   456 0.98 Type II/IV secretion system protein
+AAA_10               PF12846.2    328 9444928329_1         -            325   2.5e-05   16.0   0.0   1   1   4.7e-07   3.3e-05   15.6   0.0     4    44    34    82    32   168 0.86 AAA-like domain

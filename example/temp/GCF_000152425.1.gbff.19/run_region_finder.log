@@ -1,0 +1,4 @@
+
+Error: Sequence file ../tmp5/GCF_000152425.1.gbff.19/GCF_000152425.1.gbff.19.gi.faa is empty or misformatted
+
+ERROR!For GCF_000152425.1.gbff.19, no protein was found: No protein was recorded in ../tmp5/GCF_000152425.1.gbff.19/GCF_000152425.1.gbff.19.ptt file!

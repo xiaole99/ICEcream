@@ -1,0 +1,6 @@
+GCF_000152425.1.gbff.9.gbk
+GCF_000152425.1.gbff.6.gbk
+GCF_000152425.1.gbff.1.gbk
+GCF_000152425.1.gbff.19.gbk
+GCF_000152425.1.gbff.17.gbk
+GCF_000152425.1.gbff.10.gbk

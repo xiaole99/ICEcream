@@ -1,0 +1,9 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TIGR02224            TIGR02224    295 9146618677_1         -            311  1.4e-110  358.2   4.3   1   1  8.3e-111  1.7e-110  358.0   3.0     1   295    18   306    18   306 0.97 recomb_XerC: tyrosine recombinase XerC
+TIGR02225            TIGR02225    290 9146618677_1         -            311   5.1e-86  277.5   2.1   1   1   2.9e-86   5.8e-86  277.3   1.5     1   290    18   304    18   304 0.97 recomb_XerD: tyrosine recombinase XerD
+Phage_integrase      PF00589.17   173 9146618677_1         -            311   3.1e-48  153.0   1.8   1   2      0.34      0.67   -1.1   0.0    69    96     6    30     1    90 0.43 Phage integrase family
+Phage_integrase      PF00589.17   173 9146618677_1         -            311   3.1e-48  153.0   1.8   2   2   1.9e-48   3.7e-48  152.8   0.4     2   172   122   291   121   292 0.97 Phage integrase family
+TIGR02249            TIGR02249    315 9146618677_1         -            311   7.4e-40  126.1   5.0   1   2   6.4e-20   1.3e-19   59.7   0.1    13   183    32   208    16   220 0.80 integrase_gron: integron integrase
+TIGR02249            TIGR02249    315 9146618677_1         -            311   7.4e-40  126.1   5.0   2   2   2.2e-22   4.5e-22   67.7   1.2   237   308   225   296   218   299 0.90 integrase_gron: integron integrase

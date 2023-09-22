@@ -1,0 +1,7 @@
+Complete RNA information
+tRNA: 4
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+98572..98646	+	75	tRNA	tRNA	-	-	-	tRNA
+303403..303476	-	74	tRNA	tRNA	-	-	-	tRNA
+303501..303587	-	87	tRNA	tRNA	-	-	-	tRNA
+308623..308696	-	74	tRNA	tRNA	-	-	-	tRNA

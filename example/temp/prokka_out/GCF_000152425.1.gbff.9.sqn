@@ -1,0 +1,149 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 9 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 21 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2023 } } } ,
+        create-date
+          std {
+            year 2023 ,
+            month 9 ,
+            day 21 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "NZ_DS990154.1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 819 ,
+            seq-data
+              iupacna "AAATTTGAACGTACGAAACCGCACGTAAACGTTGGTACTATCGGCCACGTTGACC
+ACGGTAAAACAACTCTAACTGCAGCTATCTGTACTGTACTTGCAAAAGTATACGGCGGTAAAGCTCGTGACTTCGCGT
+CAATCGACAACGCACCAGAAGAGCGTGAGCGTGGTATTACAATCAATACTTCTCACGTAGAGTACGATACTCCAAACC
+GTCACTACGCACACGTAGACTGTCCAGGACACGCGGATTATGTTAAGAACATGATCACCGGTGCAGCACAGATGGACG
+GCGGTATCCTAGTTGTAGCGGCAACTGACGGTCCAATGCCACAAACTCGTGAGCACATCCTGCTGGGTCGCCAAGTAG
+GTATTCCTTACATCATCGTATTCATGAACAAGTGTGACATGGTTGACGATGAAGAGCTTCTAGAGCTGGTAGAGATGG
+AAGTTCGTGAGCTGCTGTCTGAGTACGATTTCCCAGGTGATGACCTGCCAGTAATCCAAGGTTCAGCACTAGGCGCGC
+TAAACGGCGAAGCACAGTGGGAAGCGAAGATTGTTGAGCTAGCAGAAGCACTGGATACTAATTCCAGAGCCAGAGCGT
+GCAGTAGACATGGCATTCCTGATGCCAATCGAAGACGTATTCTCAATCCAAGGTCGTGGTACAGTAGTAACTGGCCGT
+ATCGAGCGCGGCATCCTGAAAGTGGGTGACGAAGTAGCGATCGTTGGTATCAAAGAGACAGTAAAAACGACCTGTACA
+GGTGTAGAGATGTTCCGTAAGCTGCTTGACGAAGGTCGTGCAGGTGAGAACGTAGGTGCACT" } } ,
+        seq {
+          id {
+            local
+              str "NZ_DS990154.1_1" } ,
+          descr {
+            title "Elongation factor Tu [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 148 ,
+            seq-data
+              ncbieaa "MITGAAQMDGGILVVAATDGPMPQTREHILLGRQVGIPYIIVFMNKCDMVDDEEL
+LELVEMEVRELLSEYDFPGDDLPVIQGSALGALNGEAQWEAKIVELAEALDTNSRARACSRHGIPDANRRRILNPRSW
+YSSNWPYRARHPESG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 2 ,
+                    data
+                      prot {
+                        name {
+                          "Elongation factor Tu" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 147 ,
+                        id
+                          local
+                            str "NZ_DS990154.1_1" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "NZ_DS990154.1_1" ,
+                location
+                  int {
+                    from 261 ,
+                    to 707 ,
+                    strand plus ,
+                    id
+                      local
+                        str "NZ_DS990154.1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_00118_B" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "tuf" ,
+                        locus-tag "LLBAAECG_00001" } } } } } } } } } }

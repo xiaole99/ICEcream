@@ -1,0 +1,7 @@
+>Feature NZ_DS990154.1
+262	708	CDS
+			gene	tuf
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00118_B
+			locus_tag	LLBAAECG_00001
+			product	Elongation factor Tu

@@ -1,0 +1,167 @@
+***********************************************************
+Candidate region0:candidate_region_left..candidate_region_right:543959..1075188
+Candidate region0:core_protein: 583738..584886	+	382	3999573500	DQL28_RS03045	T4SS	Pfam-B_706
+Candidate region0:core_protein: 595240..597522	-	760	3999573511	DQL28_RS03100	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 598863..599597	+	244	3999573514	DQL28_RS03115	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 607946..609607	+	553	3999573523	recN	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 610945..611796	+	283	3999573525	DQL28_RS03170	T4SS	TrbC_Ftype
+Candidate region0:core_protein: 667653..668279	+	208	3999573576	udk	T4SS	T2SSE
+Candidate region0:core_protein: 691766..693550	+	594	3999573600	DQL28_RS03545	T4CP	T4SS-DNA_transf
+Candidate region0:core_protein: 694264..695130	+	288	3999573603	DQL28_RS03565	T4SS	DUF2976
+Candidate region0:core_protein: 695718..698144	+	808	3999573606	DQL28_RS03580	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 726119..727828	+	569	3999573624	DQL28_RS03670	T4CP	FtsK_SpoIIIE
+Candidate region0:core_protein: 727831..728661	+	276	3999573625	DQL28_RS09450	T4SS	T2SSE
+Candidate region0:core_protein: 732018..733697	+	559	3999573631	DQL28_RS03695	Integrase	Recombinase
+Candidate region0:core_protein: 743365..744716	-	449.666666666667	3999573641	DQL28_RS03760	Integrase	rve
+Candidate region0:core_protein: 755172..755912	-	246	3999573654	DQL28_RS03820	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 766508..767488	-	326	3999573664	DQL28_RS03875	Integrase	rve
+Candidate region0:core_protein: 779721..780419	-	232	3999573674	DQL28_RS03930	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 790797..791426	+	209	3999573683	DQL28_RS03975	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 803671..804372	+	233	3999573697	DQL28_RS04045	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 817738..818541	+	267	3999573711	pstB	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 818554..819312	+	252	3999573712	pstB	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 829632..831164	+	510	3999573722	DQL28_RS04175	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 850987..852531	+	514	3999573742	DQL28_RS04275	T4CP	FtsK_SpoIIIE
+Candidate region0:core_protein: 858549..860111	+	520	3999573748	ffh	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 861395..862465	+	356	3999573750	xerS	Integrase	TIGR02224
+Candidate region0:core_protein: 884251..885099	-	282	3999573773	ylqF	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 895161..896888	-	575	3999573783	DQL28_RS04480	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 1000091..1001998	-	635	3999573880	DQL28_RS04980	T4SS	T2SSE
+Candidate region0:core_protein: 1005183..1005941	-	252	3999573884	DQL28_RS05000	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 1041787..1044060	-	757	3999573928	DQL28_RS05215	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 1055426..1056565	+	379	3999573948	DQL28_RS05310	Integrase	Phage_integrase
+Candidate region0:conj_region0:conj_region[0][0]..conj_region[0][1]:583738..584886
+Candidate region0:conj_region1:conj_region[1][0]..conj_region[1][1]:610945..611796
+Candidate region0:conj_region2:conj_region[2][0]..conj_region[2][1]:667653..668279
+Candidate region0:conj_region3:conj_region[3][0]..conj_region[3][1]:691766..695130
+Candidate region0:conj_region4:conj_region[4][0]..conj_region[4][1]:726119..728661
+Candidate region0:conj_region5:conj_region[5][0]..conj_region[5][1]:850987..852531
+Candidate region0:conj_region6:conj_region[6][0]..conj_region[6][1]:1000091..1001998
+
+Candidate region0: noDR:conj_region0:583738..584886;int_region:732018..733697;ice:583738..584886
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:0	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;1149
+
+Candidate region0: noDR:conj_region1:610945..611796;int_region:732018..733697;ice:610945..611796
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:1	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;852
+
+Candidate region0: noDR:conj_region2:667653..668279;int_region:732018..733697;ice:667653..668279
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:2	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;627
+
+Candidate region0: noDR:conj_region3:691766..695130;int_region:766508..767488;ice:691766..744716
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 2 1 2 0 2 0 0 -5 
+e2:3	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:2;0;1;0;52951
+
+Candidate region0: noDR:conj_region4:726119..728661;int_region:861395..862465;ice:726119..767488
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 3 1 1 0 1 0 0 -5 
+e2:4	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:3;0;0;0;41370
+
+Candidate region0: noDR:conj_region5:850987..852531;int_region:1055426..1056565;ice:850987..862465
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 1 1 0 0 0 0 -5 
+e2:5	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;0;0;11479
+
+Candidate region0: noDR:conj_region6:1000091..1001998;int_region:1055426..1056565;ice:1000091..1001998
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:6	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region0:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;1908
+***********************************************************
+Candidate region1:candidate_region_left..candidate_region_right:1254667..1567845
+Candidate region1:core_protein: 1276290..1276982	-	230	3999574150	ftsE	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1340961..1342418	+	485	3999574229	DQL28_RS06755	Integrase	Recombinase
+Candidate region1:core_protein: 1345081..1345644	+	187	3999574234	thiT	T4SS	VirB3
+Candidate region1:core_protein: 1367678..1369141	-	487	3999574258	ftsY	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1423426..1424928	-	500	3999574317	DQL28_RS07190	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1433214..1435367	+	717	3999574332	DQL28_RS07260	T4SS	T2SSE
+Candidate region1:core_protein: 1448180..1449076	-	298	3999574348	era	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1450861..1451913	-	350	3999574352	DQL28_RS07370	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1460777..1463182	-	801	3999574363	DQL28_RS07425	T4CP	FtsK_SpoIIIE
+Candidate region1:core_protein: 1465208..1465933	-	241	3999574366	DQL28_RS07440	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1479080..1479331	-	83	3999574382	DQL28_RS07520	T4SS	DUF2976
+Candidate region1:core_protein: 1488176..1488883	-	235	3999574389	DQL28_RS07565	T4SS	DUF3487
+Candidate region1:core_protein: 1501702..1502337	-	211	3999574400	tmk	T4SS	T2SSE
+Candidate region1:core_protein: 1522755..1523501	-	248	3999574423	xerD	Integrase	Phage_integrase
+Candidate region1:core_protein: 1526831..1527520	-	229	3999574429	DQL28_RS07780	T4SS	DUF3487
+Candidate region1:core_protein: 1539268..1540578	-	436	3999574440	der	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1547582..1548139	-	185	3999574448	DQL28_RS07875	T4SS	T4SS
+Candidate region1:core_protein: 1554766..1555830	-	354	3999574455	DQL28_RS07910	T4SS ATPase	AAA_10
+Candidate region1:core_protein: 1563647..1564765	-	372	3999574465	yqeH	T4SS	T2SSE
+Candidate region1:conj_region0:conj_region[0][0]..conj_region[0][1]:1345081..1345644
+Candidate region1:conj_region1:conj_region[1][0]..conj_region[1][1]:1433214..1435367
+Candidate region1:conj_region2:conj_region[2][0]..conj_region[2][1]:1460777..1463182
+Candidate region1:conj_region3:conj_region[3][0]..conj_region[3][1]:1479080..1479331
+Candidate region1:conj_region4:conj_region[4][0]..conj_region[4][1]:1488176..1488883
+Candidate region1:conj_region5:conj_region[5][0]..conj_region[5][1]:1501702..1502337
+Candidate region1:conj_region6:conj_region[6][0]..conj_region[6][1]:1526831..1527520
+Candidate region1:conj_region7:conj_region[7][0]..conj_region[7][1]:1547582..1548139
+Candidate region1:conj_region8:conj_region[8][0]..conj_region[8][1]:1563647..1564765
+
+Candidate region1: noDR:conj_region0:1345081..1345644;int_region:1522755..1523501;ice:1340961..1345644
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 0 1 0 0 -1 
+e2:0	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;0;0;4684
+
+Candidate region1: noDR:conj_region1:1433214..1435367;int_region:1522755..1523501;ice:1433214..1435367
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:1	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;2154
+
+Candidate region1: noDR:conj_region2:1460777..1463182;int_region:1522755..1523501;ice:1460777..1463182
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 1 0 0 0 0 0 
+e2:2	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:0;0;0;0;2406
+
+Candidate region1: noDR:conj_region3:1479080..1479331;int_region:..;ice:1479080..1523501
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 0 3 0 0 -5 
+e2:3	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;1;0;44422
+
+Candidate region1: noDR:conj_region4:1488176..1488883;int_region:..;ice:1488176..1523501
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 0 2 0 0 -5 
+e2:4	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;1;0;35326
+
+Candidate region1: noDR:conj_region5:1501702..1502337;int_region:..;ice:1501702..1523501
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 0 1 0 0 -5 
+e2:5	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;0;0;21800
+
+Candidate region1: noDR:conj_region6:1526831..1527520;int_region:..;ice:1522755..1527520
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 0 1 0 0 -1 
+e2:6	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;0;0;4766
+
+Candidate region1: noDR:conj_region7:1547582..1548139;int_region:..;ice:1522755..1548139
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 1 0 0 2 0 0 -1 
+e2:7	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;1;0;25385
+
+Candidate region1: noDR:conj_region8:1563647..1564765;int_region:..;ice:1522755..1564765
+0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 2 0 0 3 0 0 -1 
+e2:8	ice_tag;aic_tag;ime_tag:0,0,0
+Candidate region1:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;0;1;0;42011
+***********************************************************
+Candidate region2:candidate_region_left..candidate_region_right:1724070..1846758
+Candidate region2:core_protein: 1806876..1807718	-	280	3999574680	DQL28_RS09115	T4SS ATPase	AAA_10
+Candidate region2:core_protein: 1819812..1821029	-	405	3999574692	DQL28_RS09180	Integrase	Phage_integrase
+Candidate region2:core_protein: 1827851..1830028	-	725	3999574703	DQL28_RS09240	T4SS	TrbL
+Candidate region2:core_protein: 1830031..1832478	-	815	3999574704	DQL28_RS09245	T4SS ATPase	AAA_10
+Candidate region2:core_protein: 1833557..1833778	-	73	3999574707	DQL28_RS09260	T4SS	TrbC
+Candidate region2:core_protein: 1833821..1835026	-	401	3999574708	DQL28_RS09265	Relaxase	Rep_trans
+Candidate region2:core_protein: 1835204..1836589	-	461	3999574710	DQL28_RS09275	T4CP	FtsK_SpoIIIE
+Candidate region2:core_protein: 1840958..1841830	+	290	3999574715	DQL28_RS09305	T4SS	VirB3
+Candidate region2:conj_region0:conj_region[0][0]..conj_region[0][1]:1827851..1836589
+Candidate region2:conj_region1:conj_region[1][0]..conj_region[1][1]:1840958..1841830
+Candidate region2:dr_position108:0int;1VirB4&traU;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 3 2 1 1 3 0 0 10	candidate_dr_count:1;candidate_dr_region:1740118..1740132;candidate_dr_down_region:1845224..1845238;temnimal position:13..107	ice_score,aic_score,ime_score:15,0,0
+Candidate region2:dr_position108:0int;1VirB4&traU;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 1 1 1 3 0 0 7	candidate_dr_count:22;candidate_dr_region:1814265..1814279;candidate_dr_down_region:1843646..1843660;temnimal position:78..107	ice_score,aic_score,ime_score:4,0,0
+
+Candidate region2: withDR: dr_desc: 1740118..1740132	1845224..1845238;ice:1740118..1845238
+e1:0	ice_tag;aic_tag;ime_tag:4,0,0
+Candidate region2:int_tag;mob_tag;t4ss_tag;gc_diff_tag;ice_len:1;1;1;1;105121

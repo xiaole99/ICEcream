@@ -1,0 +1,10 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Phage_integrase      PF00589.17   173 4495763237_1         -            703   3.8e-07   19.2   0.2   1   1   4.2e-07   3.4e-06   16.2   0.1    13   166   310   516   298   518 0.80 Phage integrase family
+TIGR02224            TIGR02224    295 4495763238_1         -            562   5.8e-06   14.8   0.2   1   1   1.6e-06   1.3e-05   13.7   0.1     2    76    52   126    51   134 0.83 recomb_XerC: tyrosine recombinase XerC
+Phage_integrase      PF00589.17   173 4495763239_1         -            400     2e-13   39.7   0.9   1   1   1.5e-13   4.1e-13   38.7   0.6    21   169   202   377   184   381 0.78 Phage integrase family
+TIGR02224            TIGR02224    295 4495763239_1         -            400   1.2e-10   30.2   0.5   1   1   9.2e-11   2.4e-10   29.2   0.4   109   275   181   375   149   385 0.68 recomb_XerC: tyrosine recombinase XerC
+TIGR02225            TIGR02225    290 4495763239_1         -            400   2.5e-08   22.6   2.0   1   2     0.064      0.17    0.1   0.0    63    89    60    87    47   105 0.75 recomb_XerD: tyrosine recombinase XerD
+TIGR02225            TIGR02225    290 4495763239_1         -            400   2.5e-08   22.6   2.0   2   2   3.8e-08     1e-07   20.5   0.1   136   249   216   345   161   385 0.77 recomb_XerD: tyrosine recombinase XerD
+Phage_integrase      PF00589.17   173 4495763245_1         -            267   5.4e-05   12.2   0.0   1   1   9.9e-06   7.9e-05   11.7   0.0     3   161    95   246    93   254 0.74 Phage integrase family

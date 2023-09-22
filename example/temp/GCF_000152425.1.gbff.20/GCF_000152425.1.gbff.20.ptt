@@ -1,0 +1,72 @@
+Vibrio cholerae MO10 supercont1.8, whole genome shotgun sequence. - 1..71944
+69 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+193..1533	-	446	2821159760	pssA	VCHOM_RS00485	-	-	CDP-diacylglycerol--serine O-phosphatidyltransferase
+1628..2050	-	140	2821159761	-	VCHOM_RS00475	-	-	GNAT family N-acetyltransferase
+2087..3160	+	357	2821159762	murB	VCHOM_RS00470	-	-	UDP-N-acetylmuramate dehydrogenase
+3157..4119	+	320	2821159763	birA	VCHOM_RS00465	-	-	bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA
+4169..5092	-	307	2821159764	coaA	VCHOM_RS00460	-	-	type I pantothenate kinase
+6641..6992	+	116.333333333333	2821159765	-	VCHOM_RS19470	-	-	elongation factor Tu
+7216..7596	+	126	2821159766	secE	VCHOM_RS00435	-	-	preprotein translocase subunit SecE
+7612..8160	+	182	2821159767	nusG	VCHOM_RS00430	-	-	transcription termination/antitermination protein NusG
+8291..8719	+	142	2821159768	rplK	VCHOM_RS00425	-	-	50S ribosomal protein L11
+8724..9425	+	233	2821159769	rplA	VCHOM_RS00420	-	-	50S ribosomal protein L1
+9695..10183	+	162	2821159770	rplJ	VCHOM_RS00415	-	-	50S ribosomal protein L10
+10250..10615	+	121	2821159771	rplL	VCHOM_RS00410	-	-	50S ribosomal protein L7/L12
+10856..14881	+	1341	2821159772	rpoB	VCHOM_RS00405	-	-	DNA-directed RNA polymerase subunit beta
+14986..19191	+	1401	2821159773	rpoC	VCHOM_RS00400	-	-	DNA-directed RNA polymerase subunit beta'
+19302..19790	-	162	2821159774	-	VCHOM_RS00395	-	-	Rsd/AlgQ family anti-sigma factor
+19974..20750	+	258	2821159775	nudC	VCHOM_RS00390	-	-	NAD(+) diphosphatase
+21005..22072	+	355	2821159776	hemE	VCHOM_RS00385	-	-	uroporphyrinogen decarboxylase
+22171..22806	+	211	2821159777	-	VCHOM_RS00380	-	-	TetR/AcrR family transcriptional regulator
+22893..23852	+	319	2821159778	-	VCHOM_RS00375	-	-	hypothetical protein
+23849..24997	-	382	2821159779	-	VCHOM_RS00370	-	-	murein hydrolase activator EnvC
+25166..26698	-	510	2821159780	gpmM	VCHOM_RS00365	-	-	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+26841..27728	-	295	2821159781	-	VCHOM_RS00360	-	-	DMT family transporter
+27880..29295	-	471	2821159782	-	VCHOM_RS00355	-	-	SLC13 family permease
+29503..30360	-	285	2821159783	asd	VCHOM_RS00350	-	-	archaetidylserine decarboxylase
+30456..31517	-	353	2821159784	rsgA	VCHOM_RS00345	-	-	small ribosomal subunit biogenesis GTPase RsgA
+31640..32185	+	181	2821159785	orn	VCHOM_RS00340	-	-	oligoribonuclease
+34000..35109	-	369	2821159786	queG	VCHOM_RS00320	-	-	tRNA epoxyqueuosine(34) reductase QueG
+35314..35778	+	154	2821159787	tsaE	VCHOM_RS00315	-	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+35772..37490	+	572	2821159788	-	VCHOM_RS00310	-	-	N-acetylmuramoyl-L-alanine amidase
+37497..39458	+	653	2821159789	mutL	VCHOM_RS00305	-	-	DNA mismatch repair endonuclease MutL
+39455..40402	+	315	2821159790	miaA	VCHOM_RS00300	-	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+40574..40837	+	87	2821159791	hfq	VCHOM_RS00295	-	-	RNA chaperone Hfq
+40870..42159	+	429	2821159792	hflX	VCHOM_RS00290	-	-	GTPase HflX
+42205..43392	+	395	2821159793	hflK	VCHOM_RS00285	-	-	FtsH protease activity modulator HflK
+43395..44375	+	326	2821159794	hflC	VCHOM_RS00280	-	-	protease modulator HflC
+44436..44624	+	62	2821159795	-	VCHOM_RS00275	-	-	DUF2065 domain-containing protein
+44665..44883	-	72	2821159796	-	VCHOM_RS00270	-	-	SlyX family protein
+44895..45830	-	311	2821159797	-	VCHOM_RS00265	-	-	hypothetical protein
+46015..46794	+	259	2821159798	fkpA	VCHOM_RS00260	-	-	FKBP-type peptidyl-prolyl cis-trans isomerase
+46999..47715	+	238	2821159799	-	VCHOM_RS00255	-	-	transcriptional regulator
+47712..48107	+	131	2821159800	tusD	VCHOM_RS00250	-	-	sulfurtransferase complex subunit TusD
+48104..48460	+	118	2821159801	tusC	VCHOM_RS00245	-	-	sulfurtransferase complex subunit TusC
+48470..48745	+	91	2821159802	tusB	VCHOM_RS00240	-	-	sulfurtransferase complex subunit TusB
+48930..49304	+	124	2821159803	rpsL	VCHOM_RS00235	-	-	30S ribosomal protein S12
+49420..49890	+	156	2821159804	rpsG	VCHOM_RS00230	-	-	30S ribosomal protein S7
+49966..52062	+	698	2821159805	fusA	VCHOM_RS00225	-	-	elongation factor G
+53018..53369	+	116.333333333333	2821159806	-	VCHOM_RS18815	-	-	elongation factor Tu
+53672..53860	+	62	2821159807	-	VCHOM_RS00220	-	-	bacterioferritin-associated ferredoxin
+53930..54406	+	158	2821159808	bfr	VCHOM_RS00215	-	-	bacterioferritin
+54618..54986	+	122	2821159809	rpsF	VCHOM_RS00210	-	-	30S ribosomal protein S6
+54994..55296	+	100	2821159810	priB	VCHOM_RS00205	-	-	primosomal replication protein N
+55312..55539	+	75	2821159811	rpsR	VCHOM_RS00200	-	-	30S ribosomal protein S18
+55573..56022	+	149	2821159812	rplI	VCHOM_RS00195	-	-	50S ribosomal protein L9
+56084..56848	-	254	2821159813	-	VCHOM_RS00190	-	-	YdiY family protein
+57019..58425	+	468	2821159814	-	VCHOM_RS00185	-	-	replicative DNA helicase
+58439..59524	+	361	2821159815	alr	VCHOM_RS00180	-	-	alanine racemase
+59607..60026	-	139	2821159816	-	VCHOM_RS00175	-	-	secondary thiamine-phosphate synthase enzyme YjbQ
+60311..61963	+	550	2821159817	pgi	VCHOM_RS00170	-	-	glucose-6-phosphate isomerase
+62166..63344	+	392	2821159818	-	VCHOM_RS00165	-	-	MBL fold metallo-hydrolase
+63461..63922	-	153	2821159819	-	VCHOM_RS00160	-	-	chemotaxis protein CheX
+63932..64396	-	154	2821159820	zur	VCHOM_RS00155	-	-	zinc uptake transcriptional repressor Zur
+64754..65737	+	327	2821159821	dusA	VCHOM_RS00150	-	-	tRNA dihydrouridine(20/20a) synthase DusA
+65898..66110	+	70	2821159822	pspG	VCHOM_RS00145	-	-	envelope stress response protein PspG
+66199..66864	+	221	2821159823	-	VCHOM_RS00140	-	-	TIGR04219 family outer membrane beta-barrel protein
+66830..66988	+	52	2821159824	-	VCHOM_RS00135	-	-	hypothetical protein
+66985..67215	+	76	2821159825	-	VCHOM_RS00130	-	-	hypothetical protein
+67322..69145	+	607	2821159826	-	VCHOM_RS00125	-	-	assimilatory sulfite reductase (NADPH) flavoprotein subunit
+69145..70878	+	577	2821159827	cysI	VCHOM_RS00120	-	-	assimilatory sulfite reductase (NADPH) hemoprotein subunit
+70871..71632	+	253	2821159828	-	VCHOM_RS00115	-	-	phosphoadenylyl-sulfate reductase

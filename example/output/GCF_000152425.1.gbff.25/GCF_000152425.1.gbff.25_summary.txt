@@ -1,0 +1,1 @@
+GCF_000152425.1.gbff.25	Vibrio cholerae MO10 supercont1.3, whole genome shotgun sequence.	454874	ICEfinder_0_1	Putative conjugative region:	297660..391968	94309	-	45.73	47.24	1.51	0	0

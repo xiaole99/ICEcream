@@ -1,0 +1,4 @@
+
+Error: Sequence file ../tmp5/prokka_tmp/GCF_000152425.1.gbff.10/GCF_000152425.1.gbff.10.gi.faa is empty or misformatted
+
+ERROR!For GCF_000152425.1.gbff.10, no protein was found: No protein was recorded in ../tmp5/prokka_tmp/GCF_000152425.1.gbff.10/GCF_000152425.1.gbff.10.ptt file!

@@ -1,0 +1,152 @@
+#Vibrio cholerae MO10 supercont1.1, whole genome shotgun sequence.
+#Genome GC 47.26 %
+#Candidate region: 1127007..1287686
+1127007..1127094	+	88	tRNA	tRNA	-	-	-	tRNA	RNA
+1127407..1128642	+	411	9444927657	-	VCHOM_RS13175	-	-	tyrosine-type recombinase/integrase	INT
+1128738..1129193	+	151	9444927658	-	VCHOM_RS18205	-	-	tyrosine-type recombinase/integrase	INT
+1129324..1131482	-	718.666666666667	9444927659	-	VCHOM_RS13170	-	-	SNF2-related protein
+1132741..1133669	-	308.666666666667	9444927660	-	VCHOM_RS13165	-	-	tape measure domain-containing protein
+1133885..1134244	-	119	9444927661	-	VCHOM_RS13160	-	-	phage tail assembly protein
+1134293..1134664	-	123	9444927662	-	VCHOM_RS13155	-	-	hypothetical protein
+1134725..1135303	-	192	9444927663	-	VCHOM_RS13150	-	-	hypothetical protein
+1135322..1135642	-	106	9444927664	-	VCHOM_RS13145	-	-	Mor transcription activator family protein
+1135629..1136003	-	124	9444927665	-	VCHOM_RS13140	-	-	Mor transcription activator family protein
+1136583..1136816	-	77	9444927666	-	VCHOM_RS13135	-	-	hypothetical protein
+1136813..1137274	-	153	9444927667	-	VCHOM_RS13130	-	-	hypothetical protein
+1137277..1138386	-	369	9444927668	-	VCHOM_RS18210	-	-	ExeA family protein
+1138358..1140115	-	585	9444927669	-	VCHOM_RS13125	-	-	DDE-type integrase/transposase/recombinase	INT
+1140122..1141093	-	323	9444927670	-	VCHOM_RS13120	-	-	hypothetical protein
+1141095..1141391	-	98	9444927671	-	VCHOM_RS18845	-	-	helix-turn-helix domain-containing protein
+1141432..1141767	-	111	9444927672	-	VCHOM_RS13115	-	-	hypothetical protein
+1141757..1141993	-	78	9444927673	-	VCHOM_RS13110	-	-	hypothetical protein
+1142344..1142544	+	66	9444927674	-	VCHOM_RS19760	-	-	hypothetical protein
+1142771..1143085	+	104	9444927675	-	VCHOM_RS18995	-	-	DUF2787 family protein
+1143136..1143582	+	148	9444927676	-	VCHOM_RS13105	-	-	DUF2787 domain-containing protein
+1143689..1144675	+	328	9444927677	-	VCHOM_RS13100	-	-	GTPase family protein
+1144710..1145084	-	124	9444927678	-	VCHOM_RS19960	-	-	inovirus Gp2 family protein
+1145111..1145350	-	79	9444927679	-	VCHOM_RS19965	-	-	hypothetical protein
+1145642..1146487	+	281	9444927680	-	VCHOM_RS13095	-	-	hypothetical protein
+1146602..1146802	-	66	9444927681	-	VCHOM_RS13090	-	-	AlpA family transcriptional regulator
+1147432..1147635	+	67	9444927682	-	VCHOM_RS13085	-	-	DUF2986 domain-containing protein
+1147627..1148100	-	157	9444927683	-	VCHOM_RS13080	-	-	NYN domain-containing protein
+1148224..1148619	-	131	9444927684	-	VCHOM_RS13075	-	-	thiol-disulfide oxidoreductase DCC family protein
+1148760..1150145	+	461	9444927685	-	VCHOM_RS13070	-	-	DASH family cryptochrome
+1150142..1150849	+	235	9444927686	-	VCHOM_RS13065	-	-	SDR family oxidoreductase
+1150860..1151075	-	71	9444927687	-	VCHOM_RS13060	-	-	VF530 family DNA-binding protein
+1151172..1152932	-	586	9444927688	-	VCHOM_RS13055	-	-	sigma-54-dependent Fis family transcriptional regulator
+1153216..1154736	+	506	9444927689	-	VCHOM_RS13050	-	-	aldehyde dehydrogenase family protein
+1155069..1155509	+	146	9444927690	-	VCHOM_RS13045	-	-	PTS sugar transporter subunit IIA
+1155521..1156924	+	467	9444927691	-	VCHOM_RS13040	-	-	fructose-specific PTS transporter subunit EIIC
+1156999..1158864	-	621	9444927692	-	VCHOM_RS13035	-	-	fructose-specific PTS transporter subunit EIIC
+1159081..1159380	+	99	9444927693	-	VCHOM_RS13030	-	-	PTS fructose transporter subunit IIB
+1159389..1160168	+	259	9444927694	-	VCHOM_RS13025	-	-	PTS sugar transporter subunit IIA
+1160160..1160999	-	279	9444927695	-	VCHOM_RS13020	-	-	AraC family transcriptional regulator
+1161371..1163272	+	633	9444927696	-	VCHOM_RS13015	-	-	fructose-specific PTS transporter subunit EIIC
+1163334..1164554	+	406	9444927697	manA	VCHOM_RS13010	-	-	mannose-6-phosphate isomerase, class I
+1164674..1165126	-	150	9444927698	-	VCHOM_RS13005	-	-	L-alanine exporter AlaE
+1165462..1167666	-	734	9444927699	cqsR	VCHOM_RS13000	-	-	hybrid sensor histidine kinase/response regulator CqsR
+1167880..1168452	+	190	9444927700	-	VCHOM_RS12995	-	-	YecA family protein
+1168526..1169587	-	353	9444927701	nadA	VCHOM_RS12990	-	-	quinolinate synthase NadA
+1169761..1170525	-	254	9444927702	ybgF	VCHOM_RS12985	-	-	tol-pal system protein YbgF
+1170541..1171059	-	172	9444927703	pal	VCHOM_RS12980	-	-	peptidoglycan-associated lipoprotein Pal
+1171091..1172416	-	441	9444927704	tolB	VCHOM_RS12975	-	-	Tol-Pal system beta propeller repeat protein TolB
+1172458..1173528	-	356	9444927705	tolA	VCHOM_RS12970	-	-	cell envelope integrity protein TolA
+1173546..1173986	-	146	9444927706	-	VCHOM_RS12965	-	-	ExbD/TolR family protein
+1173989..1174672	-	227	9444927707	tolQ	VCHOM_RS12960	-	-	protein TolQ
+1174662..1175069	-	135	9444927708	ybgC	VCHOM_RS12955	-	-	tol-pal system-associated acyl-CoA thioesterase
+1175548..1175655	-	35	9444927710	cydX	VCHOM_RS12945	-	-	cytochrome bd-I oxidase subunit CydX
+1175668..1176804	-	378	9444927711	cydB	VCHOM_RS12940	-	-	cytochrome d ubiquinol oxidase subunit II
+1176822..1178408	-	528	9444927712	cydA	VCHOM_RS12935	-	-	cytochrome ubiquinol oxidase subunit I
+1178867..1179871	-	334	9444927713	ruvB	VCHOM_RS12930	-	-	Holliday junction branch migration DNA helicase RuvB
+1179927..1180541	-	204	9444927714	ruvA	VCHOM_RS12925	-	-	Holliday junction branch migration protein RuvA
+1180638..1181159	-	173	9444927715	ruvC	VCHOM_RS12920	-	-	crossover junction endodeoxyribonuclease RuvC
+1181247..1182626	-	459	9444927716	cysS	VCHOM_RS12915	-	-	cysteine--tRNA ligase
+1182772..1183266	+	164	9444927717	-	VCHOM_RS12910	-	-	peptidylprolyl isomerase
+1183307..1184047	+	246	9444927718	lpxH	VCHOM_RS12905	-	-	UDP-2,3-diacylglucosamine diphosphatase
+1184176..1185357	+	393	9444927719	-	VCHOM_RS12900	-	-	HDOD domain-containing protein
+1185419..1185874	+	151	9444927720	-	VCHOM_RS18230	-	-	YchJ family protein
+1185906..1186580	-	224	9444927721	-	VCHOM_RS12895	-	-	DUF2057 family protein
+1186699..1187733	-	344	9444927722	ompT	VCHOM_RS12890	-	-	porin OmpT
+1188242..1190317	+	691	9444927723	dinG	VCHOM_RS12885	-	-	ATP-dependent DNA helicase DinG
+1190358..1191134	+	258	9444927724	-	VCHOM_RS12880	-	-	TSUP family transporter
+1191119..1191682	+	187	9444927725	-	VCHOM_RS12875	-	-	primosomal replication protein
+1191683..1191895	+	70	9444927726	rsmS	VCHOM_RS12870	-	-	pleiotropic regulatory protein RsmS
+1191919..1194039	-	706	9444927727	-	VCHOM_RS12865	-	-	methyl-accepting chemotaxis protein
+1194237..1195043	+	268	9444927728	xthA	VCHOM_RS12860	-	-	exodeoxyribonuclease III
+1195102..1195779	-	225	9444927729	-	VCHOM_RS12855	-	-	ABC transporter permease
+1195782..1196522	-	246	9444927730	-	VCHOM_RS12850	-	-	ABC transporter permease
+1196670..1197446	-	258	9444927731	-	VCHOM_RS12845	-	-	ABC transporter substrate-binding protein
+1197631..1198401	-	256	9444927732	-	VCHOM_RS12840	-	-	ABC transporter ATP-binding protein
+1199118..1200659	+	513	9444927733	-	VCHOM_RS12835	-	-	DUF3360 family protein
+1200925..1203201	+	758	9444927734	pflB	VCHOM_RS12830	-	-	formate C-acetyltransferase
+1203379..1204365	+	328	9444927735	-	VCHOM_RS12825	-	-	lipid A deacylase LpxR family protein
+1204383..1206263	-	626	9444927736	-	VCHOM_RS12820	-	-	methyl-accepting chemotaxis protein
+1206596..1207336	+	246	9444927737	pflA	VCHOM_RS12815	-	-	pyruvate formate lyase 1-activating protein
+1207402..1208064	+	220	9444927738	-	VCHOM_RS12810	-	-	energy-coupling factor ABC transporter permease
+1208185..1208685	+	166	9444927739	-	VCHOM_RS12805	-	-	YfbU family protein
+1208926..1210860	+	644	9444927740	-	VCHOM_RS12800	-	-	PrkA family serine protein kinase
+1211005..1212276	+	423	9444927741	-	VCHOM_RS12795	-	-	YeaH/YhbH family protein
+1212289..1213839	+	516	9444927742	-	VCHOM_RS12790	-	-	SpoVR family protein
+1213924..1214682	-	252	9444927743	kdsB	VCHOM_RS12785	-	-	3-deoxy-manno-octulosonate cytidylyltransferase
+1214682..1214861	-	59	9444927744	-	VCHOM_RS12780	-	-	Trm112 family protein
+1214842..1215849	-	335	9444927745	lpxK	VCHOM_RS12775	-	-	tetraacyldisaccharide 4'-kinase
+1215852..1217600	-	582	9444927746	msbA	VCHOM_RS12770	-	-	lipid A ABC transporter ATP-binding protein/permease MsbA
+1217631..1219874	-	747	9444927747	-	VCHOM_RS12765	-	-	DNA internalization-related competence protein ComEC/Rec2
+1219883..1220413	+	176	9444927748	-	VCHOM_RS12760	-	-	DUF2062 domain-containing protein
+1220528..1221772	-	414	9444927749	lolE	VCHOM_RS12755	-	-	lipoprotein-releasing ABC transporter permease subunit LolE
+1221773..1222459	-	228	9444927750	lolD	VCHOM_RS12750	-	-	lipoprotein-releasing ABC transporter ATP-binding protein LolD
+1222452..1223660	-	402	9444927751	lolC	VCHOM_RS12745	-	-	lipoprotein-releasing ABC transporter permease subunit LolC
+1223836..1224411	+	191	9444927752	-	VCHOM_RS12740	-	-	PilZ domain-containing protein
+1224414..1227881	+	1155	9444927753	mfd	VCHOM_RS12735	-	-	transcription-repair coupling factor
+1228057..1228821	+	254	9444927754	-	VCHOM_RS12730	-	-	peptidoglycan binding protein CsiV
+1229156..1231231	+	691	9444927755	-	VCHOM_RS12725	-	-	beta-prism lectin domain-containing protein
+1231516..1232052	+	178	9444927756	-	VCHOM_RS12720	-	-	GNAT family protein
+1232165..1233454	-	429	9444927757	-	VCHOM_RS12715	-	-	NAD(P)/FAD-dependent oxidoreductase
+1233812..1234351	-	179	9444927758	ycfP	VCHOM_RS12710	-	-	alpha/beta hydrolase YcfP
+1234531..1235391	-	286	9444927759	-	VCHOM_RS12705	-	-	phosphotransferase
+1235419..1236009	-	196	9444927760	lpoB	VCHOM_RS12700	-	-	penicillin-binding protein activator LpoB
+1236062..1236451	-	129	9444927761	-	VCHOM_RS12695	-	-	DUF1425 domain-containing protein
+1236451..1237869	-	472	9444927762	-	VCHOM_RS12690	-	COG3014	COG3014 family protein
+1237882..1238232	-	116	9444927763	hinT	VCHOM_RS12685	-	-	purine nucleoside phosphoramidase
+1238492..1240483	+	663	9444927764	-	VCHOM_RS12680	-	-	methyl-accepting chemotaxis protein
+1240653..1241804	+	383	9444927765	-	VCHOM_RS12675	-	-	DUF1887 family protein
+1242356..1243195	-	279	9444927766	fadR	VCHOM_RS12670	-	-	fatty acid metabolism transcriptional regulator FadR
+1243840..1245432	+	530	9444927767	nhaB	VCHOM_RS12665	-	-	Na(+)/H(+) antiporter NhaB
+1245512..1246033	+	173	9444927768	dsbB	VCHOM_RS12660	-	-	disulfide bond formation protein DsbB
+1246109..1248991	-	960	9444927769	ftsK	VCHOM_RS12655	-	-	DNA translocase FtsK
+1249169..1249663	-	164	9444927770	lrp	VCHOM_RS12650	-	-	leucine-responsive transcriptional regulator Lrp
+1249820..1250944	+	374	9444927771	ald	VCHOM_RS12645	-	-	alanine dehydrogenase
+1250986..1252182	-	398	9444927772	-	VCHOM_RS12640	-	-	methyltransferase
+1252244..1253218	-	324	9444927773	cysB	VCHOM_RS12635	-	-	HTH-type transcriptional regulator CysB
+1253507..1254271	+	254	9444927774	-	VCHOM_RS12630	-	-	hypothetical protein
+1254339..1255109	+	256	9444927775	-	VCHOM_RS12625	-	-	tRNA isopentenyl-2-thiomethyl-A-37 hydroxylase MiaE
+1255167..1255862	-	231	9444927776	pyrF	VCHOM_RS12620	-	-	orotidine-5'-phosphate decarboxylase
+1255935..1257104	-	389	9444927777	lapB	VCHOM_RS12615	-	-	lipopolysaccharide assembly protein LapB
+1257116..1257397	-	93	9444927778	-	VCHOM_RS12610	-	-	LapA family protein
+1257536..1257814	-	92	9444927779	ihfB	VCHOM_RS12605	-	-	integration host factor subunit beta
+1258102..1259772	-	556	9444927780	rpsA	VCHOM_RS12600	-	-	30S ribosomal protein S1
+1259881..1260558	-	225	9444927781	cmk	VCHOM_RS12595	-	-	(d)CMP kinase
+1260741..1261052	-	103	9444927782	-	VCHOM_RS12590	-	-	ComEA family DNA-binding protein
+1261187..1263046	-	619	9444927783	ppiD	VCHOM_RS12585	-	-	peptidylprolyl isomerase
+1263199..1263471	-	90	9444927784	-	VCHOM_RS12580	-	-	HU family DNA-binding protein
+1263655..1266015	-	786	9444927785	lon	VCHOM_RS12575	-	-	endopeptidase La
+1266138..1267418	-	426	9444927786	clpX	VCHOM_RS12570	-	-	ATP-dependent protease ATP-binding subunit ClpX
+1267498..1268124	-	208	9444927787	clpP	VCHOM_RS12565	-	-	ATP-dependent Clp endopeptidase proteolytic subunit ClpP
+1268230..1269531	-	433	9444927788	tig	VCHOM_RS12560	-	-	trigger factor
+1269822..1270040	-	72	9444927789	-	VCHOM_RS19765	-	-	hypothetical protein
+1270030..1271823	+	597	9444927790	-	VCHOM_RS12555	-	-	sensor histidine kinase
+1271826..1273166	+	446	9444927791	-	VCHOM_RS12550	-	-	sigma-54 dependent transcriptional regulator
+1273282..1274643	-	453	9444927792	-	VCHOM_RS12545	-	-	TRAP transporter large permease
+1274647..1275309	-	220	9444927793	-	VCHOM_RS12540	-	-	TRAP transporter small permease
+1275377..1276375	-	332	9444927794	dctP	VCHOM_RS12535	-	-	TRAP transporter solute-binding subunit DctP
+1276607..1278076	-	489	9444927795	-	VCHOM_RS12530	-	-	YdiU family protein
+1278645..1279106	+	153	9444927796	-	VCHOM_RS12520	-	-	oxidoreductase
+1279205..1281037	+	610	9444927797	-	VCHOM_RS12515	-	-	bifunctional diguanylate cyclase/phosphodiesterase
+1281116..1281874	+	252	9444927798	-	VCHOM_RS12510	-	-	CDP-alcohol phosphatidyltransferase family protein
+1281877..1282809	+	310	9444927799	-	VCHOM_RS12505	-	-	phosphatidate cytidylyltransferase
+1282817..1283488	+	223	9444927800	-	VCHOM_RS12500	-	-	lysophospholipid acyltransferase family protein
+1283578..1284027	+	149	9444927801	-	VCHOM_RS12495	-	-	thioesterase family protein
+1284321..1284941	+	206	9444927802	-	VCHOM_RS12490	-	-	LysE family translocator
+1284988..1285650	-	220	9444927803	-	VCHOM_RS12485	-	-	HAD-IB family hydrolase
+1285963..1287258	-	431	9444927804	opgC	VCHOM_RS12480	-	-	OpgC domain-containing protein
+1287610..1287686	-	77	tRNA	tRNA	-	-	-	tRNA	RNA

@@ -1,0 +1,4 @@
+V1	V2	V3	V4	V5	V6	V7	V8	V9	V10	V11	V12	V13	start	N	end	ice_family	ice_family_conju_ORF_count	detected_conju_ORF_count	count	miss_ORF	details_file_number
+GCF_900474925.1.gbff.1	Streptococcus pyogenes strain NCTC12050 chromosome 1, complete sequence.	1851237	ICEfinder_2_0	Putative ICE with T4SS:	1740118..1845238	105121	-	37.53	38.59	1.06	0	0	1740118	NA	1845238	Tn916	_11	_11	_1		_1
+GCF_900474925.1.gbff.1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0	NA	1e+07						
+GCF_900474925.1.gbff.1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1825923	NA	1837334	Tn916	11	12	1	NA	2

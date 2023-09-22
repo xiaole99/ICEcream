@@ -1,0 +1,5 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+rve                  PF00665.21   120 1755428480_1         -            391   4.8e-34  106.4   0.0   1   2   1.6e-34   1.3e-33  105.0   0.0     2   120   219   335   218   335 0.98 Integrase core domain
+rve                  PF00665.21   120 1755428480_1         -            391   4.8e-34  106.4   0.0   2   2      0.52       4.1   -3.1   0.0    27    46   344   363   337   368 0.72 Integrase core domain

@@ -1,0 +1,64 @@
+Seq-entry ::= seq {
+  id {
+    local
+      str "NZ_DS990162.1" } ,
+  descr {
+    source {
+      org {
+        taxname "Genus species" ,
+        orgname {
+          mod {
+            {
+              subtype strain ,
+              subname "strain" } } ,
+          gcode 11 } } } ,
+    molinfo {
+      biomol genomic } ,
+    comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+    user {
+      type
+        str "NcbiCleanup" ,
+      data {
+        {
+          label
+            str "method" ,
+          data
+            str "SeriousSeqEntryCleanup" } ,
+        {
+          label
+            str "version" ,
+          data
+            int 8 } ,
+        {
+          label
+            str "month" ,
+          data
+            int 1 } ,
+        {
+          label
+            str "day" ,
+          data
+            int 1 } ,
+        {
+          label
+            str "year" ,
+          data
+            int 2019 } } } ,
+    create-date
+      std {
+        year 2019 ,
+        month 1 ,
+        day 1 } } ,
+  inst {
+    repr raw ,
+    mol dna ,
+    length 517 ,
+    seq-data
+      iupacna "ACTGAGTTTAGCGTTATGCGTTGCCAGCCCCTTAGGCGGGCGTTAGTTTCTATCTAGAAAAAA
+TCATCAAAAGTTCAGATTCATGCCCTGAATAATCAGCTTTAAACGTTCAAGTCTCACTATTTGGCTTTTGAGTTTTTC
+CTGATGCTGATTTGGTAGAAAGTGTTGAAATTTCAGATAGTTAAAAGTCGCTGAGAACCAACAAACTTCTAAGCTTCA
+ATGTTGTCGGATATTCAACACGGCAAATTTGGTTTCACAAAGGCTGCATCATCGCTGTGATCTGGTTTTCTTTGTCGT
+GGACTCTAAACATGACCAACTTAACCTTGACCGTTTTGAGTTTTGGCAGCTAACTTCACAGCTTTTGGTGTTGGACGT
+GTGTTTGTTCGATGCATTTGCGTAAAATGGTCTTCAAACAAATGTTTTAAAAAAGTCATTGTTAAACAATGGGCTACG
+AAACTAACAAACGCCTCAAGAGGGACTGTCAACGCGTAGCGTTTCCAGTCCCAATGAGCCGTAG" } }

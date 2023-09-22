@@ -1,0 +1,53 @@
+Candidate region0:candidate_region_left..candidate_region_right:1..454874
+Candidate region0:core_protein: 10531..13353	-	940	2653577780	uvrA	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 24250..25977	+	575	2653577791	VCHOM_RS05225	T4SS	T2SSE
+Candidate region0:core_protein: 84171..85208	+	345	2653577846	VCHOM_RS04910	T4SS	T2SSE
+Candidate region0:core_protein: 85223..86329	+	368	2653577847	VCHOM_RS04905	T4SS	T2SSE
+Candidate region0:core_protein: 141654..142895	-	413	2653577898	VCHOM_RS04655	Integrase	Phage_integrase
+Candidate region0:core_protein: 148039..149058	+	339	2653577903	tsaD	Relaxase	TrwC
+Candidate region0:core_protein: 165635..166765	+	376	2653577922	VCHOM_RS04530	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 187541..188926	+	461	2653577939	ffh	T4SS	T2SSE
+Candidate region0:core_protein: 209803..210720	+	305	2653577964	VCHOM_RS04275	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 234531..235380	+	282.333333333333	2653577983	VCHOM_RS04180	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 297660..298901	-	413	2653578032	VCHOM_RS03925	Integrase	Phage_integrase
+Candidate region0:core_protein: 341990..344140	+	716	2653578069	mobH	Relaxase	TraI_2
+Candidate region0:core_protein: 344189..346009	+	606	2653578070	traD	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 346566..347201	+	211	2653578072	VCHOM_RS03735	T4SS	DUF4400
+Candidate region0:core_protein: 348006..348287	+	93	2653578075	traL	T4SS	TraL
+Candidate region0:core_protein: 348284..348910	+	208	2653578076	VCHOM_RS03715	T4SS	TraE
+Candidate region0:core_protein: 348894..349790	+	298	2653578077	VCHOM_RS03710	T4SS	TraK
+Candidate region0:core_protein: 349793..351082	+	429	2653578078	VCHOM_RS03705	T4SS	TrbI
+Candidate region0:core_protein: 351157..351729	+	190	2653578079	traV	T4SS	TraV
+Candidate region0:core_protein: 351726..352112	+	128	2653578080	traA	T4SS	TrbC
+Candidate region0:core_protein: 354187..354879	+	230	2653578083	VCHOM_RS03680	T4SS	TraF
+Candidate region0:core_protein: 354879..357278	+	799	2653578084	traC	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 358125..359249	+	374	2653578087	VCHOM_RS03660	T4SS	Pfam-B_1474
+Candidate region0:core_protein: 359233..360261	+	342	2653578088	VCHOM_RS03655	T4SS	TraU
+Candidate region0:core_protein: 360264..363962	+	1232	2653578089	traN	T4SS	TraN
+Candidate region0:core_protein: 371969..372928	+	319	2653578100	VCHOM_RS03600	T4SS	T2SSE
+Candidate region0:core_protein: 385596..386540	+	314	2653578111	VCHOM_RS03545	T4SS	TraF
+Candidate region0:core_protein: 386543..387931	+	462	2653578112	VCHOM_RS03540	T4SS	TraH
+Candidate region0:core_protein: 387935..391504	+	1189	2653578113	VCHOM_RS03535	T4SS	TraG_N
+Candidate region0:core_protein: 391537..391968	-	143	2653578114	eexS	T4SS	TraL
+Candidate region0:core_protein: 438731..440398	-	555	2653578159	ettA	T4SS ATPase	AAA_10
+Candidate region0:core_protein: 452050..454623	+	857	2653578170	clpB	T4SS ATPase	AAA_10
+Candidate region0:conj_region0:conj_region[0][0]..conj_region[0][1]:24250..25977
+Candidate region0:conj_region1:conj_region[1][0]..conj_region[1][1]:84171..86329
+Candidate region0:conj_region2:conj_region[2][0]..conj_region[2][1]:148039..149058
+Candidate region0:conj_region3:conj_region[3][0]..conj_region[3][1]:187541..188926
+Candidate region0:conj_region4:conj_region[4][0]..conj_region[4][1]:341990..391968
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 1 0 0 0 
+e2:0	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 0
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:0;0;1;1728
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 0 0 0 0 2 0 0 -1 
+e2:0	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 0
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:0;0;1;2159
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 0 1 0 0 0 -2 
+e2:0	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 1
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:1;1;0;7405
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 1 0 1 1 0 0 -1 
+e2:1	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 1
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:1;1;1;47273
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 2 0 1 16 0 0 -1 
+e2:1	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,18,0, 1
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:1;1;1;94309

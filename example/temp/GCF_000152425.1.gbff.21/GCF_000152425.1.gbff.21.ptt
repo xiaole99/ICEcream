@@ -1,0 +1,77 @@
+Vibrio cholerae MO10 supercont1.7, whole genome shotgun sequence. - 1..75854
+74 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+225..749	-	174	3737582334	hemG	VCHOM_RS00860	-	-	menaquinone-dependent protoporphyrinogen IX dehydrogenase
+772..2229	-	485	3737582335	-	VCHOM_RS00855	-	-	TrkH family potassium uptake protein
+2249..2881	-	210	3737582336	-	VCHOM_RS00850	-	-	YigZ family protein
+3092..5263	+	723	3737582337	fadB	VCHOM_RS00845	-	-	fatty acid oxidation complex subunit alpha FadB
+5289..6452	+	387	3737582338	fadA	VCHOM_RS00840	-	-	acetyl-CoA C-acyltransferase FadA
+6519..7424	-	301	3737582339	punR	VCHOM_RS00835	-	-	DNA-binding transcriptional activator PunR
+7583..8785	+	400	3737582340	punC	VCHOM_RS00830	-	-	purine nucleoside transporter PunC
+8847..10208	-	453	3737582341	glmU	VCHOM_RS00825	-	-	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+10455..10877	-	140	3737582342	-	VCHOM_RS00820	-	-	F0F1 ATP synthase subunit epsilon
+10896..12299	-	467	3737582343	atpD	VCHOM_RS00815	-	-	F0F1 ATP synthase subunit beta
+12334..13200	-	288	3737582344	atpG	VCHOM_RS00810	-	-	F0F1 ATP synthase subunit gamma
+13245..14786	-	513	3737582345	atpA	VCHOM_RS00805	-	-	F0F1 ATP synthase subunit alpha
+14800..15333	-	177	3737582346	atpH	VCHOM_RS00800	-	-	F0F1 ATP synthase subunit delta
+15348..15818	-	156	3737582347	atpF	VCHOM_RS00795	-	-	F0F1 ATP synthase subunit B
+15892..16149	-	85	3737582348	atpE	VCHOM_RS00790	-	-	F0F1 ATP synthase subunit C
+16193..17005	-	270	3737582349	atpB	VCHOM_RS00785	-	-	F0F1 ATP synthase subunit A
+17014..17403	-	129	3737582350	-	VCHOM_RS00780	-	-	F0F1 ATP synthase subunit I
+17593..18474	-	293	3737582351	-	VCHOM_RS00775	-	-	ParB/RepB/Spo0J family partition protein
+18521..19294	-	257	3737582352	-	VCHOM_RS00770	-	-	ParA family protein
+19309..19941	-	210	3737582353	rsmG	VCHOM_RS00765	-	-	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+19941..21836	-	631	3737582354	mnmG	VCHOM_RS00760	-	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+22311..22745	-	144	3737582355	mioC	VCHOM_RS00750	-	-	FMN-binding protein MioC
+22755..24116	-	453	3737582356	mnmE	VCHOM_RS00745	-	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+24210..25835	-	541	3737582357	yidC	VCHOM_RS00740	-	-	membrane protein insertase YidC
+25838..26095	-	85	3737582358	yidD	VCHOM_RS18800	-	-	membrane protein insertion efficiency factor YidD
+26062..26385	-	107	3737582359	rnpA	VCHOM_RS00735	-	-	ribonuclease P protein component
+26431..26568	-	45	3737582360	rpmH	VCHOM_RS00730	-	-	50S ribosomal protein L34
+26810..27547	-	245	3737582361	-	VCHOM_RS00725	-	-	ATP-binding cassette domain-containing protein
+27544..28215	-	223	3737582362	-	VCHOM_RS00720	-	-	amino acid ABC transporter permease
+28293..29039	-	248	3737582363	-	VCHOM_RS00715	-	-	amino acid ABC transporter substrate-binding protein
+29351..30754	+	467	3737582364	dnaA	VCHOM_RS00710	-	-	chromosomal replication initiator protein DnaA
+30812..31912	+	366	3737582365	dnaN	VCHOM_RS00705	-	-	DNA polymerase III subunit beta
+31930..33021	+	363	3737582366	recF	VCHOM_RS00700	-	-	DNA replication/repair protein RecF
+33042..35459	+	805	3737582367	gyrB	VCHOM_RS00695	-	-	DNA topoisomerase (ATP-hydrolyzing) subunit B
+35884..36306	+	140	3737582368	-	VCHOM_RS00690	-	-	hypothetical protein
+36708..37145	+	145	3737582369	-	VCHOM_RS00685	-	-	Hsp20 family protein
+37233..38489	-	418	3737582370	-	VCHOM_RS00680	-	-	valine--pyruvate transaminase
+39109..41175	-	688	3737582371	glyS	VCHOM_RS00675	-	-	glycine--tRNA ligase subunit beta
+41190..42107	-	305	3737582372	glyQ	VCHOM_RS00670	-	-	glycine--tRNA ligase subunit alpha
+42523..43077	+	184	3737582373	-	VCHOM_RS00665	-	-	TMEM165/GDT1 family protein
+43183..43440	+	85	3737582374	-	VCHOM_RS00660	-	-	hypothetical protein
+43527..43775	-	82	3737582375	tusA	VCHOM_RS00655	-	-	sulfurtransferase TusA
+43911..44096	+	61	3737582376	-	VCHOM_RS00650	-	-	hypothetical protein
+44268..45248	-	326	3737582377	-	VCHOM_RS00645	-	-	MDR family oxidoreductase
+45496..47028	-	510	3737582378	ilvA	VCHOM_RS00640	-	-	threonine ammonia-lyase, biosynthetic
+47032..48873	-	613	3737582379	ilvD	VCHOM_RS00635	-	-	dihydroxy-acid dehydratase
+48883..49821	-	312	3737582380	ilvE	VCHOM_RS00630	-	-	branched-chain-amino-acid transaminase
+49833..50117	-	94	3737582381	ilvM	VCHOM_RS00625	-	-	acetolactate synthase 2 small subunit
+50129..51775	-	548	3737582382	ilvG	VCHOM_RS00620	-	-	acetolactate synthase 2 catalytic subunit
+52309..53832	+	507	3737582383	-	VCHOM_RS00615	-	-	YifB family Mg chelatase-like AAA ATPase
+53922..54806	+	294	3737582384	-	VCHOM_RS00610	-	-	acyltransferase
+54884..55486	-	200	3737582385	-	VCHOM_RS00605	-	-	thiol:disulfide interchange protein DsbA/DsbL
+55517..56503	-	328	3737582386	-	VCHOM_RS00600	-	-	serine/threonine protein kinase
+56551..57975	-	474	3737582387	ccoG	VCHOM_RS00595	-	-	cytochrome c oxidase accessory protein CcoG
+58392..58658	-	88	3737582388	-	VCHOM_RS00590	-	-	YihD family protein
+59219..60010	+	263	3737582389	-	VCHOM_RS00585	-	-	sporulation protein
+60094..60735	+	213	3737582390	-	VCHOM_RS00580	-	-	hemolysin III family protein
+60774..61331	-	185	3737582391	-	VCHOM_RS00575	-	-	DUF3157 family protein
+61343..62788	-	481	3737582392	-	VCHOM_RS00570	-	-	TrkH family potassium uptake protein
+62800..64176	-	458	3737582393	trkA	VCHOM_RS00565	-	-	Trk system potassium transporter TrkA
+64238..65518	-	426	3737582394	rsmB	VCHOM_RS00560	-	-	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB
+65574..66521	-	315	3737582395	fmt	VCHOM_RS00555	-	-	methionyl-tRNA formyltransferase
+66539..67048	-	169	3737582396	def	VCHOM_RS00550	-	-	peptide deformylase
+67188..68315	+	375	3737582397	-	VCHOM_RS00545	-	-	LysM peptidoglycan-binding domain-containing protein
+68315..69430	+	371	3737582398	dprA	VCHOM_RS00540	-	-	DNA-processing protein DprA
+69433..69909	+	158	3737582399	-	VCHOM_RS00535	-	-	DUF494 family protein
+69925..70491	+	188	3737582400	-	VCHOM_RS00530	-	-	type I DNA topoisomerase
+70564..71697	-	377	3737582401	-	VCHOM_RS00525	-	-	5-(carboxyamino)imidazole ribonucleotide synthase
+71701..72186	-	161	3737582402	purE	VCHOM_RS00520	-	-	5-(carboxyamino)imidazole ribonucleotide mutase
+72353..72910	+	185	3737582403	-	VCHOM_RS00515	-	-	L-threonylcarbamoyladenylate synthase
+72929..73846	+	305	3737582404	hemF	VCHOM_RS00510	-	-	oxygen-dependent coproporphyrinogen oxidase
+73908..74744	+	278	3737582405	aroE	VCHOM_RS00505	-	-	shikimate dehydrogenase
+74741..75016	+	91	3737582406	-	VCHOM_RS00500	-	-	DUF1488 domain-containing protein
+74997..75548	-	183	3737582407	-	VCHOM_RS00495	-	-	gamma carbonic anhydrase family protein

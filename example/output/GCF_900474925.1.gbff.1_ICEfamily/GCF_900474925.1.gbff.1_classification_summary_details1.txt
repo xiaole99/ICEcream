@@ -1,0 +1,12 @@
+start	end	model_name	model_accession	E_value	score	description of target	genbank_accession
+1825923	1826856	Tn916.orf13.protein.11	-	1.6e-217	715.3	-	GCF_900474925.1.gbff.1.gbk_GCF
+1826852	1827854	Tn916.orf14.protein.9	-	1.1e-236	778.6	-	GCF_900474925.1.gbff.1.gbk_GCF
+1827850	1830028	Tn916.orf15.protein.17	-	0	1701	-	GCF_900474925.1.gbff.1.gbk_GCF
+1830030	1832478	Tn916.orf16.protein.14	-	0	1945.9	-	GCF_900474925.1.gbff.1.gbk_GCF
+1832461	1832854	Tn916.orf17.protein.9	-	2e-93	304.4	-	GCF_900474925.1.gbff.1.gbk_GCF
+1832942	1833440	Tn916.orf18.protein.6	-	6.2e-116	378.9	-	GCF_900474925.1.gbff.1.gbk_GCF
+1833556	1833778	Tn916.orf19.protein.1	-	4.8e-51	165.7	-	GCF_900474925.1.gbff.1.gbk_GCF
+1833820	1835026	Tn916.orf20.protein.14	-	6.7e-291	958.5	-	GCF_900474925.1.gbff.1.gbk_GCF
+1835203	1836589	Tn916.orf21.protein.6	-	0	1077.1	-	GCF_900474925.1.gbff.1.gbk_GCF
+1836617	1837004	Tn916.orf22.protein.6	-	3.1e-89	290.6	-	GCF_900474925.1.gbff.1.gbk_GCF
+1837019	1837334	Tn916.orf23.protein.6	-	2.1e-72	234.7	-	GCF_900474925.1.gbff.1.gbk_GCF

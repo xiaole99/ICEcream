@@ -1,0 +1,15 @@
+dbfile=../tmp5/GCF_900474925.1.gbff.1/candidate/candidate_region_2.fna 124785 122689
+totallength=122689
+specialcharacters=0
+specialranges=0
+lengthofspecialprefix=0
+lengthofspecialsuffix=0
+numofsequences=1
+numofdbsequences=1
+numofquerysequences=0
+longest=24897
+prefixlength=6
+largelcpvalues=0
+maxbranchdepth=17
+integersize=64
+littleendian=1

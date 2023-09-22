@@ -1,0 +1,64 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:rRNA: 2 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:2 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:1 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+DISC_GAPS:1 sequences contain gaps
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::rRNA: 2 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::2 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:rRNA	16S ribosomal RNA	NZ_DS990144.1:c1591-53	MJFPBBEP_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:rRNA	23S ribosomal RNA	NZ_DS990144.1:1894-4777	MJFPBBEP_00002
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:MISSING_PROJECT::1 sequences do not include project.
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+
+DiscRep_ALL:DISC_GAPS::1 sequences contain gaps
+../tmp5/prokka_out/GCF_000152425.1.gbff.19:NZ_DS990144.1 (length 4814, 20 gap)
+

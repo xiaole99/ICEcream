@@ -1,0 +1,8 @@
+Candidate region0:candidate_region_left..candidate_region_right:1..92221
+Candidate region0:core_protein: 62982..63917	+	311	9146618677	xerC	Integrase	TIGR02224
+Candidate region0:core_protein: 77931..79112	+	393	9146618693	ftsY	T4CP	TrwB_AAD_bind
+Candidate region0:core_protein: 79161..79835	+	224	9146618694	ftsE	T4SS ATPase	AAA_10
+Candidate region0:conj_region0:conj_region[0][0]..conj_region[0][1]:77931..79112
+Candidate region0:noDR:0int;1VirB4;2T4CP;3MOB;4T4SS;6Rep;orit_tag;total_score: 1 0 1 0 0 0 0 -3 
+e2:0	ice_tag_1;ice_tag_2;aic_tag;ime_tag:0,0,0, 0
+Candidate region0:int_tag;mob_tag;t4ss_tag;ice_len:1;0;0;16131

@@ -1,0 +1,26 @@
+LOCUS       NZ_DS990162.1            517 bp    DNA     linear       21-SEP-2023
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 actgagttta gcgttatgcg ttgccagccc cttaggcggg cgttagtttc tatctagaaa
+       61 aaatcatcaa aagttcagat tcatgccctg aataatcagc tttaaacgtt caagtctcac
+      121 tatttggctt ttgagttttt cctgatgctg atttggtaga aagtgttgaa atttcagata
+      181 gttaaaagtc gctgagaacc aacaaacttc taagcttcaa tgttgtcgga tattcaacac
+      241 ggcaaatttg gtttcacaaa ggctgcatca tcgctgtgat ctggttttct ttgtcgtgga
+      301 ctctaaacat gaccaactta accttgaccg ttttgagttt tggcagctaa cttcacagct
+      361 tttggtgttg gacgtgtgtt tgttcgatgc atttgcgtaa aatggtcttc aaacaaatgt
+      421 tttaaaaaag tcattgttaa acaatgggct acgaaactaa caaacgcctc aagagggact
+      481 gtcaacgcgt agcgtttcca gtcccaatga gccgtag
+//

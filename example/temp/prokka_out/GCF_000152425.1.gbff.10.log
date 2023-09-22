@@ -1,0 +1,110 @@
+[22:12:31] This is prokka 1.14.6
+[22:12:31] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[22:12:31] Homepage is https://github.com/tseemann/prokka
+[22:12:31] Local time is Thu Sep 21 22:12:31 2023
+[22:12:31] You are yinxiaole
+[22:12:31] Operating system is linux
+[22:12:31] You have BioPerl 1.7.7
+[22:12:31] System has 64 cores.
+[22:12:31] Will use maximum of 20 cores.
+[22:12:31] Annotating as >>> Bacteria <<<
+[22:12:31] Generating locus_tag from '../tmp5/prokka/GCF_000152425.1.gbff.10.fna' contents.
+[22:12:31] Setting --locustag MHHNDMHJ from MD5 6117d613d04e38581905ebff6d551c1e
+[22:12:31] Re-using existing --outdir ../tmp5/prokka_out
+[22:12:31] Using filename prefix: GCF_000152425.1.gbff.10.XXX
+[22:12:31] Setting HMMER_NCPU=1
+[22:12:31] Writing log to: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.log
+[22:12:31] Command: /home/envx/miniconda3/bin/prokka --outdir ../tmp5/prokka_out --force --prefix GCF_000152425.1.gbff.10 --cpus 20 ../tmp5/prokka/GCF_000152425.1.gbff.10.fna --quiet
+[22:12:31] Appending to PATH: /home/envx/miniconda3/bin
+[22:12:31] Looking for 'aragorn' - found /home/envx/miniconda3/bin/aragorn
+[22:12:31] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[22:12:31] Looking for 'barrnap' - found /home/envx/miniconda3/bin/barrnap
+[22:12:31] Determined barrnap version is 000009 from 'barrnap 0.9'
+[22:12:31] Looking for 'blastp' - found /home/envx/miniconda3/bin/blastp
+[22:12:31] Determined blastp version is 002010 from 'blastp: 2.10.0+'
+[22:12:31] Looking for 'cmpress' - found /usr/bin/cmpress
+[22:12:31] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[22:12:31] Looking for 'cmscan' - found /usr/local/bin/cmscan
+[22:12:31] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[22:12:31] Looking for 'egrep' - found /bin/egrep
+[22:12:31] Looking for 'find' - found /usr/bin/find
+[22:12:31] Looking for 'grep' - found /bin/grep
+[22:12:31] Looking for 'hmmpress' - found /usr/bin/hmmpress
+[22:12:31] Determined hmmpress version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[22:12:31] Looking for 'hmmscan' - found /usr/bin/hmmscan
+[22:12:31] Determined hmmscan version is 003001 from '# HMMER 3.1b2 (February 2015); http://hmmer.org/'
+[22:12:31] Looking for 'java' - found /usr/bin/java
+[22:12:31] Looking for 'makeblastdb' - found /home/envx/miniconda3/bin/makeblastdb
+[22:12:31] Determined makeblastdb version is 002010 from 'makeblastdb: 2.10.0+'
+[22:12:31] Looking for 'minced' - found /home/envx/miniconda3/bin/minced
+[22:12:31] Determined minced version is 004002 from 'minced 0.4.2'
+[22:12:31] Looking for 'parallel' - found /usr/local/bin/parallel
+[22:12:31] Determined parallel version is 20190722 from 'GNU parallel 20190722'
+[22:12:31] Looking for 'prodigal' - found /usr/bin/prodigal
+[22:12:31] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[22:12:31] Looking for 'prokka-genbank_to_fasta_db' - found /home/envx/miniconda3/bin/prokka-genbank_to_fasta_db
+[22:12:31] Looking for 'sed' - found /bin/sed
+[22:12:31] Looking for 'signalp' - found /usr/local/bin/signalp
+[22:12:31] Determined signalp version is 004001 from '4.1 euk predictions'
+[22:12:31] Looking for 'tbl2asn' - found /home/envx/miniconda3/bin/tbl2asn
+[22:12:31] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[22:12:31] Using genetic code table 11.
+[22:12:31] Loading and checking input file: ../tmp5/prokka/GCF_000152425.1.gbff.10.fna
+[22:12:31] Wrote 1 contigs totalling 859 bp.
+[22:12:31] Predicting tRNAs and tmRNAs
+[22:12:31] Running: aragorn -l -gc11  -w \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.fna
+[22:12:31] Found 0 tRNAs
+[22:12:31] Predicting Ribosomal RNAs
+[22:12:31] Running Barrnap with 20 threads
+[22:12:31] Found 0 rRNAs
+[22:12:31] Skipping ncRNA search, enable with --rfam if desired.
+[22:12:31] Total of 0 tRNA + rRNA features
+[22:12:31] Searching for CRISPR repeats
+[22:12:32] Found 0 CRISPRs
+[22:12:32] Predicting coding sequences
+[22:12:32] Contigs total 859 bp, so using meta mode
+[22:12:32] Running: prodigal -i \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.fna -c -m -g 11 -p meta -f sco -q
+[22:12:32] Found 0 CDS
+[22:12:32] Connecting features back to sequences
+[22:12:32] Not using genus-specific database. Try --usegenus to enable it.
+[22:12:32] Annotating CDS, please be patient.
+[22:12:32] Will use 20 CPUs for similarity searching.
+[22:12:32] Found 0 unique /gene codes.
+[22:12:32] Fixed 0 colliding /gene names.
+[22:12:32] Adding /locus_tag identifiers
+[22:12:32] Assigned 0 locus_tags to CDS and RNA features.
+[22:12:32] Writing outputs to ../tmp5/prokka_out/
+[22:12:32] Generating annotation statistics file
+[22:12:32] Generating Genbank and Sequin files
+[22:12:32] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.err -i \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.fsa 2> /dev/null
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/errorsummary.val
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.dr
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.fixedproducts
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.ecn
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.val
+[22:12:32] Repairing broken .GBK output that tbl2asn produces...
+[22:12:32] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.gbf > \.\.\/tmp5\/prokka_out\/GCF_000152425\.1\.gbff\.10\.gbk
+[22:12:32] Deleting unwanted file: ../tmp5/prokka_out/GCF_000152425.1.gbff.10.gbf
+[22:12:32] Output files:
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.sprot.tmp.19517.faa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.ffn
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.HAMAP.hmm.tmp.19517.faa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.sqn
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.IS.tmp.19517.faa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.fsa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.fna
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.err
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.AMR.tmp.19517.faa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.faa
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.gff
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.txt
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.gbk
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.log
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.tbl
+[22:12:32] ../tmp5/prokka_out/GCF_000152425.1.gbff.10.tsv
+[22:12:32] Annotation finished successfully.
+[22:12:32] Walltime used: 0.02 minutes
+[22:12:32] If you use this result please cite the Prokka paper:
+[22:12:32] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[22:12:32] Type 'prokka --citation' for more details.
+[22:12:32] Share and enjoy!

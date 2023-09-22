@@ -1,0 +1,6 @@
+subject	query	identity	V4	V5	V6	querystart	queryend	V9	V10	evalue	bitscore	slen	qlen	alignlength	alignqueryratio	alignsubjectratio	New.Subtype	New.New.Subtype	New.Type	Family	subfamily	subfamily2	Seq.ID.in.CARD..need.to.redo.	X
+ACI02892	GCF_000152425.1.gbff.25.gbk_GCF_000152425.1.gbff.25.gbk_NZ_DS990138.1_313225_314440	99.752	404	1	0	1	404	1	404	0	783	404	404	404	100	100	floR	floR	florfenicol	MFS antibiotic efflux pump				NA
+AF313472.2.gene15.p01	GCF_000152425.1.gbff.25.gbk_GCF_000152425.1.gbff.25.gbk_NZ_DS990138.1_316231_317035	99.625	267	1	0	1	267	1	267	0	541	267	267	267	100	100	APH(3'')-Ib	APH(3'')-Ib	aminoglycoside	Enzymatic inactivation	Phosphotransferases	APH(3'')	gb|ABK33456.1|ARO:3002639|APH(3'')-Ib	NA
+CAQ86961	GCF_000152425.1.gbff.25.gbk_GCF_000152425.1.gbff.25.gbk_NZ_DS990138.1_315395_316232	100	278	0	0	1	278	4	281	0	570	281	278	278	100	98.932384341637	APH(6)-Id	APH(6)-Id	aminoglycoside	Enzymatic inactivation	Phosphotransferases	APH(6)		NA
+gb|AAK64581.1|ARO:3004568|dfrA18	GCF_000152425.1.gbff.25.gbk_GCF_000152425.1.gbff.25.gbk_NZ_DS990138.1_308479_309034	100	184	0	0	1	184	1	184	2.15e-137	379	184	184	184	100	100	dfrA18	dfrA18	trimethoprim					NA
+YP_001969930	GCF_000152425.1.gbff.25.gbk_GCF_000152425.1.gbff.25.gbk_NZ_DS990138.1_317095_317911	100	271	0	0	1	271	36	306	0	530	318	271	271	100	85.2201257861635	sul2	sul2	sulfonamide					NA

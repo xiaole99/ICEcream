@@ -1,0 +1,81 @@
+#Vibrio cholerae MO10 supercont1.1, whole genome shotgun sequence.
+#Genome GC 47.26 %
+#Candidate region: 1526890..1603102
+1526890..1526974	+	85	tRNA	tRNA	-	-	-	tRNA	RNA
+1527258..1528391	-	377	9444928029	-	VCHOM_RS11275	-	-	flagellin
+1529415..1531046	-	543	9444928030	-	VCHOM_RS11265	-	-	hypothetical protein
+1531043..1531516	-	157	9444928031	-	VCHOM_RS11260	-	-	hypothetical protein
+1531504..1532397	-	297	9444928032	-	VCHOM_RS11255	-	-	hypothetical protein
+1532400..1532924	-	174	9444928033	-	VCHOM_RS11250	-	-	hypothetical protein
+1532924..1534786	-	620	9444928034	-	VCHOM_RS11245	-	-	phage tail protein
+1534783..1535442	-	219	9444928035	-	VCHOM_RS11240	-	-	hypothetical protein
+1535439..1536638	-	399	9444928036	-	VCHOM_RS11235	-	-	baseplate J/gp47 family protein
+1536635..1536967	-	110	9444928037	-	VCHOM_RS11230	-	-	DUF2590 family protein
+1536957..1538774	-	605	9444928038	-	VCHOM_RS11225	-	-	phage tail tape measure protein
+1538786..1538920	-	44	9444928039	-	VCHOM_RS20180	-	-	hypothetical protein
+1538971..1539252	-	93	9444928040	-	VCHOM_RS18260	-	-	putative phage tail assembly chaperone
+1539249..1539551	-	100	9444928041	-	VCHOM_RS19780	-	-	hypothetical protein
+1539460..1539801	-	113	9444928042	-	VCHOM_RS11220	-	-	hypothetical protein
+1539776..1540363	-	195	9444928043	-	VCHOM_RS11215	-	-	lysozyme
+1540350..1540577	-	75	9444928044	-	VCHOM_RS11210	-	-	hypothetical protein
+1540574..1540783	-	69	9444928045	-	VCHOM_RS11205	-	-	TraR/DksA family transcriptional regulator
+1540798..1541256	-	152	9444928046	-	VCHOM_RS11200	-	-	DUF2597 family protein
+1541256..1542365	-	369	9444928047	-	VCHOM_RS11195	-	-	DUF2586 domain-containing protein
+1542367..1543026	-	219	9444928048	-	VCHOM_RS11190	-	-	phage virion morphogenesis protein
+1543013..1543501	-	162	9444928049	-	VCHOM_RS11185	-	-	phage tail protein
+1543498..1543959	-	153	9444928050	-	VCHOM_RS11180	-	-	head completion/stabilization protein
+1544066..1544782	-	238	9444928051	-	VCHOM_RS11175	-	-	terminase endonuclease subunit
+1544798..1545808	-	336	9444928052	-	VCHOM_RS11170	-	-	phage major capsid protein, P2 family
+1545845..1546744	-	299	9444928053	-	VCHOM_RS11165	-	-	GPO family capsid scaffolding protein
+1546918..1548735	+	605	9444928054	-	VCHOM_RS11160	-	-	terminase ATPase subunit family protein
+1548732..1549778	+	348	9444928055	-	VCHOM_RS11155	-	-	phage portal protein
+1549762..1549977	+	71	9444928056	-	VCHOM_RS11150	-	-	hypothetical protein
+1550048..1550299	+	83	9444928057	-	VCHOM_RS11145	-	-	ogr/Delta-like zinc finger family protein
+1550300..1550545	-	81	9444928058	-	VCHOM_RS11140	-	-	hypothetical protein
+1550783..1551121	+	112	9444928059	-	VCHOM_RS11135	-	-	helix-turn-helix transcriptional regulator
+1551195..1551731	-	178	9444928060	-	VCHOM_RS11130	-	-	DUF262 domain-containing protein
+1551741..1554326	-	861	9444928061	-	VCHOM_RS11125	-	-	replication endonuclease
+1554323..1554907	-	194	9444928062	-	VCHOM_RS11120	-	-	hypothetical protein
+1554904..1555014	-	36	9444928063	-	VCHOM_RS19570	-	-	zinc ribbon domain-containing protein
+1555011..1555628	-	205	9444928064	-	VCHOM_RS11115	-	-	DNA methyltransferase
+1555625..1555852	-	75	9444928065	-	VCHOM_RS11110	-	-	hypothetical protein
+1556102..1556512	-	136	9444928066	-	VCHOM_RS11100	-	-	hypothetical protein
+1556509..1557042	-	177	9444928067	-	VCHOM_RS11095	-	-	hypothetical protein
+1557124..1557558	-	144	9444928068	-	VCHOM_RS11090	-	-	hypothetical protein
+1557571..1558110	-	179	9444928069	-	VCHOM_RS11085	-	-	phage regulatory CII family protein
+1558221..1558433	-	70	9444928070	-	VCHOM_RS11080	-	-	hypothetical protein
+1558579..1559226	+	215	9444928071	-	VCHOM_RS18270	-	-	phage repressor protein CI
+1559252..1560157	+	301	9444928072	-	VCHOM_RS11075	-	-	BRCT domain-containing protein
+1560133..1560570	+	145	9444928073	-	VCHOM_RS11070	-	-	hypothetical protein
+1560570..1561607	+	345	9444928074	-	VCHOM_RS11065	-	-	site-specific integrase	INT
+1562056..1563195	-	379	9444928075	-	VCHOM_RS11060	-	-	flagellin
+1563603..1564796	-	397	9444928076	flgL	VCHOM_RS11050	-	-	flagellar hook-associated protein FlgL
+1564809..1566683	-	624	9444928077	flgK	VCHOM_RS11045	-	-	flagellar hook-associated protein FlgK
+1566863..1567801	-	312	9444928078	flgJ	VCHOM_RS11040	-	-	flagellar assembly peptidoglycan hydrolase FlgJ
+1567812..1568897	-	361	9444928079	-	VCHOM_RS11035	-	-	flagellar basal body P-ring protein FlgI
+1568988..1569764	-	258	9444928080	flgH	VCHOM_RS11030	-	-	flagellar basal body L-ring protein FlgH
+1569788..1570576	-	262	9444928081	flgG	VCHOM_RS11025	-	-	flagellar basal-body rod protein FlgG
+1570596..1571345	-	249	9444928082	flgF	VCHOM_RS11020	-	-	flagellar basal-body rod protein FlgF
+1571528..1572832	-	434	9444928083	flgE	VCHOM_RS11015	-	-	flagellar hook protein FlgE
+1572861..1573568	-	235	9444928084	flgD	VCHOM_RS11010	-	-	flagellar hook assembly protein FlgD
+1573586..1574002	-	138	9444928085	flgC	VCHOM_RS11005	-	-	flagellar basal body rod protein FlgC
+1574007..1574402	-	131	9444928086	flgB	VCHOM_RS11000	-	-	flagellar basal body rod protein FlgB
+1574622..1575449	-	275	9444928087	-	VCHOM_RS10995	-	-	protein-glutamate O-methyltransferase
+1575460..1576386	-	308	9444928088	-	VCHOM_RS10990	-	-	chemotaxis protein CheV
+1576443..1577210	+	255	9444928089	flgA	VCHOM_RS18275	-	-	flagellar basal body P-ring formation chaperone FlgA
+1577341..1577664	+	107	9444928090	flgM	VCHOM_RS10985	-	-	flagellar biosynthesis anti-sigma factor FlgM
+1577768..1578193	+	141	9444928091	flgN	VCHOM_RS10980	-	-	flagellar export chaperone FlgN
+1578303..1578740	-	145	9444928092	flgP	VCHOM_RS10975	-	-	flagellar assembly lipoprotein FlgP
+1578748..1579383	-	211	9444928093	-	VCHOM_RS10970	-	-	FlgO family outer membrane protein
+1579544..1580677	+	377	9444928094	-	VCHOM_RS10965	-	-	flagellar assembly protein FlgT
+1580807..1588060	-	2417	9444928095	-	VCHOM_RS10960	-	-	non-ribosomal peptide synthetase
+1588306..1589121	-	271	9444928096	-	VCHOM_RS10955	-	-	siderophore-interacting protein
+1589425..1591488	-	687	9444928097	-	VCHOM_RS10950	-	-	TonB-dependent siderophore receptor
+1592100..1592606	+	168	9444928099	-	VCHOM_RS18280	-	-	Fe3+-citrate ABC transporter substrate-binding protein
+1592695..1593660	-	321	9444928100	-	VCHOM_RS10945	-	-	OmpA family protein
+1593956..1595380	-	474	9444928101	gltX	VCHOM_RS10940	-	-	glutamate--tRNA ligase
+1595581..1598301	+	906	9444928102	copA	VCHOM_RS10935	-	-	copper-translocating P-type ATPase CopA
+1598310..1598750	+	146	9444928103	-	VCHOM_RS10930	-	-	DUF411 domain-containing protein
+1598887..1601538	-	883	9444928104	-	VCHOM_RS10925	-	-	beta-N-acetylhexosaminidase
+1601985..1602851	+	288	9444928105	-	VCHOM_RS10920	-	-	TraB/GumN family protein
+1603026..1603102	-	77	tRNA	tRNA	-	-	-	tRNA	RNA

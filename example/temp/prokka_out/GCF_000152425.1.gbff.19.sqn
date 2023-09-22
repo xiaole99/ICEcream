@@ -1,0 +1,153 @@
+Seq-entry ::= seq {
+  id {
+    local
+      str "NZ_DS990144.1" } ,
+  descr {
+    source {
+      org {
+        taxname "Genus species" ,
+        orgname {
+          mod {
+            {
+              subtype strain ,
+              subname "strain" } } ,
+          gcode 11 } } } ,
+    molinfo {
+      biomol genomic } ,
+    comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+    user {
+      type
+        str "NcbiCleanup" ,
+      data {
+        {
+          label
+            str "method" ,
+          data
+            str "SeriousSeqEntryCleanup" } ,
+        {
+          label
+            str "version" ,
+          data
+            int 8 } ,
+        {
+          label
+            str "month" ,
+          data
+            int 1 } ,
+        {
+          label
+            str "day" ,
+          data
+            int 1 } ,
+        {
+          label
+            str "year" ,
+          data
+            int 2019 } } } ,
+    create-date
+      std {
+        year 2019 ,
+        month 1 ,
+        day 1 } } ,
+  inst {
+    repr delta ,
+    mol dna ,
+    length 4814 ,
+    ext
+      delta {
+        literal {
+          length 1635 ,
+          seq-data
+            ncbi2na '0370160D0DEEE8474D18C14DBB0A2B8D4994AF55C99C5FBC61F4552D3
+81440BA426D7560AF01C5E7DFF9254754EBB86A6BBB10A56A06CF45904F78FE63C7263D61F4E8B
+62F921D435A1C61B1FEE23D9D45D9ACD9E577B3194FB246EEC95C76C2A538E1F86DB5517D75AFC
+D1692DD5E8BD514F1B9E9010A30ABE676F9A87C1504FD1046278612539245EDD227560A47526DD
+6723DDE8ED08B2B0AF7D9BE4D83C05139D459FB9A955B43D3F8BFC37E616C75529ADC7C19BC9D6
+02511772A441750B2136FC69BA1C52ACDC35EFE75519FD9378BB4B37B52AA597D945ACF5F48DDC
+64FD16711780F71557712C7727ED2FD0398F5CAF8952A7F44DE1F0405179399FC654B0F58F067E
+4575B3C59A79E91A2F25AE7DF7B2B06D038F0ACF07C145F5D5C780B1FC4158297DF4C46693A793
+4A7E654FB90CF551E79756CA2DE85BB74BD4BBA78D35DD2149CA8DB65FAE257C5D141C9C3545EA
+4CD6B26429582B55E7F9DF98AF39ACF2536FD43AF3557716A43F54A4F1D15B596765150A042F5D
+EE796761F93BBCA5E5949BD0DE2538D01DF43C02FFF827F67DA743831E0'H } ,
+        literal {
+          length 20 ,
+          seq-data
+            gap {
+              type scaffold ,
+              linkage linked ,
+              linkage-evidence {
+                {
+                  type paired-ends } } } } ,
+        literal {
+          length 3159 ,
+          seq-data
+            ncbi2na '7E77F043FA0278401043F3EFBFB02F743BF3602301141044F42EE7EB3
+60C21F6B7EF40FE2D6900DEDD91D3B03C0662107CAFBF0104158075F6AFB3AF0B8709B11AE8E5E
+A4B48A638286C707E63099230A4B0896FE2DE63F583AA0150793092F1EF0783132BC122405AA81
+E01370B15628820341623D6B2C9A62605E8F257C2476B82CAE0427A027E98C4AB8C956C1619F4D
+89B80D8B2A6A11B8CD7B7833AAA14D750A7031D787858CB814B16E2A029802055EE2A8B80C8178
+05BB1B1092CA245F6EBB879B17FECC3AB4987CCF4BA42BC16CCAA25B260262DF07A99D2DDE8CC8
+56016AE37253A92BE0AF8B04D07A2858161C3BE003C9A387EE9CAAE02943407688C9EBDD560273
+F2B265DA1831C7AAB2247BC29CAAB4D587C5057F901D60C52C2C735A884469AB9C1B5B6E88A804
+152165270AD502CF9C2EA018EEA0A74849CA3BE9F2092534FC0809B0C9D1CB62DA5E66823B06A9
+C24311609E690EDFF213EACAA26F7B096F82B836C2BF9E8ACD20B9839E138B06102AAE00175D96
+82142AF5ED41BC36A92AE2D855C2B8A580A6C363A806AF0CF56C7DE1CF98EAA868829CAEA52986
+BED7AF42E6CA7E22F2B035A77770A788461B6271C6B2E0B4F8E539F528025DC27D232D2836C550
+16112BADAB220C50A67E22076AE0A072900EB16C1F6A20AC677E3AE0B57668E89E188B648C52BA
+7907BF3C004491EE403642386CC6BB865E56B9682BC3E3AAF2642609DF8D8255AC069A5B07306B
+5C2B2603D7EDAB0BD6179183A6C38E9467B75158874B80F80D9EE08E4BB159A721A02156E05FC7
+127E91E04F81713BB28CAEA29CE086E194BE6FA25B5F80C515FB3BF8EF707C854F37ABE284B97A
+EACBF87AA6B75D5022C1A289182BA9C346BE84DB8AF2E43A4C2567C1E620E1AF624AE6024AD32E
+35AEBDECE82A536741A300AC75AA304A78C59508BD3361A6BBFA45D8EDA74D135EA9E0B6B542AC
+E9EF653F02EB1989EAFC81B6E212F6B573796EA6FA08F82AA79D72C62285A2E8605DEBBDABEED9
+4864F95AC9C2F683E3099E024DC26609895E238B7D5E12FC1ED702AFBD887206F8CA4ABBB09BEE
+29BE2705EC70F95B8A7C14C41150AAFFB2E87409C'H } } } ,
+  annot {
+    {
+      data
+        ftable {
+          {
+            id
+              local
+                id 1 ,
+            data
+              rna {
+                type rRNA ,
+                ext
+                  name "16S ribosomal RNA" } ,
+            location
+              int {
+                from 52 ,
+                to 1590 ,
+                strand minus ,
+                id
+                  local
+                    str "NZ_DS990144.1" } ,
+            xref {
+              {
+                data
+                  gene {
+                    locus-tag "MJFPBBEP_00001" } } } } ,
+          {
+            id
+              local
+                id 2 ,
+            data
+              rna {
+                type rRNA ,
+                ext
+                  name "23S ribosomal RNA" } ,
+            location
+              int {
+                from 1893 ,
+                to 4776 ,
+                strand plus ,
+                id
+                  local
+                    str "NZ_DS990144.1" } ,
+            xref {
+              {
+                data
+                  gene {
+                    locus-tag "MJFPBBEP_00002" } } } } } } } }

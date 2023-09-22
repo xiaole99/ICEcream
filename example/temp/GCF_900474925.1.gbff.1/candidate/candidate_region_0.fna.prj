@@ -1,0 +1,15 @@
+dbfile=../tmp5/GCF_900474925.1.gbff.1/candidate/candidate_region_0.fna 540134 531230
+totallength=531230
+specialcharacters=0
+specialranges=0
+lengthofspecialprefix=0
+lengthofspecialsuffix=0
+numofsequences=1
+numofdbsequences=1
+numofquerysequences=0
+longest=450342
+prefixlength=7
+largelcpvalues=11364
+maxbranchdepth=5321
+integersize=64
+littleendian=1

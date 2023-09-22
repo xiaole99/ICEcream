@@ -1,0 +1,1682 @@
+Streptococcus pyogenes strain NCTC12050 chromosome 1, complete sequence. - 1..1851237
+1737 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+1..1356	+	451	3999572985	dnaA	DQL28_RS00005	-	-	chromosomal replication initiator protein DnaA
+1511..2647	+	378	3999572986	dnaN	DQL28_RS00010	-	-	DNA polymerase III subunit beta
+2722..2919	+	65	3999572987	-	DQL28_RS00015	-	-	DUF951 family protein
+3249..4364	+	371	3999572988	ychF	DQL28_RS00020	-	-	redox-regulated ATPase YchF
+4434..5003	+	189	3999572989	pth	DQL28_RS00025	-	-	aminoacyl-tRNA hydrolase
+5006..8509	+	1167	3999572990	mfd	DQL28_RS00030	-	-	transcription-repair coupling factor
+8671..8943	+	90	3999572991	-	DQL28_RS00035	-	-	RNA-binding S4 domain-containing protein
+8930..9301	+	123	3999572992	-	DQL28_RS00040	-	-	septum formation initiator family protein
+9298..9423	+	41	3999572993	-	DQL28_RS09610	-	-	SP_0009 family protein
+9436..10722	+	428	3999572994	-	DQL28_RS00045	-	-	serine hydrolase
+10719..12005	+	428	3999572995	tilS	DQL28_RS00050	-	-	tRNA lysidine(34) synthetase TilS
+12010..12552	+	180	3999572996	hpt	DQL28_RS00055	-	-	hypoxanthine phosphoribosyltransferase
+12574..14553	+	659	3999572997	ftsH	DQL28_RS00060	-	-	ATP-dependent zinc metalloprotease FtsH
+14879..16270	+	463	3999572998	-	DQL28_RS00065	-	-	amino acid permease
+30853..32049	+	398	3999572999	-	DQL28_RS00245	-	-	CHAP domain-containing protein
+32302..33264	+	320	3999573000	-	DQL28_RS00250	-	-	ribose-phosphate diphosphokinase
+33450..34205	+	251	3999573001	recO	DQL28_RS00255	-	-	DNA repair protein RecO
+34308..35315	+	335	3999573002	plsX	DQL28_RS00260	-	-	phosphate acyltransferase PlsX
+35308..35550	+	80	3999573003	-	DQL28_RS00265	-	-	phosphopantetheine-binding protein
+35702..36406	+	234	3999573004	-	DQL28_RS00270	-	-	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+36530..40255	+	1241	3999573005	-	DQL28_RS00275	-	-	phosphoribosylformylglycinamidine synthase
+40416..41870	+	484	3999573006	purF	DQL28_RS00280	-	-	amidophosphoribosyltransferase
+41898..42920	+	340	3999573007	purM	DQL28_RS00285	-	-	phosphoribosylformylglycinamidine cyclo-ligase
+43088..43642	+	184	3999573008	purN	DQL28_RS00290	-	-	phosphoribosylglycinamide formyltransferase
+43826..45373	+	515	3999573009	purH	DQL28_RS00295	-	-	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+45431..46555	-	374	3999573010	-	DQL28_RS00300	-	-	SH3 domain-containing protein
+46808..48073	+	421	3999573011	purD	DQL28_RS00305	-	-	phosphoribosylamine--glycine ligase
+48351..48842	+	163	3999573012	purE	DQL28_RS00310	-	-	5-(carboxyamino)imidazole ribonucleotide mutase
+48829..49902	+	357	3999573013	purK	DQL28_RS00315	-	-	5-(carboxyamino)imidazole ribonucleotide synthase
+49904..51322	+	472	3999573014	-	DQL28_RS00320	-	-	hypothetical protein
+51342..52634	+	430	3999573015	purB	DQL28_RS00325	-	-	adenylosuccinate lyase
+52764..53675	+	303	3999573016	rgg4	DQL28_RS00330	-	-	transcriptional regulator Rgg4/ComR
+53901..54899	+	332	3999573017	ruvB	DQL28_RS00335	-	-	Holliday junction branch migration DNA helicase RuvB
+55037..55474	+	145	3999573018	-	DQL28_RS00340	-	-	low molecular weight phosphotyrosine protein phosphatase
+55497..55898	+	133	3999573019	-	DQL28_RS00345	-	-	membrane protein
+55895..57670	+	591	3999573020	-	DQL28_RS00350	-	-	acyltransferase family protein
+57979..60621	+	880	3999573021	adhE	DQL28_RS00355	-	-	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+60873..61889	+	338	3999573022	adhP	DQL28_RS00360	-	-	alcohol dehydrogenase AdhP
+62277..63566	+	429	3999573023	-	DQL28_RS00365	-	-	MATE family efflux transporter
+63768..64076	+	102	3999573024	rpsJ	DQL28_RS00370	-	-	30S ribosomal protein S10
+64324..64950	+	208	3999573025	rplC	DQL28_RS00375	-	-	50S ribosomal protein L3
+64974..65597	+	207	3999573026	rplD	DQL28_RS00380	-	-	50S ribosomal protein L4
+65597..65893	+	98	3999573027	-	DQL28_RS00385	-	-	50S ribosomal protein L23
+65911..66744	+	277	3999573028	rplB	DQL28_RS00390	-	-	50S ribosomal protein L2
+66883..67161	+	92	3999573029	rpsS	DQL28_RS00395	-	-	30S ribosomal protein S19
+67177..67521	+	114	3999573030	rplV	DQL28_RS00400	-	-	50S ribosomal protein L22
+67534..68187	+	217	3999573031	rpsC	DQL28_RS00405	-	-	30S ribosomal protein S3
+68191..68604	+	137	3999573032	rplP	DQL28_RS00410	-	-	50S ribosomal protein L16
+68614..68820	+	68	3999573033	rpmC	DQL28_RS00415	-	-	50S ribosomal protein L29
+68846..69106	+	86	3999573034	rpsQ	DQL28_RS00420	-	-	30S ribosomal protein S17
+69131..69499	+	122	3999573035	rplN	DQL28_RS00425	-	-	50S ribosomal protein L14
+69578..69883	+	101	3999573036	rplX	DQL28_RS00430	-	-	50S ribosomal protein L24
+69907..70449	+	180	3999573037	rplE	DQL28_RS00435	-	-	50S ribosomal protein L5
+70465..70650	+	61	3999573038	-	DQL28_RS00440	-	-	type Z 30S ribosomal protein S14
+70801..71199	+	132	3999573039	rpsH	DQL28_RS00445	-	-	30S ribosomal protein S8
+71402..71938	+	178	3999573040	rplF	DQL28_RS00450	-	-	50S ribosomal protein L6
+72043..72399	+	118	3999573041	rplR	DQL28_RS00455	-	-	50S ribosomal protein L18
+72418..72912	+	164	3999573042	rpsE	DQL28_RS00460	-	-	30S ribosomal protein S5
+72927..73109	+	60	3999573043	rpmD	DQL28_RS00465	-	-	50S ribosomal protein L30
+73324..73764	+	146	3999573044	rplO	DQL28_RS00470	-	-	50S ribosomal protein L15
+73781..75085	+	434	3999573045	secY	DQL28_RS00475	-	-	preprotein translocase subunit SecY
+75235..75873	+	212	3999573046	-	DQL28_RS00480	-	-	adenylate kinase
+75991..76209	+	72	3999573047	infA	DQL28_RS00485	-	-	translation initiation factor IF-1
+76235..76351	+	38	3999573048	rpmJ	DQL28_RS00490	-	-	50S ribosomal protein L36
+76369..76734	+	121	3999573049	rpsM	DQL28_RS00495	-	-	30S ribosomal protein S13
+76752..77135	+	127	3999573050	rpsK	DQL28_RS00500	-	-	30S ribosomal protein S11
+77181..78119	+	312	3999573051	-	DQL28_RS00505	-	-	DNA-directed RNA polymerase subunit alpha
+78134..78520	+	128	3999573052	rplQ	DQL28_RS00510	-	-	50S ribosomal protein L17
+87271..87714	+	147	3999573054	-	DQL28_RS00615	-	-	zinc-dependent MarR family transcriptional regulator
+87718..88437	+	239	3999573055	-	DQL28_RS00620	-	-	metal ABC transporter ATP-binding protein
+88430..89245	+	271	3999573056	-	DQL28_RS00625	-	-	metal ABC transporter permease
+89285..89668	-	127	3999573057	-	DQL28_RS00630	-	-	HIT family protein
+89719..90975	-	418	3999573058	tyrS	DQL28_RS00635	-	-	tyrosine--tRNA ligase
+91067..93379	+	770	3999573059	pbp1b	DQL28_RS00640	-	-	penicillin-binding protein PBP1B
+93643..97209	+	1188	3999573060	rpoB	DQL28_RS00645	-	-	DNA-directed RNA polymerase subunit beta
+97300..100941	+	1213	3999573061	rpoC	DQL28_RS00650	-	-	DNA-directed RNA polymerase subunit beta'
+101093..101458	+	121	3999573062	-	DQL28_RS00655	-	-	DUF1033 family protein
+101551..102489	+	312	3999573063	comGA	DQL28_RS00660	-	-	competence type IV pilus ATPase ComGA
+102425..103459	+	344	3999573064	comGB	DQL28_RS00665	-	-	competence type IV pilus assembly protein ComGB
+103461..103787	+	108	3999573065	comGC	DQL28_RS00670	-	-	competence type IV pilus major pilin ComGC
+103762..104190	+	142	3999573066	comGD	DQL28_RS00675	-	-	competence type IV pilus minor pilin ComGD
+104195..104431	+	78	3999573067	comGE	DQL28_RS00680	-	-	competence type IV pilus minor pilin ComGE
+104424..104858	+	144	3999573068	comGF	DQL28_RS00685	-	-	competence type IV pilus minor pilin ComGF
+104842..105168	+	108	3999573069	comGG	DQL28_RS00690	-	-	competence type IV pilus minor pilin ComGG
+105266..106219	+	317	3999573070	-	DQL28_RS00695	-	-	class I SAM-dependent methyltransferase
+106278..107474	+	398	3999573071	-	DQL28_RS00700	-	-	acetate kinase
+108870..109937	-	355	3999573074	pepA	DQL28_RS00715	-	-	glutamyl aminopeptidase
+110393..110683	+	96	3999573075	-	DQL28_RS00725	-	-	DUF4651 domain-containing protein
+110683..111000	+	105	3999573076	-	DQL28_RS00730	-	-	thioredoxin family protein
+111018..111644	+	208	3999573077	-	DQL28_RS00735	-	-	DUF4479 and tRNA-binding domain-containing protein
+111795..112190	+	131	3999573078	-	DQL28_RS00740	-	-	single-stranded DNA-binding protein
+112450..113091	-	213	3999573079	-	DQL28_RS00750	-	-	deoxynucleoside kinase
+113111..114088	-	325	3999573080	dusB	DQL28_RS00755	-	-	tRNA dihydrouridine synthase DusB
+114075..114947	-	290	3999573081	hslO	DQL28_RS00760	-	-	Hsp33 family molecular chaperone HslO
+115073..116608	-	511	3999573082	nra	DQL28_RS00765	-	-	transcriptional regulator Nra
+117038..119281	+	747	3999573083	-	DQL28_RS00770	-	-	pilus ancillary protein 1
+119274..119795	+	173	3999573084	lepB	DQL28_RS00775	-	-	signal peptidase I
+119817..120857	+	346	3999573085	-	DQL28_RS00780	-	-	QVPTGV class sortase B protein-sorting domain-containing protein
+120873..121598	+	241	3999573086	srtB	DQL28_RS00785	-	-	class B sortase
+121615..122202	+	195	3999573087	-	DQL28_RS00790	-	-	fimbrial protein
+122361..123566	-	401	3999573088	-	DQL28_RS00795	-	-	YSIRK-targeted surface antigen transcriptional regulator
+123952..126042	+	696	3999573089	-	DQL28_RS00800	-	-	thioester-forming surface-anchored protein
+126308..126967	-	219	3999573090	-	DQL28_RS00805	-	-	hypothetical protein
+127320..128726	+	468	3999573091	-	DQL28_RS00810	-	-	short-chain fatty acid transporter
+128794..129705	-	303	3999573092	-	DQL28_RS00815	-	-	LysR family transcriptional regulator
+129826..131010	+	394	3999573093	-	DQL28_RS00820	-	-	acetyl-CoA C-acetyltransferase
+131022..131681	+	219	3999573094	-	DQL28_RS00825	-	-	CoA transferase subunit A
+131684..132331	+	215	3999573095	-	DQL28_RS00830	-	-	3-oxoacid CoA-transferase subunit B
+132452..133132	-	226	3999573096	-	DQL28_RS00835	-	-	transcriptional regulator
+133306..133671	+	121	3999573097	-	DQL28_RS00840	-	-	RidA family protein
+133708..134727	+	339	3999573098	-	DQL28_RS00845	-	-	PTS fructose transporter subunit IIC
+135181..135501	+	106	3999573099	-	DQL28_RS00850	-	-	hypothetical protein
+135491..137491	+	666	3999573100	-	DQL28_RS00855	-	-	V-type ATP synthase subunit I
+137493..137972	+	159	3999573101	-	DQL28_RS00860	-	-	V-type ATP synthase subunit K
+138041..138625	+	194	3999573102	-	DQL28_RS00865	-	-	hypothetical protein
+138641..139639	+	332	3999573103	-	DQL28_RS00870	-	-	V-type ATPase subunit
+139636..139956	+	106	3999573104	-	DQL28_RS00875	-	-	V-type ATP synthase subunit F
+140157..141932	+	591	3999573105	-	DQL28_RS00880	-	-	V-type ATP synthase subunit A
+141933..143348	+	471	3999573106	-	DQL28_RS00885	-	-	V-type ATP synthase subunit B
+143393..144019	+	208	3999573107	-	DQL28_RS00890	-	-	V-type ATP synthase subunit D
+144139..145401	-	420	3999573108	-	DQL28_RS00895	-	-	toxic anion resistance protein
+145414..146292	-	292	3999573109	-	DQL28_RS00900	-	-	hypothetical protein
+146729..148021	+	430	3999573110	-	DQL28_RS00905	-	-	adenylosuccinate synthase
+148348..149391	+	347	3999573111	-	DQL28_RS00910	-	-	BMP family protein
+149564..150103	+	179	3999573112	nusG	DQL28_RS00915	-	-	transcription termination/antitermination protein NusG
+151233..151421	+	62	3999573113	-	DQL28_RS00925	-	-	hypothetical protein
+151628..151876	+	82	3999573114	-	DQL28_RS00935	-	-	hypothetical protein
+152120..152332	+	70	3999573115	-	DQL28_RS00940	-	-	hypothetical protein
+152516..153520	+	334	3999573116	-	DQL28_RS00945	-	-	LPXTG cell wall anchor domain-containing protein
+155461..156816	+	451	3999573118	nga	DQL28_RS00955	-	-	nicotine adenine dinucleotide glycohydrolase
+157330..159045	+	571	3999573120	slo	DQL28_RS00965	-	-	cholesterol-dependent cytolysin streptolysin O
+159833..160000	-	55	3999573122	-	DQL28_RS00975	-	-	hypothetical protein
+160910..162049	+	379	3999573123	-	DQL28_RS00985	-	-	PLP-dependent aspartate aminotransferase family protein
+162260..164761	+	833	3999573124	leuS	DQL28_RS00990	-	-	leucine--tRNA ligase
+165068..166501	+	477	3999573125	-	DQL28_RS00995	-	-	PTS sugar transporter subunit IIC
+166572..166850	+	92	3999573126	-	DQL28_RS01000	-	-	PTS sugar transporter subunit IIB
+166973..167458	+	161	3999573127	-	DQL28_RS01005	-	-	PTS sugar transporter subunit IIA
+167549..168211	+	220	3999573128	-	DQL28_RS01010	-	-	3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+168216..169079	+	287	3999573129	-	DQL28_RS01015	-	-	L-ribulose-5-phosphate 3-epimerase
+169081..169785	+	234	3999573130	-	DQL28_RS01020	-	-	L-ribulose-5-phosphate 4-epimerase
+170110..171756	+	548	3999573131	-	DQL28_RS01030	-	-	transcription antiterminator
+172009..173100	+	363	3999573132	ulaG	DQL28_RS01035	-	-	L-ascorbate 6-phosphate lactonase
+173588..174784	+	398	3999573133	-	DQL28_RS01040	-	-	glycine betaine/L-proline ABC transporter ATP-binding protein
+174800..176527	+	575	3999573134	-	DQL28_RS01045	-	-	ABC transporter permease/substrate binding protein
+176658..179300	+	880	3999573135	polA	DQL28_RS01050	-	-	DNA polymerase I
+179478..179933	+	151	3999573136	-	DQL28_RS01055	-	-	CoA-binding protein
+179985..180452	+	155	3999573137	perR	DQL28_RS01060	-	-	peroxide-responsive transcriptional repressor PerR
+180555..181418	-	287	3999573138	-	DQL28_RS01065	-	-	DUF975 family protein
+181637..182779	+	380	3999573139	tgt	DQL28_RS01075	-	-	tRNA guanosine(34) transglycosylase Tgt
+182996..183307	+	103	3999573140	-	DQL28_RS01080	-	-	CHY zinc finger protein
+183311..183850	+	179	3999573141	-	DQL28_RS01085	-	-	biotin transporter BioY
+183990..184769	+	259	3999573142	-	DQL28_RS01090	-	-	MBL fold metallo-hydrolase
+184769..185284	+	171	3999573143	tadA	DQL28_RS01095	-	-	tRNA adenosine(34) deaminase TadA
+185898..187130	-	410	3999573144	-	DQL28_RS01100	-	-	S-layer protein
+187530..188234	+	234	3999573145	speG	DQL28_RS01110	-	-	streptococcal pyrogenic exotoxin SpeG
+188699..190048	+	449	3999573146	-	DQL28_RS01115	-	-	glucose-6-phosphate isomerase
+190397..191905	-	502	3999573147	-	DQL28_RS01120	-	-	helix-turn-helix domain-containing protein
+192593..193264	+	223	3999573148	-	DQL28_RS01125	-	-	rhomboid family intramembrane serine protease
+193363..194262	-	299	3999573149	galU	DQL28_RS01130	-	-	UTP--glucose-1-phosphate uridylyltransferase GalU
+194295..195311	-	338	3999573150	-	DQL28_RS01135	-	-	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+195609..196058	+	149	3999573151	-	DQL28_RS01140	-	-	MarR family transcriptional regulator
+196051..197757	+	568	3999573152	-	DQL28_RS01145	-	-	ABC transporter ATP-binding protein
+197760..199544	+	594	3999573153	-	DQL28_RS01150	-	-	ABC transporter ATP-binding protein
+199662..200429	+	255	3999573154	-	DQL28_RS01155	-	-	epoxyqueuosine reductase QueH
+200539..200985	+	148	3999573155	-	DQL28_RS01160	-	-	dUTP diphosphatase
+201066..202427	+	453	3999573156	radA	DQL28_RS01165	-	-	DNA repair protein RadA
+202616..203113	+	165	3999573157	-	DQL28_RS01170	-	-	carbonic anhydrase
+203244..203954	+	236	3999573158	-	DQL28_RS01175	-	-	TIGR00266 family protein
+204136..205581	+	481	3999573159	gltX	DQL28_RS01180	-	-	glutamate--tRNA ligase
+205976..207322	+	448	3999573160	-	DQL28_RS01185	-	-	sensor histidine kinase
+207319..208602	+	427	3999573161	-	DQL28_RS01190	-	-	sensor histidine kinase
+208606..209346	+	246	3999573162	-	DQL28_RS01195	-	-	LytTR family DNA-binding domain-containing protein
+209886..210245	+	119	3999573163	rnpA	DQL28_RS01200	-	-	ribonuclease P protein component
+210211..211038	+	275	3999573164	-	DQL28_RS01205	-	-	YidC/Oxa1 family membrane protein insertase
+211050..211964	+	304	3999573165	-	DQL28_RS01210	-	-	protein jag
+212279..212413	+	44	3999573166	rpmH	DQL28_RS01215	-	-	50S ribosomal protein L34
+212687..213391	+	234	3999573167	-	DQL28_RS01220	-	-	N-acetylmannosamine-6-phosphate 2-epimerase
+213440..214759	+	439	3999573168	-	DQL28_RS01225	-	-	ABC transporter substrate-binding protein
+214864..215751	+	295	3999573169	-	DQL28_RS01230	-	-	sugar ABC transporter permease
+215764..216594	+	276	3999573170	-	DQL28_RS01235	-	-	carbohydrate ABC transporter permease
+216751..217413	+	220	3999573171	-	DQL28_RS01240	-	-	YesL family protein
+217425..218339	+	304	3999573172	-	DQL28_RS01245	-	-	dihydrodipicolinate synthase family protein
+218361..219299	+	312	3999573173	-	DQL28_RS01250	-	-	ROK family protein
+219410..220240	-	276	3999573174	-	DQL28_RS01255	-	-	MurR/RpiR family transcriptional regulator
+220525..221316	+	263	3999573175	-	DQL28_RS01260	-	-	TatD family hydrolase
+221288..221878	+	196	3999573176	rnmV	DQL28_RS01265	-	-	ribonuclease M5
+221992..222864	+	290	3999573177	rsmA	DQL28_RS01270	-	-	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA
+223290..224162	+	290	3999573178	rsgA	DQL28_RS01275	-	-	ribosome small subunit-dependent GTPase A
+224172..224834	+	220	3999573179	rpe	DQL28_RS01280	-	-	ribulose-phosphate 3-epimerase
+224827..225459	+	210	3999573180	-	DQL28_RS01285	-	-	thiamine diphosphokinase
+225461..226732	+	423	3999573181	-	DQL28_RS01290	-	-	DNA recombination protein RmuC
+226722..227660	+	312	3999573182	-	DQL28_RS01295	-	-	3'-5' exoribonuclease YhaM family protein
+227927..228766	+	279	3999573183	purR	DQL28_RS01300	-	-	pur operon repressor
+228757..231378	+	873	3999573184	-	DQL28_RS01305	-	-	SEC10/PgrA surface exclusion domain-containing protein
+231586..231999	+	137	3999573185	rpsL	DQL28_RS01310	-	-	30S ribosomal protein S12
+232020..232490	+	156	3999573186	rpsG	DQL28_RS01315	-	-	30S ribosomal protein S7
+232974..235052	+	692	3999573187	fusA	DQL28_RS01320	-	-	elongation factor G
+235400..236410	+	336	3999573188	gap	DQL28_RS01325	-	-	type I glyceraldehyde-3-phosphate dehydrogenase
+236635..236751	-	38	3999573189	-	DQL28_RS01330	-	-	putative metal homeostasis protein
+236893..237633	-	246	3999573190	-	DQL28_RS01335	-	-	amino acid ABC transporter ATP-binding protein
+237626..239194	-	522	3999573191	-	DQL28_RS01340	-	-	ABC transporter substrate-binding protein/permease
+239392..241317	+	641	3999573192	-	DQL28_RS01345	-	-	DUF2207 domain-containing protein
+241383..242222	+	279	3999573193	-	DQL28_RS01350	-	-	undecaprenyl-diphosphate phosphatase
+242368..243129	+	253	3999573194	mecA	DQL28_RS01355	-	-	adaptor protein MecA
+243136..244305	+	389	3999573195	-	DQL28_RS01360	-	-	MraY family glycosyltransferase
+244427..245197	+	256	3999573196	sufC	DQL28_RS01365	-	-	Fe-S cluster assembly ATPase SufC
+245292..246554	+	420	3999573197	sufD	DQL28_RS01370	-	-	Fe-S cluster assembly protein SufD
+246585..247811	+	408	3999573198	-	DQL28_RS01375	-	-	cysteine desulfurase
+247798..248277	+	159	3999573199	-	DQL28_RS01380	-	-	SUF system NifU family Fe-S cluster assembly protein
+248270..249688	+	472	3999573200	sufB	DQL28_RS01385	-	-	Fe-S cluster assembly protein SufB
+249840..251021	-	393	3999573201	-	DQL28_RS01390	-	-	serine hydrolase
+251189..252421	-	410	3999573202	pbp3	DQL28_RS01395	-	-	D-alanyl-D-alanine carboxypeptidase PBP3
+252752..254722	+	656	3999573203	-	DQL28_RS01400	-	-	peptide ABC transporter substrate-binding protein
+254787..256289	+	500	3999573204	-	DQL28_RS01405	-	-	ABC transporter permease
+256289..257215	+	308	3999573205	-	DQL28_RS01410	-	-	ABC transporter permease
+257224..258294	+	356	3999573206	-	DQL28_RS01415	-	-	ABC transporter ATP-binding protein
+258287..259210	+	307	3999573207	-	DQL28_RS01420	-	-	ABC transporter ATP-binding protein
+259358..259603	-	81	3999573208	-	DQL28_RS09425	-	-	hypothetical protein
+265505..266077	+	190	3999573209	-	DQL28_RS01465	-	-	sigma-70 family RNA polymerase sigma factor
+266273..267022	+	249	3999573210	truA	DQL28_RS01470	-	-	tRNA pseudouridine(38-40) synthase TruA
+267012..267776	+	254	3999573211	-	DQL28_RS01475	-	-	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+267766..268236	+	156	3999573212	-	DQL28_RS01480	-	-	ECF transporter S component
+268250..268810	+	186	3999573213	-	DQL28_RS01485	-	-	TIGR01440 family protein
+268875..269720	-	281	3999573214	-	DQL28_RS01490	-	-	mechanosensitive ion channel family protein
+270041..271324	+	427	3999573215	tig	DQL28_RS01495	-	-	trigger factor
+271536..272111	+	191	3999573216	rpoE	DQL28_RS01500	-	-	DNA-directed RNA polymerase subunit delta
+272368..273972	+	534	3999573217	-	DQL28_RS01505	-	-	CTP synthase
+274140..275066	+	308	3999573218	-	DQL28_RS01510	-	-	alpha/beta hydrolase
+275413..276294	+	293	3999573219	-	DQL28_RS01520	-	-	fructose-bisphosphate aldolase
+276676..276864	+	62	3999573220	rpmB	DQL28_RS01525	-	-	50S ribosomal protein L28
+277016..277381	+	121	3999573221	-	DQL28_RS01530	-	-	Asp23/Gls24 family envelope stress response protein
+277381..279045	+	554	3999573222	-	DQL28_RS01535	-	-	DAK2 domain-containing protein
+279282..280172	+	296	3999573223	-	DQL28_RS01540	-	-	SPFH domain-containing protein
+280402..281256	+	284	3999573224	-	DQL28_RS01545	-	-	5'-nucleotidase, lipoprotein e(P4) family
+281449..282645	+	398	3999573225	-	DQL28_RS01550	-	-	phosphoglycerate kinase
+282908..283459	+	183	3999573226	-	DQL28_RS01555	-	-	aromatic acid exporter family protein
+283526..283897	+	123	3999573227	-	DQL28_RS01560	-	-	MerR family transcriptional regulator
+283935..285281	+	448	3999573228	glnA	DQL28_RS01565	-	-	type I glutamate--ammonia ligase
+285509..287191	-	560	3999573229	rnjA	DQL28_RS01570	-	-	ribonuclease J1
+287193..287423	-	76	3999573230	-	DQL28_RS01575	-	-	DNA-dependent RNA polymerase subunit epsilon
+287708..288406	+	232	3999573231	tsaB	DQL28_RS01580	-	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+288408..288833	+	141	3999573232	rimI	DQL28_RS01585	-	-	ribosomal protein S18-alanine N-acetyltransferase
+288823..289851	+	342	3999573233	tsaD	DQL28_RS01590	-	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD
+290022..290291	-	89	3999573234	rpsN	DQL28_RS01595	-	-	30S ribosomal protein S14
+290511..291269	-	252	3999573235	-	DQL28_RS01600	-	-	GntR family transcriptional regulator
+291509..292288	+	259	3999573236	udp	DQL28_RS01605	-	-	uridine phosphorylase
+292309..293511	+	400	3999573237	-	DQL28_RS01610	-	-	NupC/NupG family nucleoside CNT transporter
+293541..294212	+	223	3999573238	deoC	DQL28_RS01615	-	-	deoxyribose-phosphate aldolase
+294307..295476	-	389	3999573239	-	DQL28_RS01620	-	-	NAD(P)/FAD-dependent oxidoreductase
+295681..296211	+	176	3999573240	-	DQL28_RS01625	-	-	DUF536 domain-containing protein
+296260..296847	+	195	3999573241	-	DQL28_RS01630	-	-	3'-5' exonuclease
+297000..297737	+	245	3999573242	-	DQL28_RS01635	-	-	MerR family transcriptional regulator
+297794..298093	-	99	3999573243	-	DQL28_RS01640	-	-	YbaB/EbfC family nucleoid-associated protein
+298286..298660	-	124	3999573244	-	DQL28_RS01645	-	-	helix-turn-helix transcriptional regulator
+298830..299051	+	73	3999573245	-	DQL28_RS01650	-	-	helix-turn-helix transcriptional regulator
+299131..301413	-	760	3999573246	-	DQL28_RS01655	-	-	Xaa-Pro dipeptidyl-peptidase
+301435..302094	-	219	3999573247	-	DQL28_RS01660	-	-	Crp/Fnr family transcriptional regulator
+302260..303456	+	398	3999573248	-	DQL28_RS01665	-	-	MFS transporter
+303958..304806	+	282	3999573249	-	DQL28_RS01675	-	-	aquaporin family protein
+305141..306037	-	298	3999573250	-	DQL28_RS01680	-	-	sulfite exporter TauE/SafE family protein
+306337..307089	+	250	3999573251	-	DQL28_RS01685	-	-	CppA family protein
+307074..308024	+	316	3999573252	-	DQL28_RS01690	-	-	serine hydrolase domain-containing protein
+308204..310531	-	775	3999573253	pflB	DQL28_RS01695	-	-	formate C-acetyltransferase
+310740..311834	+	364	3999573254	dinB	DQL28_RS01700	-	-	DNA polymerase IV
+311927..312409	-	160	3999573255	-	DQL28_RS01705	-	-	hypothetical protein
+312500..314953	-	817	3999573256	-	DQL28_RS01710	-	-	ATP-dependent RecD-like DNA helicase
+315011..315604	-	197	3999573257	lepB	DQL28_RS01715	-	-	signal peptidase I
+315615..316517	-	300	3999573258	rnhC	DQL28_RS01720	-	-	ribonuclease HIII
+316674..316982	+	102	3999573259	-	DQL28_RS01725	-	-	hypothetical protein
+316985..317530	+	181	3999573260	-	DQL28_RS01730	-	-	CvpA family protein
+317679..320018	+	779	3999573261	-	DQL28_RS01735	-	-	endonuclease MutS2
+320022..320522	+	166	3999573262	-	DQL28_RS01740	-	-	phosphatase PAP2 family protein
+320585..320917	+	110	3999573263	trxA	DQL28_RS01745	-	-	thioredoxin
+321632..322756	-	374	3999573265	mutY	DQL28_RS01755	-	-	A/G-specific adenine glycosylase
+322954..323247	+	97	3999573266	-	DQL28_RS01760	-	-	hypothetical protein
+323420..323710	+	96	3999573267	rpsF	DQL28_RS01765	-	-	30S ribosomal protein S6
+323732..324223	+	163	3999573268	-	DQL28_RS01770	-	-	single-stranded DNA-binding protein
+324388..324627	+	79	3999573269	rpsR	DQL28_RS01775	-	-	30S ribosomal protein S18
+324760..325416	-	218	3999573270	-	DQL28_RS01780	-	-	DUF1129 domain-containing protein
+325548..326492	-	314	3999573271	-	DQL28_RS01785	-	-	magnesium transporter CorA family protein
+326695..329523	+	942	3999573272	uvrA	DQL28_RS01790	-	-	excinuclease ABC subunit UvrA
+329639..330712	+	357	3999573273	-	DQL28_RS01795	-	-	Xaa-Pro peptidase family protein
+330747..331214	+	155	3999573274	-	DQL28_RS01800	-	-	deaminase
+331302..331859	+	185	3999573275	efp	DQL28_RS01805	-	-	elongation factor P
+331905..332294	+	129	3999573276	-	DQL28_RS01810	-	-	Asp23/Gls24 family envelope stress response protein
+332287..332739	+	150	3999573277	nusB	DQL28_RS01815	-	-	transcription antitermination factor NusB
+332880..333845	-	321	3999573278	-	DQL28_RS01820	-	-	LacI family DNA-binding transcriptional regulator
+333850..335289	-	479	3999573279	-	DQL28_RS01825	-	-	glycoside hydrolase family 32 protein
+335531..337453	+	640	3999573280	-	DQL28_RS01830	-	-	sucrose-specific PTS transporter subunit IIBC
+337608..340553	+	981	3999573281	-	DQL28_RS01835	-	-	endo-beta-N-acetylglucosaminidase family protein
+340817..341701	+	294	3999573282	-	DQL28_RS01840	-	-	ROK family protein
+341796..342749	+	317	3999573283	manA	DQL28_RS01845	-	-	mannose-6-phosphate isomerase, class I
+342883..345402	+	839	3999573284	secA	DQL28_RS01850	-	-	preprotein translocase subunit SecA
+345518..345874	+	118	3999573285	acpS	DQL28_RS01855	-	-	holo-ACP synthase
+345871..346971	+	366	3999573286	alr	DQL28_RS01860	-	-	alanine racemase
+347058..348569	+	503	3999573287	-	DQL28_RS01865	-	-	CHAP domain-containing protein
+349059..352886	+	1275	3999573288	shr	DQL28_RS01870	-	-	heme-binding protein Shr
+353083..353958	+	291	3999573289	-	DQL28_RS01875	-	-	heme-binding protein
+353942..354826	+	294	3999573290	isdE	DQL28_RS01880	-	-	heme ABC transporter substrate-binding protein IsdE
+354828..355850	+	340	3999573291	-	DQL28_RS01885	-	-	iron ABC transporter permease
+355847..356683	+	278	3999573292	-	DQL28_RS01890	-	-	ABC transporter ATP-binding protein
+356680..358443	+	587	3999573293	-	DQL28_RS01895	-	-	ABC transporter ATP-binding protein/permease
+358436..360106	+	556	3999573294	-	DQL28_RS01900	-	-	ABC transporter ATP-binding protein
+360103..360696	+	197	3999573295	-	DQL28_RS01905	-	-	MptD family putative ECF transporter S component
+360693..361373	+	226	3999573296	-	DQL28_RS01910	-	-	energy-coupling factor transporter transmembrane component T
+361310..362764	+	484	3999573297	-	DQL28_RS01915	-	-	ABC transporter ATP-binding protein
+363139..365154	+	671	3999573298	recG	DQL28_RS01925	-	-	ATP-dependent DNA helicase RecG
+365446..366351	+	301	3999573299	-	DQL28_RS01930	-	-	ATP-binding cassette domain-containing protein
+366364..367068	+	234	3999573300	-	DQL28_RS01935	-	-	ABC transporter permease
+367411..368376	-	321	3999573301	-	DQL28_RS01940	-	-	asparaginase
+368448..369836	+	462	3999573302	-	DQL28_RS01945	-	-	Cof-type HAD-IIB family hydrolase
+369959..370411	-	150	3999573303	-	DQL28_RS01950	-	-	universal stress protein
+370642..371856	+	404	3999573304	-	DQL28_RS01955	-	-	pyridoxal phosphate-dependent aminotransferase
+372074..372856	+	260	3999573305	codY	DQL28_RS01960	-	-	GTP-sensing pleiotropic transcriptional regulator CodY
+373003..373557	+	184	3999573306	-	DQL28_RS01965	-	-	cysteine hydrolase
+374001..374336	+	111	3999573307	-	DQL28_RS01975	-	-	PEP-utilizing TIM barrel enzyme
+374568..374870	+	100	3999573308	gatC	DQL28_RS01980	-	-	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+374870..376336	+	488	3999573309	gatA	DQL28_RS01985	-	-	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA
+376336..377775	+	479	3999573310	gatB	DQL28_RS01990	-	-	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB
+377772..377987	+	71	3999573311	-	DQL28_RS01995	-	-	hypothetical protein
+378206..378445	+	79	3999573312	-	DQL28_RS02000	-	-	GlsB/YeaQ/YmgE family stress response membrane protein
+378837..379544	+	235	3999573313	-	DQL28_RS02005	-	-	phosphoglycerate mutase family protein
+379534..380277	+	247	3999573314	-	DQL28_RS02010	-	-	D-alanyl-D-alanine carboxypeptidase family protein
+380274..380843	+	189	3999573315	-	DQL28_RS02015	-	-	glycoside hydrolase family 73 protein
+380978..382012	+	344	3999573316	hrcA	DQL28_RS02020	-	-	heat-inducible transcriptional repressor HrcA
+382015..382587	+	190	3999573317	grpE	DQL28_RS02025	-	-	nucleotide exchange factor GrpE
+382768..384594	+	608	3999573318	dnaK	DQL28_RS02030	-	-	molecular chaperone DnaK
+384875..386011	+	378	3999573319	dnaJ	DQL28_RS02035	-	-	molecular chaperone DnaJ
+386233..387024	+	263	3999573320	-	DQL28_RS02040	-	-	enoyl-CoA hydratase
+387101..387535	+	144	3999573321	-	DQL28_RS02045	-	-	MarR family transcriptional regulator
+387536..388510	+	324	3999573322	-	DQL28_RS02050	-	-	ketoacyl-ACP synthase III
+388571..388795	+	74	3999573323	-	DQL28_RS02055	-	-	acyl carrier protein
+388996..389967	+	323	3999573324	fabK	DQL28_RS02060	-	-	enoyl-[acyl-carrier-protein] reductase FabK
+389992..390930	+	312	3999573325	fabD	DQL28_RS02065	-	-	ACP S-malonyltransferase
+390920..391654	+	244	3999573326	fabG	DQL28_RS02070	-	-	3-oxoacyl-[acyl-carrier-protein] reductase
+391669..392901	+	410	3999573327	fabF	DQL28_RS02075	-	-	beta-ketoacyl-ACP synthase II
+392903..393403	+	166	3999573328	accB	DQL28_RS02080	-	-	acetyl-CoA carboxylase biotin carboxyl carrier protein
+393400..393822	+	140	3999573329	fabZ	DQL28_RS02085	-	-	3-hydroxyacyl-ACP dehydratase FabZ
+393854..395218	+	454	3999573330	-	DQL28_RS02090	-	-	acetyl-CoA carboxylase biotin carboxylase subunit
+395227..396093	+	288	3999573331	accD	DQL28_RS02095	-	-	acetyl-CoA carboxylase, carboxyltransferase subunit beta
+396090..396860	+	256	3999573332	-	DQL28_RS02100	-	-	acetyl-CoA carboxylase carboxyl transferase subunit alpha
+397093..398370	-	425	3999573333	serS	DQL28_RS02105	-	-	serine--tRNA ligase
+398762..399121	-	119	3999573334	-	DQL28_RS02110	-	-	DUF956 family protein
+399235..400146	-	303	3999573335	-	DQL28_RS02115	-	-	PTS system mannose/fructose/sorbose family transporter subunit IID
+400163..400972	-	269	3999573336	-	DQL28_RS02120	-	-	PTS mannose/fructose/sorbose transporter subunit IIC
+401061..402053	-	330	3999573337	-	DQL28_RS02125	-	-	PTS sugar transporter subunit IIB
+402405..403217	-	270	3999573338	-	DQL28_RS02130	-	-	HAD family hydrolase
+403481..404941	+	486	3999573339	-	DQL28_RS02135	-	-	NCS2 family permease
+405095..405556	+	153	3999573340	tsaE	DQL28_RS02140	-	-	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+405531..406055	+	174	3999573341	-	DQL28_RS02145	-	-	N-acetyltransferase
+406064..407338	+	424	3999573342	-	DQL28_RS02150	-	-	LCP family protein
+407449..407805	-	118	3999573343	-	DQL28_RS02155	-	-	hypothetical protein
+407802..408221	-	139	3999573344	-	DQL28_RS02160	-	-	HIT family protein
+408293..409018	+	241	3999573345	-	DQL28_RS02165	-	-	ABC transporter ATP-binding protein
+409021..410055	+	344	3999573346	-	DQL28_RS02170	-	-	ABC transporter permease
+410119..410910	+	263	3999573347	-	DQL28_RS02175	-	-	phosphotransferase family protein
+410910..411545	+	211	3999573348	trmB	DQL28_RS02180	-	-	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+411804..412340	+	178	3999573349	rimP	DQL28_RS02190	-	-	ribosome maturation factor RimP
+412515..413672	+	385	3999573350	nusA	DQL28_RS02195	-	-	transcription termination factor NusA
+413688..413984	+	98	3999573351	-	DQL28_RS02200	-	-	YlxR family protein
+413977..414279	+	100	3999573352	-	DQL28_RS02205	-	-	YlxQ-related RNA-binding protein
+414299..417160	+	953	3999573353	infB	DQL28_RS02210	-	-	translation initiation factor IF-2
+417366..417716	+	116	3999573354	rbfA	DQL28_RS02215	-	-	30S ribosome-binding factor RbfA
+417849..418823	-	324	3999573355	-	DQL28_RS02220	-	-	alpha/beta hydrolase
+419007..419441	+	144	3999573356	-	DQL28_RS02225	-	-	CopY/TcrY family copper transport repressor
+419441..421672	+	743	3999573357	-	DQL28_RS02230	-	-	heavy metal translocating P-type ATPase
+421686..421889	+	67	3999573358	-	DQL28_RS02235	-	-	heavy metal-associated domain-containing protein
+422093..422863	-	256	3999573359	-	DQL28_RS02245	-	-	DeoR/GlpR family DNA-binding transcription regulator
+423100..423573	+	157	3999573360	-	DQL28_RS02250	-	-	PTS sugar transporter subunit IIA
+423566..423871	+	101	3999573361	-	DQL28_RS02255	-	-	PTS sugar transporter subunit IIB
+423897..425348	+	483	3999573362	-	DQL28_RS02260	-	-	PTS galactitol transporter subunit IIC
+425605..426030	+	141	3999573363	lacA	DQL28_RS02265	-	-	galactose-6-phosphate isomerase subunit LacA
+426045..426560	+	171	3999573364	lacB	DQL28_RS02270	-	-	galactose-6-phosphate isomerase subunit LacB
+426570..426920	+	116	3999573365	-	DQL28_RS02275	-	-	tagatose-6-phosphate kinase
+427070..428047	+	325	3999573366	lacD	DQL28_RS02280	-	-	tagatose-bisphosphate aldolase
+428244..428861	+	205	3999573367	-	DQL28_RS02285	-	-	trimeric intracellular cation channel family protein
+428863..429687	+	274	3999573368	-	DQL28_RS02290	-	-	Cof-type HAD-IIB family hydrolase
+429723..430280	-	185	3999573369	-	DQL28_RS02295	-	-	TetR/AcrR family transcriptional regulator
+430573..431415	+	280	3999573370	-	DQL28_RS02300	-	-	DegV family protein
+431544..432266	-	240	3999573371	-	DQL28_RS02305	-	-	hypothetical protein
+432468..434099	+	543	3999573372	-	DQL28_RS02310	-	-	Na/Pi cotransporter family protein
+434217..435365	+	382	3999573373	nagA	DQL28_RS02315	-	-	N-acetylglucosamine-6-phosphate deacetylase
+435487..436326	+	279	3999573374	-	DQL28_RS02320	-	-	aldo/keto reductase
+436458..436991	+	177	3999573375	-	DQL28_RS02325	-	-	isoprenylcysteine carboxyl methyltransferase family protein
+437363..438280	+	305	3999573376	glyQ	DQL28_RS02335	-	-	glycine--tRNA ligase subunit alpha
+438657..440696	+	679	3999573377	glyS	DQL28_RS02340	-	-	glycine--tRNA ligase subunit beta
+440850..441107	+	85	3999573378	-	DQL28_RS02345	-	-	DUF896 family protein
+441174..441626	+	150	3999573379	-	DQL28_RS02350	-	-	PepSY domain-containing protein
+441986..443512	+	508	3999573380	glpK	DQL28_RS02355	-	-	glycerol kinase GlpK
+443528..445366	+	612	3999573381	glpO	DQL28_RS02360	-	-	type 1 glycerol-3-phosphate oxidase
+445368..446069	+	233	3999573382	-	DQL28_RS02365	-	-	aquaporin family protein
+446178..447524	+	448	3999573383	-	DQL28_RS02370	-	-	FAD/NAD(P)-binding oxidoreductase
+447514..449013	+	499	3999573384	-	DQL28_RS02375	-	-	helix-turn-helix domain-containing protein
+449139..449783	+	214	3999573385	fsa	DQL28_RS02380	-	-	fructose-6-phosphate aldolase
+450001..451986	+	661	3999573386	tkt	DQL28_RS02385	-	-	transketolase
+452179..452445	+	88	3999573387	-	DQL28_RS02390	-	-	bacteriocin immunity protein
+452479..453213	+	244	3999573388	-	DQL28_RS02395	-	-	ABC transporter ATP-binding protein
+453218..454846	+	542	3999573389	-	DQL28_RS02400	-	-	ABC transporter permease
+454911..455732	+	273	3999573390	proB	DQL28_RS02405	-	-	glutamate 5-kinase
+455725..456975	+	416	3999573391	-	DQL28_RS02410	-	-	glutamate-5-semialdehyde dehydrogenase
+457447..458460	+	337	3999573392	rsmH	DQL28_RS02420	-	-	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+458465..458788	+	107	3999573393	ftsL	DQL28_RS02425	-	-	cell division protein FtsL
+458792..461047	+	751	3999573394	pbp2X	DQL28_RS02430	-	-	penicillin-binding protein PBP2X
+461049..462059	+	336	3999573395	mraY	DQL28_RS02435	-	-	phospho-N-acetylmuramoyl-pentapeptide- transferase
+462217..463560	+	447	3999573396	-	DQL28_RS02440	-	-	DEAD/DEAH box helicase
+463755..464558	+	267	3999573397	-	DQL28_RS02445	-	-	amino acid ABC transporter permease
+464558..465301	+	247	3999573398	-	DQL28_RS02450	-	-	amino acid ABC transporter ATP-binding protein
+465405..465629	+	74	3999573399	-	DQL28_RS02455	-	-	DUF4059 family protein
+465693..466610	+	305	3999573400	trxB	DQL28_RS02460	-	-	thioredoxin-disulfide reductase
+466779..468158	+	459	3999573401	-	DQL28_RS02465	-	-	amino acid permease
+468329..469783	+	484	3999573402	-	DQL28_RS02470	-	-	nicotinate phosphoribosyltransferase
+469785..470609	+	274	3999573403	nadE	DQL28_RS02475	-	-	ammonia-dependent NAD(+) synthetase
+470794..472131	+	445	3999573404	pepC	DQL28_RS02480	-	-	aminopeptidase C
+472598..474763	-	721	3999573405	pbp1a	DQL28_RS02485	-	-	penicillin-binding protein PBP1A
+474750..475358	-	202	3999573406	recU	DQL28_RS02490	-	-	Holliday junction resolvase RecU
+475439..475954	+	171	3999573407	-	DQL28_RS02495	-	-	DUF1273 domain-containing protein
+476076..476402	+	108	3999573408	gpsB	DQL28_RS02500	-	-	cell division regulator GpsB
+476847..478001	+	384	3999573409	-	DQL28_RS02510	-	-	class I SAM-dependent RNA methyltransferase
+478015..479484	+	489	3999573410	-	DQL28_RS02515	-	-	cell division site-positioning protein MapZ family protein
+479629..480111	-	160	3999573411	-	DQL28_RS02520	-	-	S-ribosylhomocysteine lyase
+480185..481516	-	443	3999573412	-	DQL28_RS02525	-	-	GntP family permease
+481587..482366	-	259	3999573413	-	DQL28_RS02530	-	-	3-hydroxybutyrate dehydrogenase
+482399..483058	-	219	3999573414	-	DQL28_RS02535	-	-	3-oxoacid CoA-transferase subunit B
+483735..484922	-	395	3999573416	-	DQL28_RS02545	-	-	acetyl-CoA C-acetyltransferase
+485123..486016	+	297	3999573417	-	DQL28_RS02550	-	-	LysR family transcriptional regulator
+486150..487757	+	535	3999573418	-	DQL28_RS02555	-	-	ribonuclease Y
+487867..488502	+	211	3999573419	gmk	DQL28_RS02560	-	-	guanylate kinase
+488518..488835	+	105	3999573420	rpoZ	DQL28_RS02565	-	-	DNA-directed RNA polymerase subunit omega
+488900..491284	+	794	3999573421	-	DQL28_RS02570	-	-	primosomal protein N'
+491346..492281	+	311	3999573422	fmt	DQL28_RS02575	-	-	methionyl-tRNA formyltransferase
+492271..493593	+	440	3999573423	rsmB	DQL28_RS02580	-	-	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB
+493631..494371	+	246	3999573424	-	DQL28_RS02585	-	-	Stp1/IreP family PP2C-type Ser/Thr phosphatase
+494368..496266	+	632	3999573425	pknB	DQL28_RS02590	-	-	Stk1 family PASTA domain-containing Ser/Thr kinase
+496389..497081	+	230	3999573426	liaF	DQL28_RS02595	-	-	cell wall-active antibiotics response protein LiaF
+497078..498082	+	334	3999573427	-	DQL28_RS02600	-	-	sensor histidine kinase
+498075..498716	+	213	3999573428	-	DQL28_RS02605	-	-	response regulator transcription factor
+498753..500153	+	466	3999573429	-	DQL28_RS02610	-	-	Cof-type HAD-IIB family hydrolase
+500153..500530	+	125	3999573430	-	DQL28_RS02615	-	-	S1 RNA-binding domain-containing protein
+500548..501489	-	313	3999573431	cysK	DQL28_RS02620	-	-	cysteine synthase A
+501617..502249	-	210	3999573432	-	DQL28_RS02625	-	-	YigZ family protein
+502304..503629	+	441	3999573433	-	DQL28_RS02630	-	-	DEAD/DEAH box helicase
+503601..504266	+	221	3999573434	-	DQL28_RS02635	-	-	ComF family protein
+504346..504894	+	182	3999573435	raiA	DQL28_RS02640	-	-	ribosome-associated translation inhibitor RaiA
+512665..513198	-	177	3999573437	-	DQL28_RS02720	-	-	DUF402 domain-containing protein
+513278..514054	-	258	3999573438	recX	DQL28_RS02725	-	-	recombination regulator RecX
+514169..515524	+	451	3999573439	rlmD	DQL28_RS02730	-	-	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+516189..517544	+	451	3999573440	rocA	DQL28_RS02735	-	-	transcriptional regulator RocA
+517645..520350	-	901	3999573441	-	DQL28_RS02740	-	-	alpha-mannosidase
+520365..521651	-	428	3999573442	-	DQL28_RS02745	-	-	glycoside hydrolase family 125 protein
+521784..522824	+	346	3999573443	-	DQL28_RS02750	-	-	GntR family transcriptional regulator
+522875..524569	+	564	3999573444	-	DQL28_RS02755	-	-	beta-N-acetylglucosaminidase
+524594..526036	+	480	3999573445	-	DQL28_RS02760	-	-	glycoside hydrolase family 1 protein
+526382..526504	-	40	3999573446	-	DQL28_RS09615	-	-	hypothetical protein
+526647..527525	-	292	3999573447	-	DQL28_RS02765	-	-	ROK family protein
+527722..528672	+	316	3999573448	-	DQL28_RS02770	-	-	sugar ABC transporter permease
+528682..529608	+	308	3999573449	-	DQL28_RS02775	-	-	carbohydrate ABC transporter permease
+529689..531134	+	481	3999573450	-	DQL28_RS02780	-	-	ABC transporter substrate-binding protein
+531440..532045	+	201	3999573451	-	DQL28_RS02785	-	-	YesL family protein
+532035..533759	+	574	3999573452	-	DQL28_RS02790	-	-	sensor histidine kinase
+533759..535243	+	494	3999573453	-	DQL28_RS02795	-	-	response regulator transcription factor
+535263..538679	+	1138	3999573454	-	DQL28_RS02800	-	-	glycoside hydrolase family 2 protein
+538817..539695	+	292	3999573455	-	DQL28_RS02805	-	-	shikimate dehydrogenase
+539948..540703	+	251	3999573456	-	DQL28_RS02810	-	-	class I SAM-dependent methyltransferase
+540756..541094	+	112	3999573457	-	DQL28_RS02815	-	-	cupin domain-containing protein
+541096..541401	+	101	3999573458	-	DQL28_RS02820	-	-	cupin domain-containing protein
+541837..542910	-	357	3999573459	aroB	DQL28_RS02825	-	-	3-dehydroquinate synthase
+542966..543718	-	250	3999573460	-	DQL28_RS02830	-	-	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase
+544196..544450	+	84	3999573461	-	DQL28_RS02840	-	-	DUF1912 family protein
+544471..544866	+	131	3999573462	-	DQL28_RS02845	-	-	helix-hairpin-helix domain-containing protein
+545468..546031	+	187	3999573464	-	DQL28_RS02860	-	-	AAA family ATPase
+546033..548681	+	882	3999573465	-	DQL28_RS02865	-	-	valine--tRNA ligase
+548898..549677	-	259	3999573466	-	DQL28_RS02870	-	-	hypothetical protein
+550687..551646	+	319	3999573467	-	DQL28_RS02880	-	-	Gfo/Idh/MocA family oxidoreductase
+551738..552670	+	310	3999573468	-	DQL28_RS02885	-	-	magnesium transporter CorA family protein
+552891..553601	+	236	3999573469	ccdA2	DQL28_RS02890	-	-	thiol-disulfide oxidoreductase-associated membrane protein CcdA2
+553614..554237	+	207	3999573470	-	DQL28_RS02895	-	-	TlpA disulfide reductase family protein
+554280..555386	+	368	3999573471	msrB	DQL28_RS02900	-	-	peptide-methionine (R)-S-oxide reductase MsrB
+555474..556214	+	246	3999573472	-	DQL28_RS02905	-	-	response regulator
+556211..557944	+	577	3999573473	-	DQL28_RS02910	-	-	sensor histidine kinase
+558017..559096	+	359	3999573474	-	DQL28_RS02915	-	-	MmcQ/YjbR family DNA-binding protein
+559110..559826	+	238	3999573475	-	DQL28_RS02920	-	-	B3/4 domain-containing protein
+559993..560466	-	157	3999573476	-	DQL28_RS02925	-	-	arginine repressor
+560608..561288	+	226	3999573477	-	DQL28_RS02930	-	-	Crp/Fnr family transcriptional regulator
+561562..562797	+	411	3999573478	arcA	DQL28_RS02935	-	-	arginine deiminase
+562897..563337	+	146	3999573479	-	DQL28_RS02940	-	-	GNAT family N-acetyltransferase
+563362..564375	+	337	3999573480	argF	DQL28_RS02945	-	-	ornithine carbamoyltransferase
+564545..566038	+	497	3999573481	-	DQL28_RS02950	-	-	YfcC family protein
+566055..567386	+	443	3999573482	-	DQL28_RS02955	-	-	dipeptidase
+567406..568356	+	316	3999573483	arcC	DQL28_RS02960	-	-	carbamate kinase
+568669..569661	+	330	3999573484	asnA	DQL28_RS02965	-	-	aspartate--ammonia ligase
+569784..570323	+	179	3999573485	rsmD	DQL28_RS02970	-	-	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
+570313..570804	+	163	3999573486	coaD	DQL28_RS02975	-	-	pantetheine-phosphate adenylyltransferase
+570791..571828	+	345	3999573487	-	DQL28_RS02980	-	-	PDZ domain-containing protein
+572233..573210	+	325	3999573488	-	DQL28_RS02985	-	-	LacI family DNA-binding transcriptional regulator
+573658..574278	+	206	3999573489	-	DQL28_RS02990	-	-	YutD family protein
+574282..575361	+	359	3999573490	rlmN	DQL28_RS02995	-	-	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+575443..576069	-	208	3999573491	-	DQL28_RS03000	-	-	A24 family peptidase
+576297..576824	+	175	3999573492	-	DQL28_RS03005	-	-	DNA starvation/stationary phase protection protein
+576966..577169	+	67	3999573493	-	DQL28_RS03010	-	-	YqgQ family protein
+577174..578145	+	323	3999573494	-	DQL28_RS03015	-	-	ROK family glucokinase
+578155..578544	+	129	3999573495	-	DQL28_RS03020	-	-	rhodanese-like domain-containing protein
+578727..580568	+	613	3999573496	typA	DQL28_RS03025	-	-	translational GTPase TypA
+580690..580941	+	83	3999573497	-	DQL28_RS03030	-	-	DUF3165 family protein
+581297..582655	+	452	3999573498	murD	DQL28_RS03035	-	-	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+582655..583737	+	360	3999573499	-	DQL28_RS03040	-	-	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+583738..584886	+	382	3999573500	-	DQL28_RS03045	-	-	cell division protein FtsQ/DivIB
+585098..586462	+	454	3999573501	ftsA	DQL28_RS03050	-	-	cell division protein FtsA
+586486..587805	+	439	3999573502	ftsZ	DQL28_RS03055	-	-	cell division protein FtsZ
+587808..588479	+	223	3999573503	-	DQL28_RS03060	-	-	YggS family pyridoxal phosphate-dependent enzyme
+588491..589147	+	218	3999573504	-	DQL28_RS03065	-	-	cell division protein SepF
+589152..589406	+	84	3999573505	-	DQL28_RS03070	-	-	YggT family protein
+589406..590197	+	263	3999573506	-	DQL28_RS03075	-	-	RNA-binding protein
+590207..590965	+	252	3999573507	-	DQL28_RS03080	-	-	DivIVA domain-containing protein
+591238..594039	+	933	3999573508	ileS	DQL28_RS03085	-	-	isoleucine--tRNA ligase
+594304..594606	-	100	3999573509	-	DQL28_RS03090	-	-	DUF1827 family protein
+594657..595112	-	151	3999573510	-	DQL28_RS03095	-	-	NUDIX domain-containing protein
+595240..597522	-	760	3999573511	-	DQL28_RS03100	-	-	ATP-dependent Clp protease ATP-binding subunit
+597820..598050	+	76	3999573512	-	DQL28_RS03105	-	-	YkuJ family protein
+598177..598863	+	228	3999573513	-	DQL28_RS03110	-	-	amino acid ABC transporter permease
+598863..599597	+	244	3999573514	-	DQL28_RS03115	-	-	amino acid ABC transporter ATP-binding protein
+599746..601155	+	469	3999573515	-	DQL28_RS03120	-	-	deoxyribodipyrimidine photo-lyase
+601333..603027	+	564	3999573516	-	DQL28_RS03125	-	-	phospho-sugar mutase
+603235..604089	+	284	3999573517	-	DQL28_RS03130	-	-	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+604242..605582	+	446	3999573518	xseA	DQL28_RS03135	-	-	exodeoxyribonuclease VII large subunit
+605560..605775	+	71	3999573519	-	DQL28_RS03140	-	-	exodeoxyribonuclease VII small subunit
+605775..606647	+	290	3999573520	-	DQL28_RS03145	-	-	polyprenyl synthetase family protein
+606640..607467	+	275	3999573521	-	DQL28_RS03150	-	-	TlyA family RNA methyltransferase
+607454..607924	+	156	3999573522	-	DQL28_RS03155	-	-	arginine repressor
+607946..609607	+	553	3999573523	recN	DQL28_RS03160	-	-	DNA repair protein RecN
+609779..610729	+	316	3999573524	-	DQL28_RS03165	-	-	LPXTG cell wall anchor domain-containing protein
+610945..611796	+	283	3999573525	-	DQL28_RS03170	-	-	DegV family protein
+611789..612631	+	280	3999573526	-	DQL28_RS03175	-	-	SGNH/GDSL hydrolase family protein
+612609..613196	+	195	3999573527	-	DQL28_RS03180	-	-	YpmS family protein
+613295..613570	+	91	3999573528	-	DQL28_RS03185	-	-	HU family DNA-binding protein
+613916..615778	+	620	3999573529	-	DQL28_RS03190	-	-	heavy metal translocating P-type ATPase
+615850..616023	+	57	3999573530	-	DQL28_RS09370	-	-	hypothetical protein
+616078..617013	-	311	3999573531	-	DQL28_RS03195	-	-	dihydroorotate oxidase
+617252..617947	+	231	3999573532	-	DQL28_RS03200	-	-	phosphoglycerate mutase
+618054..618575	+	173	3999573533	-	DQL28_RS03205	-	-	transcription repressor NadR
+618736..619278	+	180	3999573534	-	DQL28_RS03210	-	-	hypothetical protein
+619400..620179	+	259	3999573535	-	DQL28_RS03215	-	-	formate/nitrite transporter family protein
+620977..621573	+	198	3999573536	recR	DQL28_RS03225	-	-	recombination mediator RecR
+621674..622720	+	348	3999573537	-	DQL28_RS03230	-	-	D-alanine--D-alanine ligase
+622911..624302	+	463	3999573538	-	DQL28_RS03235	-	-	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+624382..625077	+	231	3999573539	-	DQL28_RS03240	-	-	TIGR02206 family membrane protein
+625325..626869	+	514	3999573540	-	DQL28_RS03250	-	-	peptide chain release factor 3
+627176..628795	+	539	3999573541	-	DQL28_RS03255	-	-	DEAD/DEAH box helicase
+628923..630923	+	666	3999573542	-	DQL28_RS03260	-	-	potassium transporter Kup
+630947..631225	-	92	3999573543	-	DQL28_RS03265	-	-	GIY-YIG nuclease family protein
+631215..632069	-	284	3999573544	-	DQL28_RS03270	-	-	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+632109..632849	+	246	3999573545	-	DQL28_RS03275	-	-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+633049..633711	+	220	3999573546	-	DQL28_RS03280	-	-	ComEA family DNA-binding protein
+633692..635935	+	747	3999573547	-	DQL28_RS03285	-	-	DNA internalization-related competence protein ComEC/Rec2
+636006..637046	+	346	3999573548	holA	DQL28_RS03290	-	-	DNA polymerase III subunit delta
+637143..637748	+	201	3999573549	sodA	DQL28_RS03295	-	-	superoxide dismutase SodA
+637915..638142	+	75	3999573550	-	DQL28_RS03300	-	-	hypothetical protein
+638127..638375	+	82	3999573551	-	DQL28_RS03305	-	-	hypothetical protein
+639076..640296	-	406	3999573553	-	DQL28_RS03315	-	-	DUF3114 domain-containing protein
+640303..641331	-	342	3999573554	queA	DQL28_RS03320	-	-	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+641533..642282	+	249	3999573555	nagB	DQL28_RS03325	-	-	glucosamine-6-phosphate deaminase
+642356..643072	+	238	3999573556	-	DQL28_RS03330	-	-	pseudouridine synthase
+643367..644329	+	320	3999573557	-	DQL28_RS03335	-	-	competence protein CoiA
+644342..646147	+	601	3999573558	pepF	DQL28_RS03340	-	-	oligoendopeptidase F
+646523..647719	+	398	3999573559	-	DQL28_RS03345	-	-	OFA family MFS transporter
+647785..648492	+	235	3999573560	-	DQL28_RS03350	-	-	O-methyltransferase
+648555..649610	+	351	3999573561	prsA	DQL28_RS03355	-	-	peptidylprolyl isomerase PrsA
+649997..652615	+	872	3999573562	alaS	DQL28_RS03360	-	-	alanine--tRNA ligase
+652976..653191	+	71	3999573563	-	DQL28_RS03365	-	-	helix-turn-helix transcriptional regulator
+653188..653949	+	253	3999573564	-	DQL28_RS03370	-	-	DUF3169 family protein
+653968..654663	+	231	3999573565	-	DQL28_RS03375	-	-	type II CAAX endopeptidase family protein
+656007..657320	-	437	3999573567	-	DQL28_RS03385	-	-	chloride channel protein
+657295..658254	-	319	3999573568	nrdF	DQL28_RS03390	-	-	class 1b ribonucleoside-diphosphate reductase subunit beta
+658587..660746	-	719	3999573569	nrdE	DQL28_RS03395	-	-	class 1b ribonucleoside-diphosphate reductase subunit alpha
+660766..660984	-	72	3999573570	-	DQL28_RS03400	-	-	redoxin NrdH
+661377..661640	+	87	3999573571	-	DQL28_RS03405	-	-	phosphocarrier protein HPr
+661645..663378	+	577	3999573572	ptsP	DQL28_RS03410	-	-	phosphoenolpyruvate--protein phosphotransferase
+663563..664990	+	475	3999573573	-	DQL28_RS03415	-	-	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+665085..666359	+	424	3999573574	-	DQL28_RS03420	-	-	polysaccharide deacetylase family protein
+666470..667555	-	361	3999573575	-	DQL28_RS03425	-	-	DEAD/DEAH box helicase
+667653..668279	+	208	3999573576	udk	DQL28_RS03430	-	-	uridine kinase
+668359..668622	+	87	3999573577	-	DQL28_RS03435	-	-	DUF1294 domain-containing protein
+668675..669484	-	269	3999573578	-	DQL28_RS03440	-	-	PrsW family intramembrane metalloprotease
+669629..670126	+	165	3999573579	-	DQL28_RS03445	-	-	GAF domain-containing protein
+670126..671796	+	556	3999573580	dnaX	DQL28_RS03450	-	-	DNA polymerase III subunit gamma/tau
+671892..672095	+	67	3999573581	-	DQL28_RS03455	-	-	DUF3272 family protein
+672070..673011	-	313	3999573582	birA	DQL28_RS03460	-	-	bifunctional biotin--[acetyl-CoA-carboxylase] ligase/biotin operon repressor BirA
+673215..675593	+	792	3999573583	-	DQL28_RS03465	-	-	leucine-rich repeat domain-containing protein
+676130..677326	+	398	3999573584	metK	DQL28_RS03470	-	-	methionine adenosyltransferase
+677500..678759	+	419	3999573585	-	DQL28_RS03475	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+680344..680886	+	180	3999573588	-	DQL28_RS03485	-	-	GNAT family protein
+680895..682178	+	427	3999573589	spxR	DQL28_RS03490	-	-	CBS-HotDog domain-containing transcription factor SpxR
+682194..683054	+	286	3999573590	-	DQL28_RS03495	-	-	methionyl aminopeptidase
+683056..684021	+	321	3999573591	-	DQL28_RS03500	-	-	YihY/virulence factor BrkB family protein
+684132..685415	+	427	3999573592	aroA	DQL28_RS03505	-	-	3-phosphoshikimate 1-carboxyvinyltransferase
+685408..685899	+	163	3999573593	-	DQL28_RS03510	-	-	shikimate kinase
+686107..687558	+	483	3999573594	-	DQL28_RS03515	-	-	LCP family protein
+687640..689271	+	543	3999573595	rlmD	DQL28_RS03520	-	-	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+689290..689571	+	93	3999573596	-	DQL28_RS03525	-	-	CD1845 family protein
+689659..690438	+	259	3999573597	-	DQL28_RS03530	-	-	replication initiator protein A
+690435..691286	+	283	3999573598	-	DQL28_RS03535	-	-	ATP-binding protein
+691766..693550	+	594	3999573600	-	DQL28_RS03545	-	-	type IV secretory system conjugative DNA transfer family protein
+693714..694025	+	103	3999573601	-	DQL28_RS03555	-	-	single-stranded DNA-binding protein
+694029..694244	+	71	3999573602	-	DQL28_RS03560	-	-	Maff2 family protein
+694264..695130	+	288	3999573603	-	DQL28_RS03565	-	-	CD0415/CD1112 family protein
+695150..695413	+	87	3999573604	-	DQL28_RS03570	-	-	conjugal transfer protein
+695417..695806	+	129	3999573605	-	DQL28_RS03575	-	-	PrgI family protein
+695718..698144	+	808	3999573606	-	DQL28_RS03580	-	-	ATP-binding protein
+698148..700265	+	705	3999573607	-	DQL28_RS03585	-	-	CHAP domain-containing protein
+700278..700517	+	79	3999573608	-	DQL28_RS03590	-	-	conjugal transfer protein
+700492..701958	+	488	3999573609	-	DQL28_RS03595	-	-	DUF4366 domain-containing protein
+703660..705195	+	511	3999573611	-	DQL28_RS03605	-	-	helix-turn-helix domain-containing protein
+712828..714735	+	635	3999573613	ltrA	DQL28_RS03615	-	-	group II intron reverse transcriptase/maturase
+716801..717472	+	223	3999573615	-	DQL28_RS03630	-	-	DNA-binding protein
+717642..718709	+	355	3999573616	-	DQL28_RS03635	-	-	ATP-binding protein
+718702..720936	+	744	3999573617	-	DQL28_RS03640	-	-	S8 family peptidase
+721021..721695	+	224	3999573618	-	DQL28_RS03645	-	-	Abi-alpha family protein
+721710..722000	+	96	3999573619	-	DQL28_RS09440	-	-	hypothetical protein
+722012..722533	+	173	3999573620	-	DQL28_RS09445	-	-	hypothetical protein
+726119..727828	+	569	3999573624	-	DQL28_RS03670	-	-	ABC transporter ATP-binding protein
+727831..728661	+	276	3999573625	-	DQL28_RS09450	-	-	ABC transporter ATP-binding protein
+728666..729301	+	211	3999573626	-	DQL28_RS09455	-	-	ATP-binding cassette domain-containing protein
+729307..730008	+	233	3999573627	-	DQL28_RS03680	-	-	energy-coupling factor transporter transmembrane component T
+730033..730629	+	198	3999573628	-	DQL28_RS03685	-	-	MptD family putative ECF transporter S component
+730888..731298	+	136	3999573629	-	DQL28_RS03690	-	-	sigma-70 family RNA polymerase sigma factor
+731781..731948	+	55	3999573630	-	DQL28_RS09375	-	-	hypothetical protein
+732018..733697	+	559	3999573631	-	DQL28_RS03695	-	-	recombinase family protein
+734698..735153	+	151	3999573633	-	DQL28_RS03705	-	-	PaaI family thioesterase
+735107..736591	-	494	3999573634	-	DQL28_RS03710	-	-	DUF1846 domain-containing protein
+736965..738185	+	406	3999573635	-	DQL28_RS03715	-	-	MFS transporter
+738305..738670	-	121	3999573636	-	DQL28_RS03720	-	-	thioesterase family protein
+738785..739516	+	243	3999573637	-	DQL28_RS03725	-	-	pseudouridine synthase
+740659..741969	-	436	3999573639	-	DQL28_RS03750	-	-	SLC13 family permease
+742193..743065	+	290	3999573640	nadC	DQL28_RS03755	-	-	carboxylating nicotinate-nucleotide diphosphorylase
+743365..744716	-	449.666666666667	3999573641	-	DQL28_RS03760	-	-	IS3 family transposase
+744957..745085	+	42	3999573642	-	DQL28_RS03765	-	-	DUF4044 domain-containing protein
+745142..746455	+	437	3999573643	obgE	DQL28_RS03770	-	-	GTPase ObgE
+746524..746682	+	52	3999573644	-	DQL28_RS03775	-	-	hypothetical protein
+746687..747382	-	231	3999573645	pnuC	DQL28_RS03780	-	-	nicotinamide riboside transporter PnuC
+749006..750100	+	364	3999573647	-	DQL28_RS03790	-	-	DUF871 domain-containing protein
+750206..752200	+	664	3999573648	-	DQL28_RS03795	-	-	BglG family transcription antiterminator
+752223..752534	+	103	3999573649	-	DQL28_RS03800	-	-	PTS sugar transporter subunit IIB
+752537..752872	+	111	3999573650	-	DQL28_RS03805	-	-	PTS lactose/cellobiose transporter subunit IIA
+752869..753318	+	149	3999573651	-	DQL28_RS03810	-	-	DUF3284 domain-containing protein
+753496..754875	+	459	3999573652	-	DQL28_RS03815	-	-	PTS transporter subunit EIIC
+754872..755024	+	50	3999573653	-	DQL28_RS09380	-	-	hypothetical protein
+755172..755912	-	246	3999573654	-	DQL28_RS03820	-	-	amino acid ABC transporter ATP-binding protein
+755912..758086	-	724	3999573655	-	DQL28_RS03825	-	-	ABC transporter substrate-binding protein/permease
+758279..760270	+	663	3999573656	uvrB	DQL28_RS03830	-	-	excinuclease ABC subunit UvrB
+760534..760677	+	47	3999573657	-	DQL28_RS03835	-	-	teichoic acid D-Ala incorporation-associated protein DltX
+760689..762227	+	512	3999573658	dltA	DQL28_RS03840	-	-	D-alanine--poly(phosphoribitol) ligase subunit DltA
+762224..763480	+	418	3999573659	dltB	DQL28_RS03845	-	-	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+763498..763737	+	79	3999573660	dltC	DQL28_RS03850	-	-	D-alanine--poly(phosphoribitol) ligase subunit DltC
+763730..764980	+	416	3999573661	dltD	DQL28_RS03855	-	-	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+765011..765994	+	327	3999573662	-	DQL28_RS03860	-	-	alpha/beta hydrolase fold domain-containing protein
+766508..767488	-	326	3999573664	-	DQL28_RS03875	-	-	IS30 family transposase
+767675..768511	-	278	3999573665	-	DQL28_RS03880	-	-	sugar ABC transporter permease
+768511..769872	-	453	3999573666	-	DQL28_RS03885	-	-	sugar ABC transporter permease
+770146..771393	-	415	3999573667	-	DQL28_RS03890	-	-	extracellular solute-binding protein
+771638..772657	+	339	3999573668	-	DQL28_RS03895	-	-	LacI family DNA-binding transcriptional regulator
+772771..774264	+	497	3999573669	malQ	DQL28_RS03900	-	-	4-alpha-glucanotransferase
+774299..776563	+	754	3999573670	glgP	DQL28_RS03905	-	-	glycogen/starch/alpha-glucan family phosphorylase
+776820..777440	-	206	3999573671	-	DQL28_RS03910	-	-	DUF3862 domain-containing protein
+778181..778795	+	204	3999573672	-	DQL28_RS03920	-	-	TVP38/TMEM64 family protein
+778926..779711	-	261	3999573673	-	DQL28_RS03925	-	-	hypothetical protein
+779721..780419	-	232	3999573674	-	DQL28_RS03930	-	-	ABC transporter ATP-binding protein
+780419..780790	-	123	3999573675	-	DQL28_RS03935	-	-	GntR family transcriptional regulator
+780975..784085	+	1036	3999573676	-	DQL28_RS03940	-	-	DNA polymerase III subunit alpha
+784165..785178	+	337	3999573677	pfkA	DQL28_RS03945	-	-	6-phosphofructokinase
+785241..786743	+	500	3999573678	pyk	DQL28_RS03950	-	-	pyruvate kinase
+786961..787518	+	185	3999573679	lepB	DQL28_RS03955	-	-	signal peptidase I
+787694..789508	+	604	3999573680	glmS	DQL28_RS03960	-	-	glutamine--fructose-6-phosphate transaminase (isomerizing)
+789704..790039	+	111	3999573681	-	DQL28_RS03965	-	-	zinc ribbon domain-containing protein YjdM
+790146..790787	+	213	3999573682	-	DQL28_RS03970	-	-	amino acid ABC transporter permease
+790797..791426	+	209	3999573683	-	DQL28_RS03975	-	-	amino acid ABC transporter ATP-binding protein
+791442..792278	+	278	3999573684	-	DQL28_RS03980	-	-	amino acid ABC transporter substrate-binding protein
+792648..793421	+	257	3999573685	cfa	DQL28_RS03985	-	-	CAMP factor pore-forming toxin Cfa
+793791..795026	-	411	3999573686	-	DQL28_RS03990	-	-	cation diffusion facilitator family transporter
+795146..796468	-	440	3999573687	-	DQL28_RS03995	-	-	sodium:alanine symporter family protein
+796997..799315	+	772	3999573688	pcrA	DQL28_RS04000	-	-	DNA helicase PcrA
+799679..799927	+	82	3999573689	-	DQL28_RS04005	-	-	GlsB/YeaQ/YmgE family stress response membrane protein
+799964..800575	+	203	3999573690	amaP	DQL28_RS04010	-	-	alkaline shock response membrane anchor protein AmaP
+800586..800774	+	62	3999573691	-	DQL28_RS04015	-	-	DUF2273 domain-containing protein
+800787..801326	+	179	3999573692	-	DQL28_RS04020	-	-	Asp23/Gls24 family envelope stress response protein
+801367..801567	+	66	3999573693	-	DQL28_RS04025	-	-	CsbD family protein
+801578..802066	+	162	3999573694	-	DQL28_RS04030	-	-	Asp23/Gls24 family envelope stress response protein
+802229..802870	+	213	3999573695	-	DQL28_RS04035	-	-	GntR family transcriptional regulator
+803011..803553	-	180	3999573696	-	DQL28_RS04040	-	-	TetR/AcrR family transcriptional regulator
+803671..804372	+	233	3999573697	-	DQL28_RS04045	-	-	ABC transporter ATP-binding protein
+804387..807023	+	878	3999573698	-	DQL28_RS04050	-	-	FtsX-like permease family protein
+807115..807711	+	198	3999573699	-	DQL28_RS04055	-	-	restriction endonuclease subunit S
+807722..808678	+	318	3999573700	-	DQL28_RS04060	-	-	aromatic acid exporter family protein
+808775..810115	+	446	3999573701	-	DQL28_RS04065	-	-	DUF2130 domain-containing protein
+810231..811115	+	294	3999573702	truB	DQL28_RS04070	-	-	tRNA pseudouridine(55) synthase TruB
+811144..812076	+	310	3999573703	-	DQL28_RS04075	-	-	bifunctional riboflavin kinase/FAD synthetase
+812119..812523	+	134	3999573704	-	DQL28_RS04080	-	-	Spx/MgsR family RNA polymerase-binding regulatory protein
+812525..812803	+	92	3999573705	-	DQL28_RS04085	-	-	UPF0223 family protein
+812793..813581	+	262	3999573706	-	DQL28_RS04090	-	-	inositol monophosphatase family protein
+813584..814894	+	436	3999573707	-	DQL28_RS04095	-	-	RsmF rRNA methyltransferase first C-terminal domain-containing protein
+815033..815899	+	288	3999573708	-	DQL28_RS04100	-	-	phosphate ABC transporter substrate-binding protein PstS family protein
+815910..816845	+	311	3999573709	pstC	DQL28_RS04105	-	-	phosphate ABC transporter permease subunit PstC
+816835..817722	+	295	3999573710	pstA	DQL28_RS04110	-	-	phosphate ABC transporter permease PstA
+817738..818541	+	267	3999573711	pstB	DQL28_RS04115	-	-	phosphate ABC transporter ATP-binding protein PstB
+818554..819312	+	252	3999573712	pstB	DQL28_RS04120	-	-	phosphate ABC transporter ATP-binding protein PstB
+819380..820033	+	217	3999573713	phoU	DQL28_RS04125	-	-	phosphate signaling complex protein PhoU
+820238..822775	+	845	3999573714	-	DQL28_RS04135	-	-	M1 family metallopeptidase
+823122..823796	+	224	3999573715	-	DQL28_RS04140	-	-	response regulator transcription factor
+823789..825099	+	436	3999573716	-	DQL28_RS04145	-	-	HAMP domain-containing sensor histidine kinase
+825224..825472	-	82	3999573717	rpsT	DQL28_RS04150	-	-	30S ribosomal protein S20
+825526..826446	-	306	3999573718	coaA	DQL28_RS04155	-	-	type I pantothenate kinase
+826681..827307	+	208	3999573719	-	DQL28_RS04160	-	-	class I SAM-dependent methyltransferase
+827958..828347	+	129	3999573720	-	DQL28_RS04165	-	-	cytidine deaminase
+828441..829493	+	350	3999573721	-	DQL28_RS04170	-	-	BMP family protein
+829632..831164	+	510	3999573722	-	DQL28_RS04175	-	-	ABC transporter ATP-binding protein
+831157..832221	+	354	3999573723	-	DQL28_RS04180	-	-	ABC transporter permease
+832223..833179	+	318	3999573724	-	DQL28_RS04185	-	-	ABC transporter permease
+833394..835112	-	572	3999573725	-	DQL28_RS04190	-	-	phospho-sugar mutase
+835288..835857	-	189	3999573726	-	DQL28_RS04195	-	-	ECF transporter S component
+835914..836459	-	181	3999573727	coaC	DQL28_RS04200	-	-	phosphopantothenoylcysteine decarboxylase
+836452..837144	-	230	3999573728	coaB	DQL28_RS04205	-	-	phosphopantothenate--cysteine ligase
+837325..838176	+	283	3999573729	-	DQL28_RS04210	-	-	biotin/lipoate A/B protein ligase family protein
+838173..839372	+	399	3999573730	-	DQL28_RS04215	-	-	NADH-dependent flavin oxidoreductase
+839369..840367	+	332	3999573731	-	DQL28_RS04220	-	-	LLM class flavin-dependent oxidoreductase
+840409..840741	+	110	3999573732	-	DQL28_RS04225	-	-	glycine cleavage system protein H
+840734..841546	+	270	3999573733	-	DQL28_RS04230	-	-	protein-ADP-ribose hydrolase
+841539..842420	+	293	3999573734	-	DQL28_RS04235	-	-	NAD-dependent deacetylase
+842467..843486	+	339	3999573735	-	DQL28_RS04240	-	-	lipoate--protein ligase
+843614..845284	+	556	3999573736	-	DQL28_RS04245	-	-	formate--tetrahydrofolate ligase
+845369..846946	+	525	3999573737	cls	DQL28_RS04250	-	-	cardiolipin synthase
+847285..847623	+	112	3999573738	-	DQL28_RS04255	-	-	ATP cone domain-containing protein
+848094..849362	-	422	3999573739	-	DQL28_RS04260	-	-	PLP-dependent aminotransferase family protein
+849452..850318	+	288	3999573740	-	DQL28_RS04265	-	-	pyridoxamine kinase
+850296..850853	+	185	3999573741	-	DQL28_RS04270	-	-	ECF transporter S component
+850987..852531	+	514	3999573742	-	DQL28_RS04275	-	-	ABC-F family ATP-binding cassette domain-containing protein
+852896..854119	+	407	3999573743	-	DQL28_RS04280	-	-	lipid II:glycine glycyltransferase FemX
+854161..855723	-	520	3999573744	guaA	DQL28_RS04285	-	-	glutamine-hydrolyzing GMP synthase
+855890..857323	+	477	3999573745	-	DQL28_RS04290	-	-	hypothetical protein
+857406..858104	+	232	3999573746	-	DQL28_RS04295	-	-	GntR family transcriptional regulator
+858202..858534	+	110	3999573747	-	DQL28_RS04300	-	-	putative DNA-binding protein
+858549..860111	+	520	3999573748	ffh	DQL28_RS04305	-	-	signal recognition particle protein
+860228..860926	-	232	3999573749	-	DQL28_RS04310	-	-	helix-turn-helix domain-containing protein
+861395..862465	+	356	3999573750	xerS	DQL28_RS04315	-	-	tyrosine recombinase XerS
+863165..863647	+	160	3999573751	-	DQL28_RS04320	-	-	PASTA domain-containing protein
+863736..864788	+	350	3999573752	citC	DQL28_RS04325	-	-	[citrate (pro-3S)-lyase] ligase
+864899..866293	-	464	3999573753	-	DQL28_RS04330	-	-	oxaloacetate decarboxylase subunit alpha
+866308..866886	-	192	3999573754	citX	DQL28_RS04335	-	-	citrate lyase holo-[acyl-carrier protein] synthase
+866879..868411	-	510	3999573755	citF	DQL28_RS04340	-	-	citrate lyase subunit alpha
+868414..869301	-	295	3999573756	citE	DQL28_RS04345	-	-	citrate (pro-3S)-lyase subunit beta
+869289..869597	-	102	3999573757	citD	DQL28_RS04350	-	-	citrate lyase acyl carrier protein
+869633..869767	-	44	3999573758	-	DQL28_RS09620	-	-	OadG-related small transporter subunit
+869785..870906	-	373	3999573759	-	DQL28_RS04355	-	-	sodium ion-translocating decarboxylase subunit beta
+870956..871351	-	131	3999573760	-	DQL28_RS04360	-	-	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+871408..871731	-	107	3999573761	-	DQL28_RS04365	-	-	hypothetical protein
+872111..873514	+	467	3999573762	-	DQL28_RS04370	-	-	CitMHS family transporter
+873672..874367	+	231	3999573763	-	DQL28_RS04375	-	-	GntR family transcriptional regulator
+874360..875244	+	294	3999573764	citG	DQL28_RS04380	-	-	triphosphoribosyl-dephospho-CoA synthase CitG
+875445..876575	-	376	3999573765	-	DQL28_RS04385	-	-	sodium ion-translocating decarboxylase subunit beta
+876585..876935	-	116	3999573766	-	DQL28_RS04390	-	-	biotin/lipoyl-binding protein
+876935..877249	-	104	3999573767	-	DQL28_RS04395	-	-	membrane protein
+877292..878698	-	468	3999573768	-	DQL28_RS04400	-	-	pyruvate carboxylase subunit B
+878851..880197	-	448	3999573769	trmFO	DQL28_RS04405	-	-	methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO
+880332..882461	-	709	3999573770	topA	DQL28_RS04410	-	-	type I DNA topoisomerase
+882569..883405	-	278	3999573771	dprA	DQL28_RS04415	-	-	DNA-processing protein DprA
+883470..884261	-	263	3999573772	-	DQL28_RS04420	-	-	ribonuclease HII
+884251..885099	-	282	3999573773	ylqF	DQL28_RS04425	-	-	ribosome biogenesis GTPase YlqF
+885318..885758	+	146	3999573774	-	DQL28_RS04430	-	-	DUF1836 domain-containing protein
+885755..886405	+	216	3999573775	-	DQL28_RS04435	-	-	hemolysin III family protein
+886522..887433	+	303	3999573776	-	DQL28_RS04440	-	-	diacylglycerol kinase family lipid kinase
+887483..887851	-	122	3999573777	-	DQL28_RS04445	-	-	hypothetical protein
+888466..888879	-	137	3999573778	-	DQL28_RS04455	-	-	VOC family protein
+888962..889711	-	249	3999573779	-	DQL28_RS04460	-	-	sortase
+889731..892217	-	828	3999573780	gyrA	DQL28_RS04465	-	-	DNA gyrase subunit A
+892408..893391	+	327	3999573781	-	DQL28_RS04470	-	-	L-lactate dehydrogenase
+893550..894920	-	456	3999573782	-	DQL28_RS04475	-	-	FAD-dependent oxidoreductase
+895161..896888	-	575	3999573783	-	DQL28_RS04480	-	-	ABC transporter ATP-binding protein
+896885..898609	-	574	3999573784	-	DQL28_RS04485	-	-	ABC transporter ATP-binding protein
+898619..899218	-	199	3999573785	-	DQL28_RS04490	-	-	lysozyme family protein
+899219..900196	-	325	3999573786	-	DQL28_RS04495	-	-	nucleoid-associated protein
+900203..901459	-	418	3999573787	-	DQL28_RS04500	-	-	serine hydroxymethyltransferase
+901449..901901	-	150	3999573788	-	DQL28_RS04505	-	-	GNAT family N-acetyltransferase
+901919..902509	-	196	3999573789	-	DQL28_RS04510	-	-	L-threonylcarbamoyladenylate synthase
+902493..903332	-	279	3999573790	prmC	DQL28_RS04515	-	-	peptide chain release factor N(5)-glutamine methyltransferase
+903332..904411	-	359	3999573791	prfA	DQL28_RS04520	-	-	peptide chain release factor 1
+904446..905015	-	189	3999573792	-	DQL28_RS04525	-	-	thymidine kinase
+905153..905338	+	61	3999573793	-	DQL28_RS04530	-	-	4-oxalocrotonate tautomerase
+905391..906329	+	312	3999573794	-	DQL28_RS04535	-	-	FAD:protein FMN transferase
+906393..907676	-	427	3999573795	-	DQL28_RS04540	-	-	nucleobase:cation symporter-2 family protein
+907676..908257	-	193	3999573796	-	DQL28_RS04545	-	-	xanthine phosphoribosyltransferase
+908562..909545	-	327	3999573797	guaC	DQL28_RS04555	-	-	GMP reductase
+909823..911349	-	508	3999573798	-	DQL28_RS04560	-	-	ABC transporter permease/substrate-binding protein
+911342..912070	-	242	3999573799	-	DQL28_RS04565	-	-	ABC transporter ATP-binding protein
+912490..913179	+	229	3999573800	-	DQL28_RS04570	-	-	multidrug transporter
+913373..914143	-	256	3999573801	-	DQL28_RS04575	-	-	SDR family NAD(P)-dependent oxidoreductase
+914271..915266	-	331	3999573802	pta	DQL28_RS04580	-	-	phosphate acetyltransferase
+915280..916176	-	298	3999573803	-	DQL28_RS04585	-	-	RluA family pseudouridine synthase
+916173..917009	-	278	3999573804	-	DQL28_RS04590	-	-	NAD kinase
+916984..917655	-	223	3999573805	-	DQL28_RS04595	-	-	GTP pyrophosphokinase family protein
+917743..918321	+	192	3999573806	-	DQL28_RS04600	-	-	CYTH domain-containing protein
+918461..919441	+	326	3999573807	-	DQL28_RS04605	-	-	ribose-phosphate diphosphokinase
+919438..920565	+	375	3999573808	-	DQL28_RS04610	-	-	cysteine desulfurase family protein
+920555..920902	+	115	3999573809	-	DQL28_RS04615	-	-	DUF1831 domain-containing protein
+921154..921798	+	214	3999573810	-	DQL28_RS04620	-	-	redox-sensing transcriptional repressor Rex
+921808..922503	+	231	3999573811	-	DQL28_RS04625	-	-	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein
+922505..923185	-	226	3999573812	radC	DQL28_RS04630	-	-	DNA repair protein RadC
+923252..924382	-	376	3999573813	-	DQL28_RS04635	-	-	AI-2E family transporter
+924541..925155	-	204	3999573814	-	DQL28_RS04640	-	-	SGNH/GDSL hydrolase family protein
+925318..926850	-	510	3999573815	-	DQL28_RS04645	-	-	ClC family H(+)/Cl(-) exchange transporter
+927028..927759	-	243	3999573816	aphA	DQL28_RS04650	-	-	acid phosphatase AphA
+929128..930294	-	388	3999573818	-	DQL28_RS04660	-	-	NADP-dependent malic enzyme
+930326..931657	-	443	3999573819	-	DQL28_RS04665	-	-	2-hydroxycarboxylate transporter family protein
+931818..933359	+	513	3999573820	-	DQL28_RS04670	-	-	sensor histidine kinase
+933340..934005	+	221	3999573821	-	DQL28_RS04675	-	-	response regulator
+934060..935133	-	357	3999573822	-	DQL28_RS04680	-	-	ABC transporter substrate-binding protein
+935126..935902	-	258	3999573823	-	DQL28_RS04685	-	-	ABC transporter permease
+935899..936693	-	264	3999573824	-	DQL28_RS04690	-	-	ABC transporter permease
+936677..937831	-	384	3999573825	-	DQL28_RS04695	-	-	ABC transporter ATP-binding protein
+937877..938764	-	295	3999573826	murB	DQL28_RS04700	-	-	UDP-N-acetylmuramate dehydrogenase
+938914..939414	-	166	3999573827	folK	DQL28_RS04705	-	-	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase
+939411..939770	-	119	3999573828	folB	DQL28_RS04710	-	-	dihydroneopterin aldolase
+939778..940578	-	266	3999573829	folP	DQL28_RS04715	-	-	dihydropteroate synthase
+940588..941172	-	194	3999573830	folE	DQL28_RS04720	-	-	GTP cyclohydrolase I FolE
+941215..942483	-	422	3999573831	-	DQL28_RS04725	-	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+942816..943778	+	320	3999573832	-	DQL28_RS04730	-	-	polysaccharide deacetylase family protein
+943894..945129	-	411	3999573833	pbp3	DQL28_RS04735	-	-	D-alanyl-D-alanine carboxypeptidase PBP3
+945368..945733	-	121	3999573834	rplL	DQL28_RS04740	-	-	50S ribosomal protein L7/L12
+945798..946298	-	166	3999573835	rplJ	DQL28_RS04745	-	-	50S ribosomal protein L10
+946633..948009	+	458	3999573836	mnmE	DQL28_RS04750	-	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
+948077..949486	-	469	3999573837	pepV	DQL28_RS04755	-	-	dipeptidase PepV
+949611..950213	-	200	3999573838	-	DQL28_RS04760	-	-	nitroreductase family protein
+950398..952194	-	598	3999573839	uvrC	DQL28_RS04765	-	-	excinuclease ABC subunit UvrC
+952296..953693	-	465	3999573840	-	DQL28_RS04770	-	-	NAD-dependent succinate-semialdehyde dehydrogenase
+953808..954854	-	348	3999573841	-	DQL28_RS04775	-	-	extracellular solute-binding protein
+954848..955636	-	262	3999573842	-	DQL28_RS04780	-	-	response regulator transcription factor
+955640..957289	-	549	3999573843	-	DQL28_RS04785	-	-	sensor histidine kinase
+957425..958252	-	275	3999573844	-	DQL28_RS04790	-	-	PTS system mannose/fructose/sorbose family transporter subunit IID
+958249..959058	-	269	3999573845	-	DQL28_RS04795	-	-	PTS mannose/fructose/sorbose/N-acetylgalactosamine transporter subunit IIC
+959075..959566	-	163	3999573846	-	DQL28_RS04800	-	-	PTS system mannose/fructose/N-acetylgalactosamine-transporter subunit IIB
+959593..960018	-	141	3999573847	-	DQL28_RS04805	-	-	PTS sugar transporter subunit IIA
+960224..961243	-	339	3999573848	-	DQL28_RS04810	-	-	YeiH family protein
+961373..961810	-	145	3999573849	msrB	DQL28_RS04815	-	-	peptide-methionine (R)-S-oxide reductase MsrB
+961996..963537	-	513	3999573850	slc2	DQL28_RS04820	-	-	LPXTG-anchored collagen-like adhesin Scl2/SclB
+963713..965545	-	610	3999573851	lepA	DQL28_RS04825	-	-	translation elongation factor 4
+966525..966962	-	145	3999573853	msrB	DQL28_RS04835	-	-	peptide-methionine (R)-S-oxide reductase MsrB
+968912..970744	-	610	3999573855	lepA	DQL28_RS04845	-	-	translation elongation factor 4
+971724..972161	-	145	3999573857	msrB	DQL28_RS04855	-	-	peptide-methionine (R)-S-oxide reductase MsrB
+972347..973930	-	527	3999573858	slc2	DQL28_RS04860	-	-	LPXTG-anchored collagen-like adhesin Scl2/SclB
+974106..975938	-	610	3999573859	lepA	DQL28_RS04865	-	-	translation elongation factor 4
+976918..977355	-	145	3999573861	msrB	DQL28_RS04875	-	-	peptide-methionine (R)-S-oxide reductase MsrB
+977541..979109	-	522	3999573862	slc2	DQL28_RS04880	-	-	LPXTG-anchored collagen-like adhesin Scl2/SclB
+980103..980735	-	210	3999573864	-	DQL28_RS04890	-	-	TIGR01906 family membrane protein
+980735..981499	-	254	3999573865	-	DQL28_RS04895	-	-	TIGR01457 family HAD-type hydrolase
+981499..982251	-	250	3999573866	-	DQL28_RS04900	-	-	acyl-[acyl-carrier-protein] thioesterase
+982261..983391	-	376	3999573867	hemW	DQL28_RS04905	-	-	radical SAM family heme chaperone HemW
+983454..984095	-	213	3999573868	-	DQL28_RS04910	-	-	hypothetical protein
+984219..985574	-	451	3999573869	glmM	DQL28_RS04915	-	-	phosphoglucosamine mutase
+985628..986584	-	318	3999573870	-	DQL28_RS04920	-	-	YbbR-like domain-containing protein
+986581..987432	-	283	3999573871	cdaA	DQL28_RS04925	-	-	diadenylate cyclase CdaA
+987540..988883	+	447	3999573872	-	DQL28_RS04930	-	-	Mur ligase family protein
+988883..989674	+	263	3999573873	-	DQL28_RS04935	-	-	type 1 glutamine amidotransferase
+989783..990772	-	329	3999573874	-	DQL28_RS04940	-	-	lipoate--protein ligase
+991005..993422	+	805	3999573875	hylA	DQL28_RS04945	-	-	hyaluronidase
+994096..995859	-	587	3999573876	lpdA	DQL28_RS04955	-	-	dihydrolipoyl dehydrogenase
+996186..997595	-	469	3999573877	-	DQL28_RS04965	-	-	dihydrolipoamide acetyltransferase
+997780..998778	-	332	3999573878	-	DQL28_RS04970	-	-	alpha-ketoacid dehydrogenase subunit beta
+998837..999805	-	322	3999573879	-	DQL28_RS04975	-	-	thiamine pyrophosphate-dependent dehydrogenase E1 component subunit alpha
+1000091..1001998	-	635	3999573880	-	DQL28_RS04980	-	-	ABC-F family ATP-binding cassette domain-containing protein
+1002044..1002370	-	108	3999573881	-	DQL28_RS04985	-	-	hypothetical protein
+1002400..1003185	-	261	3999573882	-	DQL28_RS04990	-	-	alpha/beta hydrolase family protein
+1003318..1004979	-	553	3999573883	-	DQL28_RS04995	-	-	RNase J family beta-CASP ribonuclease
+1005183..1005941	-	252	3999573884	-	DQL28_RS05000	-	-	ABC transporter ATP-binding protein
+1005938..1006807	-	289	3999573885	-	DQL28_RS05005	-	-	ABC transporter permease
+1007152..1008150	-	332	3999573886	trpX	DQL28_RS05015	-	-	tryptophan ABC transporter substrate-binding protein
+1008504..1010156	+	550	3999573887	fbp54	DQL28_RS05020	-	-	Rqc2 family fibronectin-binding protein Fbp54
+1010215..1011462	-	415	3999573888	-	DQL28_RS05025	-	-	tetratricopeptide repeat protein
+1011452..1012633	-	393	3999573889	-	DQL28_RS05030	-	-	AI-2E family transporter
+1012691..1013167	-	158	3999573890	-	DQL28_RS05035	-	-	8-oxo-dGTP diphosphatase
+1013771..1014481	-	236	3999573891	speh	DQL28_RS05045	-	-	streptococcal pyrogenic exotoxin SpeH
+1014507..1015184	-	225	3999573892	spei	DQL28_RS05050	-	-	streptococcal pyrogenic exotoxin SpeI
+1015458..1016792	-	444	3999573893	-	DQL28_RS05055	-	-	GH25 family lysozyme
+1016909..1017136	-	75	3999573894	-	DQL28_RS05060	-	-	phage holin
+1017133..1017405	-	90	3999573895	-	DQL28_RS05065	-	-	hypothetical protein
+1017417..1018049	-	210	3999573896	-	DQL28_RS05070	-	-	hypothetical protein
+1018052..1018483	-	143	3999573897	-	DQL28_RS05075	-	-	DUF1617 family protein
+1018495..1020381	-	628	3999573898	-	DQL28_RS05080	-	-	gp58-like family protein
+1020396..1021514	-	372	3999573899	-	DQL28_RS05085	-	-	hyaluronoglucosaminidase
+1021514..1023655	-	713	3999573900	-	DQL28_RS05090	-	-	phage tail protein
+1023652..1024359	-	235	3999573901	-	DQL28_RS05095	-	-	phage tail family protein
+1024359..1028282	-	1307	3999573902	-	DQL28_RS05100	-	-	phage tail tape measure protein
+1028295..1028444	-	49	3999573903	-	DQL28_RS09390	-	-	hypothetical protein
+1028492..1028818	-	108	3999573904	-	DQL28_RS05105	-	-	hypothetical protein
+1028871..1029482	-	203	3999573905	-	DQL28_RS05110	-	-	phage major tail protein
+1029499..1029924	-	141	3999573906	-	DQL28_RS05115	-	-	hypothetical protein
+1029921..1030298	-	125	3999573907	-	DQL28_RS05120	-	-	HK97 gp10 family phage protein
+1030295..1030642	-	115	3999573908	-	DQL28_RS05125	-	-	phage head closure protein
+1030639..1030941	-	100	3999573909	-	DQL28_RS05130	-	-	head-tail connector protein
+1030944..1031072	-	42	3999573910	-	DQL28_RS09625	-	-	hypothetical protein
+1031086..1032270	-	394	3999573911	-	DQL28_RS05135	-	-	phage major capsid protein
+1032295..1032960	-	221	3999573912	-	DQL28_RS05140	-	-	Clp protease ClpP
+1032938..1034158	-	406	3999573913	-	DQL28_RS05145	-	-	phage portal protein
+1034340..1034612	-	90	3999573914	-	DQL28_RS05150	-	-	hypothetical protein
+1034605..1034775	-	56	3999573915	-	DQL28_RS09395	-	-	hypothetical protein
+1034772..1036526	-	584	3999573916	-	DQL28_RS05155	-	-	terminase large subunit
+1036530..1036760	-	76	3999573917	-	DQL28_RS05160	-	-	hypothetical protein
+1036763..1037230	-	155	3999573918	-	DQL28_RS05165	-	-	phage terminase small subunit P27 family
+1037401..1037739	-	112	3999573919	-	DQL28_RS05170	-	-	HNH endonuclease signature motif containing protein
+1037989..1038426	-	145	3999573920	-	DQL28_RS05175	-	-	DUF1492 domain-containing protein
+1038698..1039333	-	211	3999573921	-	DQL28_RS05180	-	-	N-6 DNA methylase
+1039333..1039734	-	133	3999573922	-	DQL28_RS05185	-	-	hypothetical protein
+1039925..1040407	-	160	3999573923	-	DQL28_RS05190	-	-	class I SAM-dependent methyltransferase
+1040410..1040682	-	90	3999573924	-	DQL28_RS05195	-	-	hypothetical protein
+1040685..1040906	-	73	3999573925	-	DQL28_RS05200	-	-	hypothetical protein
+1040903..1041298	-	131	3999573926	-	DQL28_RS05205	-	-	RusA family crossover junction endodeoxyribonuclease
+1041291..1041509	-	72	3999573927	-	DQL28_RS05210	-	-	hypothetical protein
+1041787..1044060	-	757	3999573928	-	DQL28_RS05215	-	-	AAA family ATPase
+1044050..1044679	-	209	3999573929	-	DQL28_RS05220	-	-	hypothetical protein
+1044689..1046272	-	527	3999573930	-	DQL28_RS05225	-	-	DEAD/DEAH box helicase
+1046272..1046907	-	211	3999573931	-	DQL28_RS05230	-	-	hypothetical protein
+1046929..1047663	-	244	3999573932	-	DQL28_RS05235	-	-	hypothetical protein
+1047665..1048087	-	140	3999573933	-	DQL28_RS05240	-	-	hypothetical protein
+1048127..1049218	-	363	3999573934	-	DQL28_RS05245	-	-	ATP-binding protein
+1049233..1050552	-	439	3999573935	-	DQL28_RS05250	-	-	AAA family ATPase
+1050536..1050781	-	81	3999573936	-	DQL28_RS05255	-	-	hypothetical protein
+1050783..1051001	-	72	3999573937	-	DQL28_RS05260	-	-	hypothetical protein
+1050982..1051122	-	46	3999573938	-	DQL28_RS05265	-	-	hypothetical protein
+1051124..1051435	-	103	3999573939	-	DQL28_RS05270	-	-	hypothetical protein
+1051542..1051724	+	60	3999573940	-	DQL28_RS05275	-	-	hypothetical protein
+1051721..1051852	-	43	3999573941	-	DQL28_RS09630	-	-	hypothetical protein
+1051865..1052626	-	253	3999573942	-	DQL28_RS05280	-	-	phage antirepressor KilAC domain-containing protein
+1052637..1052876	-	79	3999573943	-	DQL28_RS05285	-	-	helix-turn-helix transcriptional regulator
+1052928..1053569	+	213	3999573944	-	DQL28_RS05290	-	-	hypothetical protein
+1053668..1053826	-	52	3999573945	-	DQL28_RS05295	-	-	hypothetical protein
+1054199..1054987	+	262	3999573946	-	DQL28_RS05300	-	-	LexA family transcriptional regulator
+1054997..1055302	+	101	3999573947	-	DQL28_RS05305	-	-	membrane protein
+1055426..1056565	+	379	3999573948	-	DQL28_RS05310	-	-	site-specific integrase
+1056659..1057699	-	346	3999573949	rfbB	DQL28_RS05315	-	-	dTDP-glucose 4,6-dehydratase
+1057943..1058536	-	197	3999573950	-	DQL28_RS05320	-	-	dTDP-4-dehydrorhamnose 3,5-epimerase family protein
+1058536..1059405	-	289	3999573951	rfbA	DQL28_RS05325	-	-	glucose-1-phosphate thymidylyltransferase RfbA
+1059463..1060569	-	368	3999573952	-	DQL28_RS05330	-	-	FAD-binding oxidoreductase
+1060609..1061397	-	262	3999573953	-	DQL28_RS05335	-	-	Nif3-like dinuclear metal center hexameric protein
+1061387..1062073	-	228	3999573954	-	DQL28_RS05340	-	-	tRNA (adenine(22)-N(1))-methyltransferase TrmK
+1062145..1062801	-	218	3999573955	nth	DQL28_RS05345	-	-	endonuclease III
+1062798..1063481	-	227	3999573956	-	DQL28_RS05350	-	-	DnaD domain-containing protein
+1063562..1064080	-	172	3999573957	-	DQL28_RS05355	-	-	adenine phosphoribosyltransferase
+1064230..1066440	-	736	3999573958	recJ	DQL28_RS05360	-	-	single-stranded-DNA-specific exonuclease RecJ
+1066437..1067201	-	254	3999573959	-	DQL28_RS05365	-	-	SDR family oxidoreductase
+1067201..1068130	-	309	3999573960	rnz	DQL28_RS05370	-	-	ribonuclease Z
+1068145..1068780	-	211	3999573961	-	DQL28_RS05375	-	-	cystathionine beta-lyase
+1068773..1070011	-	412	3999573962	hflX	DQL28_RS05380	-	-	GTPase HflX
+1070084..1070983	-	299	3999573963	miaA	DQL28_RS05385	-	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+1071117..1071293	+	58	3999573964	-	DQL28_RS05390	-	-	DUF3042 family protein
+1072541..1072960	-	139	3999573966	-	DQL28_RS05400	-	-	glutathione binding-like protein
+1073271..1074257	-	328	3999573967	-	DQL28_RS05410	-	-	rhodanese-related sulfurtransferase
+1074452..1074754	+	100	3999573968	-	DQL28_RS05415	-	-	hypothetical protein
+1075301..1076506	-	401	3999573969	rpsA	DQL28_RS05425	-	-	30S ribosomal protein S1
+1076896..1077126	-	76	3999573970	-	DQL28_RS05440	-	-	DUF2969 domain-containing protein
+1077190..1078212	-	340	3999573971	-	DQL28_RS05445	-	-	branched-chain amino acid aminotransferase
+1078335..1080794	-	819	3999573972	parC	DQL28_RS05450	-	-	DNA topoisomerase IV subunit A
+1080885..1082834	-	649	3999573973	parE	DQL28_RS05455	-	-	DNA topoisomerase IV subunit B
+1082969..1083610	+	213	3999573974	plsY	DQL28_RS05460	-	-	glycerol-3-phosphate 1-O-acyltransferase PlsY
+1083668..1084936	-	422	3999573975	-	DQL28_RS05465	-	-	dihydroorotase
+1085068..1085721	-	217	3999573976	-	DQL28_RS05470	-	-	uracil-DNA glycosylase
+1085854..1086504	-	216	3999573977	-	DQL28_RS05475	-	-	amino acid ABC transporter permease
+1086533..1087396	-	287	3999573978	-	DQL28_RS05480	-	-	transporter substrate-binding domain-containing protein
+1087514..1088968	-	484	3999573979	-	DQL28_RS05485	-	-	amidase
+1089165..1089794	-	209	3999573980	pyrE	DQL28_RS05490	-	-	orotate phosphoribosyltransferase
+1089852..1090544	-	230	3999573981	pyrF	DQL28_RS05495	-	-	orotidine-5'-phosphate decarboxylase
+1090821..1091357	-	178	3999573982	-	DQL28_RS05500	-	-	hypothetical protein
+1091579..1092484	+	301	3999573983	-	DQL28_RS05505	-	-	LysR family transcriptional regulator
+1092564..1093352	-	262	3999573984	-	DQL28_RS05510	-	-	hypothetical protein
+1093345..1094058	-	237	3999573985	deoD	DQL28_RS05515	-	-	purine-nucleoside phosphorylase
+1094724..1095533	-	269	3999573986	-	DQL28_RS05520	-	-	purine-nucleoside phosphorylase
+1095517..1095957	-	146	3999573987	arsC	DQL28_RS05525	-	-	arsenate reductase (glutaredoxin)
+1095973..1097184	-	403	3999573988	-	DQL28_RS05530	-	-	phosphopentomutase
+1097261..1097944	-	227	3999573989	rpiA	DQL28_RS05535	-	-	ribose-5-phosphate isomerase RpiA
+1098322..1100421	+	699	3999573990	-	DQL28_RS05540	-	-	ATP-dependent Clp protease ATP-binding subunit
+1100479..1101222	-	247	3999573991	-	DQL28_RS05545	-	-	hypothetical protein
+1101370..1101969	-	199	3999573992	yihA	DQL28_RS05550	-	-	ribosome biogenesis GTP-binding protein YihA/YsxC
+1101979..1103208	-	409	3999573993	clpX	DQL28_RS05555	-	-	ATP-dependent Clp protease ATP-binding subunit ClpX
+1103338..1103508	-	56	3999573994	-	DQL28_RS05560	-	-	hypothetical protein
+1103528..1104025	-	165	3999573995	-	DQL28_RS05565	-	-	dihydrofolate reductase
+1104105..1104944	-	279	3999573996	-	DQL28_RS05570	-	-	thymidylate synthase
+1105153..1106328	+	391	3999573997	-	DQL28_RS05575	-	-	hydroxymethylglutaryl-CoA synthase
+1106315..1107592	+	425	3999573998	-	DQL28_RS05580	-	-	hydroxymethylglutaryl-CoA reductase, degradative
+1107822..1108811	-	329	3999573999	fni	DQL28_RS05585	-	-	type 2 isopentenyl-diphosphate Delta-isomerase
+1108804..1109811	-	335	3999574000	-	DQL28_RS05590	-	-	phosphomevalonate kinase
+1109804..1110748	-	314	3999574001	mvaD	DQL28_RS05595	-	-	diphosphomevalonate decarboxylase
+1110730..1111608	-	292	3999574002	mvk	DQL28_RS05600	-	-	mevalonate kinase
+1111902..1113134	-	410	3999574003	-	DQL28_RS05605	-	-	HAMP domain-containing sensor histidine kinase
+1113143..1113811	-	222	3999574004	-	DQL28_RS05610	-	-	response regulator transcription factor
+1113814..1114464	-	216	3999574005	-	DQL28_RS05615	-	-	GTP pyrophosphokinase family protein
+1116771..1117181	-	136	3999574007	-	DQL28_RS05625	-	-	peptide deformylase
+1117435..1117653	-	72	3999574008	-	DQL28_RS09520	-	-	hypothetical protein
+1118071..1119948	-	625	3999574009	-	DQL28_RS05635	-	-	ABC-F family ATP-binding cassette domain-containing protein
+1119945..1121153	-	402	3999574010	-	DQL28_RS05640	-	-	CCA tRNA nucleotidyltransferase
+1121278..1122126	-	282	3999574011	-	DQL28_RS05645	-	-	DegV family protein
+1122126..1122506	-	126	3999574012	-	DQL28_RS05650	-	-	DUF1149 family protein
+1122734..1122910	-	58	3999574013	-	DQL28_RS05655	-	-	nucleoside-diphosphate kinase
+1123135..1123329	-	64	3999574014	-	DQL28_RS05660	-	-	hypothetical protein
+1123391..1124416	+	341	3999574015	-	DQL28_RS05665	-	-	IdeS/Mac family cysteine endopeptidase
+1124535..1124801	+	88	3999574016	-	DQL28_RS05670	-	-	hypothetical protein
+1125373..1126080	-	235	3999574018	-	DQL28_RS05680	-	-	glycoside hydrolase family 73 protein
+1126232..1126831	-	199	3999574019	-	DQL28_RS05685	-	-	glycoside hydrolase family 73 protein
+1126924..1128870	-	648	3999574020	-	DQL28_RS05690	-	-	fructose-specific PTS transporter subunit EIIC
+1128867..1129778	-	303	3999574021	pfkB	DQL28_RS05695	-	-	1-phosphofructokinase
+1129775..1130488	-	237	3999574022	-	DQL28_RS05700	-	-	DeoR/GlpR family DNA-binding transcription regulator
+1130744..1131667	-	307	3999574023	-	DQL28_RS05705	-	-	2-dehydropantoate 2-reductase
+1131680..1132738	-	352	3999574024	-	DQL28_RS05710	-	-	PTS transporter subunit IIC
+1132916..1133908	-	330	3999574025	-	DQL28_RS05715	-	-	NAD(P)/FAD-dependent oxidoreductase
+1133908..1134639	-	243	3999574026	trmD	DQL28_RS05720	-	-	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+1134629..1135147	-	172	3999574027	rimM	DQL28_RS05725	-	-	ribosome maturation factor RimM
+1135362..1135883	-	173	3999574028	-	DQL28_RS05730	-	-	TetR/AcrR family transcriptional regulator
+1136019..1136894	+	291	3999574029	-	DQL28_RS05735	-	-	cation diffusion facilitator family transporter
+1137074..1137475	-	133	3999574030	-	DQL28_RS05740	-	-	pyridoxamine 5'-phosphate oxidase family protein
+1137495..1140521	-	1008	3999574031	-	DQL28_RS05745	-	-	leucine-rich repeat protein
+1141453..1141692	-	79	3999574032	-	DQL28_RS05750	-	-	KH domain-containing protein
+1141702..1141974	-	90	3999574033	rpsP	DQL28_RS05755	-	-	30S ribosomal protein S16
+1142101..1143834	-	577	3999574034	-	DQL28_RS05760	-	-	glycerophosphoryl diester phosphodiesterase membrane domain-containing protein
+1144088..1145308	-	406	3999574035	-	DQL28_RS05765	-	-	ABC transporter permease
+1145320..1146030	-	236	3999574036	-	DQL28_RS05770	-	-	ABC transporter ATP-binding protein
+1146030..1147301	-	423	3999574037	-	DQL28_RS05775	-	-	efflux RND transporter periplasmic adaptor subunit
+1147508..1150684	-	1058	3999574038	carB	DQL28_RS05780	-	-	carbamoyl-phosphate synthase large subunit
+1150930..1152012	-	360	3999574039	-	DQL28_RS05790	-	-	carbamoyl phosphate synthase small subunit
+1152056..1152991	-	311	3999574040	-	DQL28_RS05795	-	-	aspartate carbamoyltransferase catalytic subunit
+1153052..1154311	-	419	3999574041	-	DQL28_RS05800	-	-	NCS2 family nucleobase:cation symporter
+1154327..1154848	-	173	3999574042	pyrR	DQL28_RS05805	-	-	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR
+1155244..1156134	-	296	3999574043	-	DQL28_RS05810	-	-	RluA family pseudouridine synthase
+1156124..1156582	-	152	3999574044	lspA	DQL28_RS05815	-	-	signal peptidase II
+1156579..1157493	-	304	3999574045	-	DQL28_RS05820	-	-	LysR family transcriptional regulator
+1157851..1158144	-	97	3999574046	rpmA	DQL28_RS05830	-	-	50S ribosomal protein L27
+1158172..1158498	-	108	3999574047	-	DQL28_RS05835	-	-	ribosomal-processing cysteine protease Prp
+1158510..1158824	-	104	3999574048	rplU	DQL28_RS05840	-	-	50S ribosomal protein L21
+1159038..1160330	-	430	3999574049	-	DQL28_RS05845	-	-	CapA family protein
+1160368..1161582	-	404	3999574050	thiI	DQL28_RS05850	-	-	tRNA 4-thiouridine(8) synthase ThiI
+1161594..1162736	-	380	3999574051	-	DQL28_RS05855	-	-	cysteine desulfurase family protein
+1162971..1163411	+	146	3999574052	-	DQL28_RS05860	-	-	membrane protein
+1163441..1164709	+	422	3999574053	-	DQL28_RS05865	-	-	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+1164797..1166149	-	450	3999574054	gorA	DQL28_RS05870	-	-	glutathione-disulfide reductase
+1166370..1166711	-	113	3999574055	-	DQL28_RS05875	-	-	YlbF/YmcA family competence regulator
+1166772..1167938	-	388	3999574056	aroC	DQL28_RS05880	-	-	chorismate synthase
+1168032..1168718	-	228	3999574057	aroD	DQL28_RS05885	-	-	type I 3-dehydroquinate dehydratase
+1168715..1169878	-	387	3999574058	-	DQL28_RS05890	-	-	class I SAM-dependent rRNA methyltransferase
+1169986..1172196	+	736	3999574059	-	DQL28_RS05895	-	-	LTA synthase family protein
+1172487..1172846	-	119	3999574060	rplT	DQL28_RS05900	-	-	50S ribosomal protein L20
+1172905..1173102	-	65	3999574061	rpmI	DQL28_RS05905	-	-	50S ribosomal protein L35
+1173144..1173674	-	176	3999574062	infC	DQL28_RS05910	-	-	translation initiation factor IF-3
+1173836..1174516	-	226	3999574063	cmk	DQL28_RS05915	-	-	(d)CMP kinase
+1174531..1175007	-	158	3999574064	-	DQL28_RS05920	-	-	LysM domain-containing protein
+1175055..1175252	+	65	3999574065	-	DQL28_RS05925	-	-	ferredoxin
+1175239..1175727	-	162	3999574066	-	DQL28_RS05930	-	-	EbsA family protein
+1175768..1176991	-	407	3999574067	pepT	DQL28_RS05935	-	-	peptidase T
+1177085..1178581	-	498	3999574068	-	DQL28_RS05940	-	-	DUF2142 domain-containing protein
+1178562..1179848	-	428	3999574069	-	DQL28_RS05945	-	-	lipopolysaccharide biosynthesis protein
+1179841..1180182	-	113	3999574070	-	DQL28_RS05950	-	-	DUF2304 domain-containing protein
+1180184..1180879	-	231	3999574071	-	DQL28_RS05955	-	-	glycosyltransferase family 2 protein
+1181058..1183532	-	824	3999574072	-	DQL28_RS05960	-	-	LTA synthase family protein
+1183529..1185274	-	581	3999574073	-	DQL28_RS05965	-	-	alpha-L-Rha alpha-1,3-L-rhamnosyltransferase
+1185271..1186278	-	335	3999574074	-	DQL28_RS05970	-	-	glycosyltransferase
+1186303..1187508	-	401	3999574075	-	DQL28_RS05975	-	-	ABC transporter ATP-binding protein
+1187508..1188311	-	267	3999574076	-	DQL28_RS05980	-	-	ABC transporter permease
+1188314..1189246	-	310	3999574077	-	DQL28_RS05985	-	-	glycosyltransferase family 2 protein
+1189236..1190390	-	384	3999574078	-	DQL28_RS05990	-	-	DUF1972 domain-containing protein
+1190509..1191363	-	284	3999574079	rfbD	DQL28_RS05995	-	-	dTDP-4-dehydrorhamnose reductase
+1191501..1191839	-	112	3999574080	-	DQL28_RS06000	-	-	metal-sulfur cluster assembly factor
+1192075..1193184	-	369	3999574081	rpoD	DQL28_RS06005	-	-	RNA polymerase sigma factor RpoD
+1193193..1195007	-	604	3999574082	dnaG	DQL28_RS06010	-	-	DNA primase
+1195137..1195499	+	120	3999574083	mscL	DQL28_RS06015	-	-	large conductance mechanosensitive channel protein MscL
+1195627..1195833	-	68	3999574084	rpsU	DQL28_RS06020	-	-	30S ribosomal protein S21
+1195944..1196756	-	270	3999574085	-	DQL28_RS06025	-	-	transporter substrate-binding domain-containing protein
+1196896..1200564	-	1222	3999574086	addA	DQL28_RS06030	-	-	helicase-exonuclease AddAB subunit AddA
+1200525..1203740	-	1071	3999574087	rexB	DQL28_RS06035	-	-	ATP-dependent nuclease subunit B
+1203891..1204808	+	305	3999574088	-	DQL28_RS06040	-	-	zinc metallopeptidase
+1204912..1205580	-	222	3999574089	-	DQL28_RS06045	-	-	ABC transporter ATP-binding protein
+1205590..1206666	-	358	3999574090	-	DQL28_RS06050	-	-	ABC transporter permease
+1206739..1207125	-	128	3999574091	-	DQL28_RS06055	-	-	YbgA family protein
+1207118..1207495	-	125	3999574092	-	DQL28_RS06060	-	-	OsmC family protein
+1207605..1210010	-	801	3999574093	pheT	DQL28_RS06065	-	-	phenylalanine--tRNA ligase subunit beta
+1210220..1211263	-	347	3999574094	pheS	DQL28_RS06070	-	-	phenylalanine--tRNA ligase subunit alpha
+1211546..1212085	-	179	3999574095	-	DQL28_RS06075	-	-	DNA/RNA non-specific endonuclease
+1212121..1212309	-	62	3999574096	-	DQL28_RS06080	-	-	DNA-directed RNA polymerase subunit beta
+1212313..1213584	-	423	3999574097	murA	DQL28_RS06085	-	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+1213649..1213906	-	85	3999574098	-	DQL28_RS06090	-	-	DUF1146 family protein
+1214172..1214588	-	138	3999574099	-	DQL28_RS06095	-	-	F0F1 ATP synthase subunit epsilon
+1214601..1216007	-	468	3999574100	atpD	DQL28_RS06100	-	-	F0F1 ATP synthase subunit beta
+1216169..1217044	-	291	3999574101	-	DQL28_RS06105	-	-	F0F1 ATP synthase subunit gamma
+1217060..1218568	-	502	3999574102	atpA	DQL28_RS06110	-	-	F0F1 ATP synthase subunit alpha
+1218584..1219120	-	178	3999574103	-	DQL28_RS06115	-	-	F0F1 ATP synthase subunit delta
+1219120..1219614	-	164	3999574104	atpF	DQL28_RS06120	-	-	F0F1 ATP synthase subunit B
+1219632..1220348	-	238	3999574105	atpB	DQL28_RS06125	-	-	F0F1 ATP synthase subunit A
+1220383..1220580	-	65	3999574106	-	DQL28_RS06130	-	-	F0F1 ATP synthase subunit C
+1220972..1221994	-	340	3999574107	-	DQL28_RS06135	-	-	diacylglycerol kinase family lipid kinase
+1222008..1223966	-	652	3999574108	ligA	DQL28_RS06140	-	-	NAD-dependent DNA ligase LigA
+1224161..1224661	-	166	3999574109	-	DQL28_RS06145	-	-	QueT transporter family protein
+1224939..1227671	-	910	3999574110	-	DQL28_RS06150	-	-	SpnA family nuclease
+1228243..1229361	-	372	3999574111	-	DQL28_RS06160	-	-	ABC transporter permease
+1229358..1230485	-	375	3999574112	-	DQL28_RS06165	-	-	SagG family ABC transporter permease subunit
+1230494..1231417	-	307	3999574113	-	DQL28_RS06170	-	-	ABC transporter ATP-binding protein
+1231440..1232123	-	227	3999574114	-	DQL28_RS06175	-	-	SagF family protein
+1232120..1232791	-	223	3999574115	-	DQL28_RS06180	-	-	CPBP family intramembrane metalloprotease
+1232766..1234124	-	452	3999574116	-	DQL28_RS06185	-	-	YcaO-like family protein
+1234144..1235202	-	352	3999574117	-	DQL28_RS06190	-	-	streptolysin associated protein SagC
+1235199..1236149	-	316	3999574118	sagB	DQL28_RS06195	-	-	streptolysin S biosynthesis dehydrogenase SagB
+1236371..1236532	-	53	3999574119	sagA	DQL28_RS06200	-	-	TOMM family cytolysin streptolysin S
+1237397..1243567	-	2056	3999574121	-	DQL28_RS06210	-	-	DUF1542 domain-containing protein
+1244039..1245580	+	513	3999574122	-	DQL28_RS06215	-	-	helix-turn-helix domain-containing protein
+1247221..1248528	-	435	3999574124	eno	DQL28_RS06225	-	-	phosphopyruvate hydratase
+1248755..1249213	+	152	3999574125	-	DQL28_RS06230	-	-	YueI family protein
+1249344..1251068	-	574	3999574126	ezrA	DQL28_RS06235	-	-	septation ring formation regulator EzrA
+1251436..1253388	-	650	3999574127	gyrB	DQL28_RS06240	-	-	DNA topoisomerase (ATP-hydrolyzing) subunit B
+1253389..1253958	-	189	3999574128	-	DQL28_RS06245	-	-	HAD-IA family hydrolase
+1254985..1255332	-	115	3999574130	rplS	DQL28_RS06255	-	-	50S ribosomal protein L19
+1255447..1256709	-	420	3999574131	-	DQL28_RS06260	-	-	voltage-gated chloride channel family protein
+1256702..1256986	-	94	3999574132	-	DQL28_RS06265	-	-	chorismate mutase
+1257162..1257611	-	149	3999574133	-	DQL28_RS06270	-	-	flavodoxin
+1258005..1258946	+	313	3999574134	-	DQL28_RS06275	-	-	bifunctional oligoribonuclease/PAP phosphatase NrnA
+1259061..1259321	+	86	3999574135	-	DQL28_RS06280	-	-	type B 50S ribosomal protein L31
+1259418..1260617	-	399	3999574136	-	DQL28_RS06285	-	-	SIS domain-containing protein
+1261126..1261359	-	77	3999574138	-	DQL28_RS09640	-	-	GntR family transcriptional regulator
+1261506..1263053	-	515	3999574139	-	DQL28_RS06295	-	-	zinc ABC transporter substrate-binding protein AdcA
+1263205..1264602	-	465	3999574140	-	DQL28_RS06300	-	-	C69 family dipeptidase
+1264735..1265646	-	303	3999574141	whiA	DQL28_RS06305	-	-	DNA-binding protein WhiA
+1265643..1266620	-	325	3999574142	-	DQL28_RS06310	-	-	YvcK family protein
+1266617..1267507	-	296	3999574143	rapZ	DQL28_RS06315	-	-	RNase adapter RapZ
+1267922..1269268	-	448	3999574144	asnS	DQL28_RS06320	-	-	asparagine--tRNA ligase
+1269289..1270482	-	397	3999574145	-	DQL28_RS06325	-	-	pyridoxal phosphate-dependent aminotransferase
+1270819..1273320	-	833	3999574146	-	DQL28_RS06330	-	-	bifunctional DnaQ family exonuclease/ATP-dependent helicase
+1273428..1274192	-	254	3999574147	-	DQL28_RS06335	-	-	(S)-acetoin forming diacetyl reductase
+1274360..1275058	+	232	3999574148	-	DQL28_RS06340	-	-	MBL fold metallo-hydrolase
+1275368..1276297	-	309	3999574149	ftsX	DQL28_RS06345	-	-	permease-like cell division protein FtsX
+1276290..1276982	-	230	3999574150	ftsE	DQL28_RS06350	-	-	cell division ATP-binding protein FtsE
+1277001..1278099	-	365.333333333333	3999574151	prfB	DQL28_RS06355	-	-	peptide chain release factor 2
+1278168..1279292	-	374	3999574152	queG	DQL28_RS06360	-	-	tRNA epoxyqueuosine(34) reductase QueG
+1279988..1280638	-	216	3999574153	-	DQL28_RS06370	-	-	HAD family phosphatase
+1280934..1281569	-	211	3999574154	-	DQL28_RS06375	-	-	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase
+1281574..1282575	-	333	3999574155	-	DQL28_RS06380	-	-	sugar kinase
+1282604..1283245	-	213	3999574156	-	DQL28_RS06385	-	-	RpiB/LacA/LacB family sugar-phosphate isomerase
+1283270..1284064	-	264	3999574157	-	DQL28_RS06390	-	-	gluconate 5-dehydrogenase
+1284389..1284826	+	145	3999574158	-	DQL28_RS06395	-	-	PTS sugar transporter subunit IIA
+1284826..1286025	+	399	3999574159	-	DQL28_RS06400	-	-	glycoside hydrolase family 88 protein
+1286061..1286549	+	162	3999574160	-	DQL28_RS06405	-	-	PTS system mannose/fructose/N-acetylgalactosamine-transporter subunit IIB
+1286568..1287350	+	260	3999574161	-	DQL28_RS06410	-	-	PTS mannose/fructose/sorbose/N-acetylgalactosamine transporter subunit IIC
+1287337..1288158	+	273	3999574162	-	DQL28_RS06415	-	-	PTS system mannose/fructose/sorbose family transporter subunit IID
+1288245..1290152	+	635	3999574163	-	DQL28_RS06420	-	-	heparinase II/III family protein
+1290216..1291211	+	331	3999574164	-	DQL28_RS06425	-	-	LacI family DNA-binding transcriptional regulator
+1291295..1293976	-	893	3999574165	-	DQL28_RS06430	-	-	cation-translocating P-type ATPase
+1294206..1294592	-	128	3999574166	-	DQL28_RS06435	-	-	DUF1934 domain-containing protein
+1294674..1295975	+	433	3999574167	-	DQL28_RS06440	-	-	HD domain-containing protein
+1296431..1297240	+	269	3999574168	yidA	DQL28_RS06450	-	-	sugar-phosphatase
+1297240..1298466	+	408	3999574169	-	DQL28_RS06455	-	-	lipid II:glycine glycyltransferase FemX
+1298453..1299688	+	411	3999574170	-	DQL28_RS06460	-	-	lipid II:glycine glycyltransferase FemX
+1299787..1300545	-	252	3999574171	tpiA	DQL28_RS06465	-	-	triose-phosphate isomerase
+1300786..1301982	-	398	3999574172	tuf	DQL28_RS06470	-	-	elongation factor Tu
+1302336..1303640	-	434	3999574173	-	DQL28_RS06475	-	-	FtsW/RodA/SpoVE family cell cycle protein
+1303780..1306578	-	932	3999574174	ppc	DQL28_RS06480	-	-	phosphoenolpyruvate carboxylase
+1306737..1308536	+	599	3999574175	pepF	DQL28_RS06485	-	-	oligoendopeptidase F
+1308835..1310037	-	400	3999574177	-	DQL28_RS06495	-	-	glucosaminidase domain-containing protein
+1310148..1310333	-	61	3999574178	-	DQL28_RS06500	-	-	holin
+1310330..1310626	-	98	3999574179	-	DQL28_RS06505	-	-	hypothetical protein
+1310637..1311269	-	210	3999574180	-	DQL28_RS06510	-	-	hypothetical protein
+1311272..1311700	-	142	3999574181	-	DQL28_RS06515	-	-	DUF1617 family protein
+1311709..1313649	-	646	3999574182	-	DQL28_RS06520	-	-	gp58-like family protein
+1313659..1314774	-	371	3999574183	-	DQL28_RS06525	-	-	hyaluronoglucosaminidase
+1314774..1316741	-	655	3999574184	-	DQL28_RS06530	-	-	phage tail protein
+1316723..1317418	-	231	3999574185	-	DQL28_RS06535	-	-	hypothetical protein
+1317415..1319778	-	787	3999574186	-	DQL28_RS06540	-	-	hypothetical protein
+1319778..1320149	-	123	3999574187	-	DQL28_RS06545	-	-	DUF5361 domain-containing protein
+1320164..1320427	-	87	3999574188	-	DQL28_RS06550	-	-	hypothetical protein
+1320438..1321016	-	192	3999574189	-	DQL28_RS06555	-	-	hypothetical protein
+1321028..1321363	-	111	3999574190	-	DQL28_RS06560	-	-	hypothetical protein
+1321364..1321600	-	78	3999574191	-	DQL28_RS06565	-	-	hypothetical protein
+1321593..1321931	-	112	3999574192	-	DQL28_RS06570	-	-	hypothetical protein
+1321891..1322313	-	140	3999574193	-	DQL28_RS06575	-	-	phage Gp19/Gp15/Gp42 family protein
+1322323..1322523	-	66	3999574194	-	DQL28_RS06580	-	-	hypothetical protein
+1322523..1323434	-	303	3999574195	-	DQL28_RS06585	-	-	phage major capsid protein
+1323459..1323920	-	153	3999574196	-	DQL28_RS06590	-	-	DUF4355 domain-containing protein
+1323991..1325406	-	471	3999574197	-	DQL28_RS06595	-	-	hypothetical protein
+1325488..1325724	-	78	3999574198	-	DQL28_RS06600	-	-	hypothetical protein
+1325726..1325992	-	88	3999574199	-	DQL28_RS06605	-	-	hypothetical protein
+1325985..1326164	-	59	3999574200	-	DQL28_RS06610	-	-	hypothetical protein
+1326214..1326438	-	74	3999574201	-	DQL28_RS06615	-	-	hypothetical protein
+1326444..1327937	-	497	3999574202	-	DQL28_RS06620	-	-	hypothetical protein
+1327930..1329198	-	422	3999574203	-	DQL28_RS06625	-	-	phage portal protein
+1329195..1329551	-	118	3999574204	-	DQL28_RS06630	-	-	hypothetical protein
+1329700..1330044	-	114	3999574205	-	DQL28_RS06635	-	-	HNH endonuclease
+1330151..1330570	-	139	3999574206	-	DQL28_RS06640	-	-	DUF1492 domain-containing protein
+1330645..1330896	-	83	3999574207	-	DQL28_RS06645	-	-	hypothetical protein
+1330893..1331618	-	241	3999574208	-	DQL28_RS06650	-	-	DUF1642 domain-containing protein
+1331615..1331908	-	97	3999574209	-	DQL28_RS06655	-	-	hypothetical protein
+1331956..1332720	-	254	3999574210	-	DQL28_RS06660	-	-	DNA methyltransferase
+1332710..1333192	-	160	3999574211	-	DQL28_RS06665	-	-	class I SAM-dependent methyltransferase
+1333196..1333465	-	89	3999574212	-	DQL28_RS06670	-	-	hypothetical protein
+1333470..1333655	-	61	3999574213	-	DQL28_RS09530	-	-	hypothetical protein
+1333642..1334154	-	170	3999574214	-	DQL28_RS06680	-	-	phage protein
+1334151..1334492	-	113	3999574215	-	DQL28_RS06685	-	-	hypothetical protein
+1334689..1335717	-	342	3999574216	-	DQL28_RS06690	-	-	DUF1351 domain-containing protein
+1335727..1336518	-	263	3999574217	bet	DQL28_RS06695	-	-	phage recombination protein Bet
+1336521..1336850	-	109	3999574218	-	DQL28_RS06700	-	-	hypothetical protein
+1336906..1337112	-	68	3999574219	-	DQL28_RS06705	-	-	hypothetical protein
+1337121..1337261	-	46	3999574220	-	DQL28_RS06710	-	-	hypothetical protein
+1337258..1337491	-	77	3999574221	-	DQL28_RS06715	-	-	hypothetical protein
+1337472..1337858	-	128	3999574222	-	DQL28_RS06720	-	-	DnaD domain-containing protein
+1337998..1338252	-	84	3999574223	-	DQL28_RS09535	-	-	transcriptional regulator
+1338361..1338546	-	61	3999574224	-	DQL28_RS06730	-	-	hypothetical protein
+1338779..1338961	+	60	3999574225	-	DQL28_RS06735	-	-	hypothetical protein
+1339130..1339342	-	70	3999574226	-	DQL28_RS06740	-	-	helix-turn-helix transcriptional regulator
+1339544..1340299	+	251	3999574227	-	DQL28_RS06745	-	-	XRE family transcriptional regulator
+1340311..1340829	+	172	3999574228	-	DQL28_RS06750	-	-	HIRAN domain-containing protein
+1340961..1342418	+	485	3999574229	-	DQL28_RS06755	-	-	recombinase family protein
+1342769..1343152	-	127	3999574231	-	DQL28_RS06765	-	-	DUF4430 domain-containing protein
+1343136..1343639	-	167	3999574232	-	DQL28_RS06770	-	-	ECF transporter S component
+1343964..1344812	+	282	3999574233	-	DQL28_RS06775	-	-	glycoside hydrolase family 25 protein
+1345081..1345644	+	187	3999574234	thiT	DQL28_RS06780	-	-	energy-coupled thiamine transporter ThiT
+1345734..1346213	+	159	3999574235	-	DQL28_RS06785	-	-	aminoacyl-tRNA deacylase
+1346554..1347177	+	207	3999574236	-	DQL28_RS06790	-	-	histidine phosphatase family protein
+1347285..1348187	-	300	3999574237	-	DQL28_RS06795	-	-	HAD family hydrolase
+1348361..1349854	+	497	3999574238	lysS	DQL28_RS06800	-	-	lysine--tRNA ligase
+1349990..1350130	+	46	3999574239	-	DQL28_RS09400	-	-	hypothetical protein
+1350233..1350445	-	70	3999574240	-	DQL28_RS06805	-	-	PC4/YdbC family ssDNA-binding protein
+1350656..1351942	-	428	3999574241	-	DQL28_RS06810	-	-	U32 family peptidase
+1352044..1352970	-	308	3999574242	-	DQL28_RS06815	-	-	U32 family peptidase
+1353169..1353453	+	94	3999574243	-	DQL28_RS06820	-	-	DUF3270 domain-containing protein
+1353612..1354040	-	142	3999574244	-	DQL28_RS06825	-	-	YtxH domain-containing protein
+1354033..1354440	-	135	3999574245	-	DQL28_RS06830	-	-	DUF948 domain-containing protein
+1354462..1355241	-	259	3999574246	lgt	DQL28_RS06835	-	-	prolipoprotein diacylglyceryl transferase
+1355238..1356170	-	310	3999574247	hprK	DQL28_RS06840	-	-	HPr(Ser) kinase/phosphatase
+1356535..1356807	-	90	3999574248	-	DQL28_RS06845	-	-	PspC domain-containing protein
+1356871..1357308	-	145	3999574249	-	DQL28_RS06850	-	-	SprT family protein
+1357295..1359427	-	710	3999574250	-	DQL28_RS06855	-	-	Tex family protein
+1359661..1359816	+	51	3999574251	-	DQL28_RS06860	-	-	SPJ_0845 family protein
+1359964..1360866	+	300	3999574252	-	DQL28_RS06865	-	-	permease
+1360866..1361681	+	271	3999574253	-	DQL28_RS06870	-	-	TIGR03943 family protein
+1361780..1363204	-	474	3999574254	-	DQL28_RS06875	-	-	glycoside hydrolase family 1 protein
+1363223..1365085	-	620	3999574255	-	DQL28_RS06880	-	-	PTS beta-glucoside transporter subunit IIBCA
+1365087..1365929	-	280	3999574256	-	DQL28_RS06885	-	-	PRD domain-containing protein
+1366257..1367624	+	455	3999574257	-	DQL28_RS06890	-	-	MFS transporter
+1367678..1369141	-	487	3999574258	ftsY	DQL28_RS06895	-	-	signal recognition particle-docking protein FtsY
+1369141..1369965	-	274	3999574259	-	DQL28_RS06900	-	-	Cof-type HAD-IIB family hydrolase
+1369969..1370766	-	265	3999574260	-	DQL28_RS06905	-	-	HAD family hydrolase
+1372065..1372370	-	101	3999574264	-	DQL28_RS06925	-	-	type II toxin-antitoxin system RelE/ParE family toxin
+1372370..1372672	-	100	3999574265	-	DQL28_RS06930	-	-	type II toxin-antitoxin system RelB/DinJ family antitoxin
+1372727..1372885	-	52	3999574266	-	DQL28_RS09405	-	-	terminase
+1372919..1373812	+	297	3999574267	-	DQL28_RS06935	-	-	hypothetical protein
+1373812..1374036	+	74	3999574268	-	DQL28_RS06940	-	-	hypothetical protein
+1375675..1375884	+	69	3999574270	-	DQL28_RS06955	-	-	helix-turn-helix transcriptional regulator
+1375986..1377194	-	402	3999574271	-	DQL28_RS06960	-	-	MFS transporter
+1377279..1378436	-	385	3999574272	-	DQL28_RS06965	-	-	UDP-glucose/GDP-mannose dehydrogenase family protein
+1379128..1380117	-	329	3999574273	-	DQL28_RS06975	-	-	glycosyltransferase
+1380172..1381140	-	322	3999574274	-	DQL28_RS06980	-	-	serine/threonine protein kinase
+1381124..1382323	-	399	3999574275	-	DQL28_RS06985	-	-	methionine adenosyltransferase
+1382333..1383319	-	328	3999574276	-	DQL28_RS06990	-	-	dehydrogenase
+1383312..1384046	-	244	3999574277	-	DQL28_RS06995	-	-	coenzyme F420-0:L-glutamate ligase
+1384048..1384884	-	278	3999574278	-	DQL28_RS07000	-	-	sugar phosphate isomerase/epimerase
+1384881..1385807	-	308	3999574279	-	DQL28_RS07005	-	-	shikimate dehydrogenase
+1385876..1385947	-	23	3999574280	shp3	DQL28_RS09355	-	-	peptide pheromone SHP3
+1386027..1386878	+	283	3999574281	rgg3	DQL28_RS07010	-	-	quorum-sensing system transcriptional regulator Rgg3
+1387131..1390670	-	1179	3999574282	smc	DQL28_RS07015	-	-	chromosome segregation protein SMC
+1390671..1391363	-	230	3999574283	rnc	DQL28_RS07020	-	-	ribonuclease III
+1391806..1392615	-	269	3999574284	-	DQL28_RS07025	-	-	MBL fold metallo-hydrolase
+1392619..1393971	-	450	3999574285	vicK	DQL28_RS07030	-	-	cell wall metabolism sensor histidine kinase VicK
+1393964..1394674	-	236	3999574286	yycF	DQL28_RS07035	-	-	response regulator YycF
+1394836..1395870	-	344	3999574287	-	DQL28_RS07040	-	-	DUF3114 domain-containing protein
+1395926..1397173	-	415	3999574288	-	DQL28_RS07045	-	-	AMP-binding protein
+1397130..1398278	-	382	3999574289	-	DQL28_RS07050	-	-	acetyl-CoA C-acyltransferase
+1398247..1398816	-	189	3999574290	-	DQL28_RS07055	-	-	hypothetical protein
+1398951..1399661	-	236	3999574291	-	DQL28_RS07060	-	-	aquaporin family protein
+1399679..1400053	-	124	3999574292	dhaM	DQL28_RS07065	-	-	dihydroxyacetone kinase phosphoryl donor subunit DhaM
+1400053..1400628	-	191	3999574293	dhaL	DQL28_RS07070	-	-	dihydroxyacetone kinase subunit DhaL
+1400639..1401628	-	329	3999574294	dhaK	DQL28_RS07075	-	-	dihydroxyacetone kinase subunit DhaK
+1401780..1402316	+	178	3999574295	dhaS	DQL28_RS07080	-	-	dihydroxyacetone kinase transcriptional activator DhaS
+1402331..1403320	+	329	3999574296	dhaQ	DQL28_RS07085	-	-	DhaKLM operon coactivator DhaQ
+1403426..1404211	-	261	3999574297	-	DQL28_RS07090	-	-	ABC transporter permease
+1404213..1405031	-	272	3999574298	-	DQL28_RS07095	-	-	ABC-2 family transporter protein
+1405033..1406025	-	330	3999574299	-	DQL28_RS07100	-	-	ATP-binding cassette domain-containing protein
+1406166..1408109	-	647	3999574300	thrS	DQL28_RS07105	-	-	threonine--tRNA ligase
+1408531..1409865	-	444	3999574301	-	DQL28_RS07110	-	-	glycosyltransferase family 4 protein
+1409867..1410865	-	332	3999574302	-	DQL28_RS07115	-	-	glycosyltransferase family 4 protein
+1410996..1411997	-	333	3999574303	ccpA	DQL28_RS07120	-	-	catabolite control protein A
+1412171..1413256	+	361	3999574304	-	DQL28_RS07125	-	-	Xaa-Pro peptidase family protein
+1413305..1413970	+	221	3999574305	-	DQL28_RS07130	-	-	NAD(P)H-dependent oxidoreductase
+1413981..1414358	+	125	3999574306	-	DQL28_RS07135	-	-	VOC family protein
+1414503..1415429	+	308	3999574307	-	DQL28_RS07140	-	-	glycosyltransferase family 2 protein
+1415640..1416323	+	227	3999574308	-	DQL28_RS07145	-	-	DUF969 domain-containing protein
+1416323..1417249	+	308	3999574309	-	DQL28_RS07150	-	-	DUF979 family protein
+1417299..1417946	+	215	3999574310	pcp	DQL28_RS07155	-	-	pyroglutamyl-peptidase I
+1418064..1418783	-	239	3999574311	-	DQL28_RS07160	-	-	glutaminyl-peptide cyclotransferase
+1418789..1419256	-	155	3999574312	smpB	DQL28_RS07165	-	-	SsrA-binding protein SmpB
+1419259..1421592	-	777	3999574313	rnr	DQL28_RS07170	-	-	ribonuclease R
+1421686..1421922	-	78	3999574314	secG	DQL28_RS07175	-	-	preprotein translocase subunit SecG
+1421968..1422114	-	48	3999574315	rpmG	DQL28_RS07180	-	-	50S ribosomal protein L33
+1422111..1423304	-	397	3999574316	-	DQL28_RS07185	-	-	multidrug efflux MFS transporter
+1423426..1424928	-	500	3999574317	-	DQL28_RS07190	-	-	DUF853 family protein
+1425118..1425768	-	216	3999574318	coaE	DQL28_RS07195	-	-	dephospho-CoA kinase
+1425708..1426535	-	275	3999574319	mutM	DQL28_RS07200	-	-	DNA-formamidopyrimidine glycosylase
+1426707..1427573	-	288	3999574320	rgg2	DQL28_RS07205	-	-	quorum-sensing system transcriptional regulator Rgg2
+1427662..1427730	+	22	3999574321	shp2	DQL28_RS09360	-	-	peptide pheromone SHP2
+1428644..1428913	+	89	3999574322	stcA	DQL28_RS07215	-	-	quorum-sensing system protein StcA
+1429261..1429659	-	132	3999574323	-	DQL28_RS07220	-	-	histidine kinase
+1429752..1429973	-	73	3999574324	-	DQL28_RS09550	-	-	hypothetical protein
+1430069..1430692	-	207	3999574325	-	DQL28_RS09555	-	-	hypothetical protein
+1430685..1430822	-	45	3999574326	-	DQL28_RS09560	-	-	hypothetical protein
+1431073..1431474	-	133	3999574327	-	DQL28_RS07230	-	-	hypothetical protein
+1431668..1431949	-	93	3999574328	-	DQL28_RS07235	-	-	hypothetical protein
+1431999..1432193	-	64	3999574329	-	DQL28_RS07240	-	-	hypothetical protein
+1432487..1432687	-	66	3999574330	-	DQL28_RS07250	-	-	class IIb bacteriocin, lactobin A/cerein 7B family
+1432700..1432927	-	75	3999574331	-	DQL28_RS07255	-	-	Blp family class II bacteriocin
+1433214..1435367	+	717	3999574332	-	DQL28_RS07260	-	-	peptide cleavage/export ABC transporter
+1435378..1436742	+	454	3999574333	-	DQL28_RS07265	-	-	bacteriocin secretion accessory protein
+1436819..1436944	+	41	3999574334	-	DQL28_RS07270	-	-	ComC/BlpC family leader-containing pheromone/bacteriocin
+1437092..1438426	-	444	3999574335	-	DQL28_RS07275	-	-	GHKL domain-containing protein
+1438427..1439176	-	249	3999574336	-	DQL28_RS07280	-	-	response regulator transcription factor
+1442318..1442635	-	105	3999574339	-	DQL28_RS07300	-	-	hypothetical protein
+1442684..1442899	-	71	3999574340	-	DQL28_RS07305	-	-	Blp family class II bacteriocin
+1443296..1443424	-	42	3999574341	-	DQL28_RS09645	-	-	hypothetical protein
+1444115..1444291	-	58	3999574342	-	DQL28_RS09410	-	-	hypothetical protein
+1444269..1444493	-	74	3999574343	-	DQL28_RS07315	-	-	Blp family class II bacteriocin
+1446594..1446905	-	103	3999574345	-	DQL28_RS07335	-	-	LytTR family transcriptional regulator DNA-binding domain-containing protein
+1447124..1447378	+	84	3999574346	-	DQL28_RS07340	-	-	hypothetical protein
+1447684..1448160	-	158	3999574347	-	DQL28_RS07345	-	-	NUDIX hydrolase
+1448180..1449076	-	298	3999574348	era	DQL28_RS07350	-	-	GTPase Era
+1449196..1449603	-	135	3999574349	-	DQL28_RS07355	-	-	diacylglycerol kinase
+1449584..1450081	-	165	3999574350	ybeY	DQL28_RS07360	-	-	rRNA maturation RNase YbeY
+1450240..1450815	-	191	3999574351	-	DQL28_RS07365	-	-	uracil-DNA glycosylase family protein
+1450861..1451913	-	350	3999574352	-	DQL28_RS07370	-	-	PhoH family protein
+1452072..1453844	-	590	3999574353	-	DQL28_RS07375	-	-	oleate hydratase
+1454158..1455339	-	393	3999574354	-	DQL28_RS07380	-	-	LysM peptidoglycan-binding domain-containing protein
+1455495..1455710	-	71	3999574355	-	DQL28_RS07385	-	-	YozE family protein
+1455707..1456216	-	169	3999574356	msrA	DQL28_RS07390	-	-	peptide-methionine (S)-S-oxide reductase MsrA
+1456289..1457146	-	285	3999574357	-	DQL28_RS07395	-	-	S1 RNA-binding domain-containing protein
+1457255..1457812	-	185	3999574358	frr	DQL28_RS07400	-	-	ribosome recycling factor
+1457841..1458569	-	242	3999574359	pyrH	DQL28_RS07405	-	-	UMP kinase
+1458890..1459579	-	229	3999574360	rplA	DQL28_RS07410	-	-	50S ribosomal protein L1
+1459685..1460110	-	141	3999574361	rplK	DQL28_RS07415	-	-	50S ribosomal protein L11
+1460354..1460707	+	117	3999574362	-	DQL28_RS07420	-	-	DUF3397 domain-containing protein
+1460777..1463182	-	801	3999574363	-	DQL28_RS07425	-	-	DNA translocase FtsK
+1463399..1464205	+	268	3999574364	-	DQL28_RS07430	-	-	peptidylprolyl isomerase
+1464353..1465207	-	284	3999574365	-	DQL28_RS07435	-	-	metal ABC transporter permease
+1465208..1465933	-	241	3999574366	-	DQL28_RS07440	-	-	metal ABC transporter ATP-binding protein
+1465997..1466929	-	310	3999574367	-	DQL28_RS07445	-	-	metal ABC transporter substrate-binding protein
+1467075..1467722	+	215	3999574368	-	DQL28_RS07450	-	-	metal-dependent transcriptional regulator
+1467821..1468162	-	113	3999574369	-	DQL28_RS07455	-	-	hypothetical protein
+1468313..1469008	-	231	3999574370	-	DQL28_RS07460	-	-	5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+1469028..1469279	-	83	3999574371	macP	DQL28_RS07465	-	-	cell wall synthase accessory phosphoprotein MacP
+1469279..1469833	-	184	3999574372	-	DQL28_RS07470	-	-	NUDIX hydrolase
+1469864..1471246	-	460	3999574373	glmU	DQL28_RS07475	-	-	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU
+1471419..1472756	-	445	3999574374	-	DQL28_RS07480	-	-	MFS transporter
+1473089..1474048	-	319	3999574375	-	DQL28_RS07485	-	-	Gfo/Idh/MocA family oxidoreductase
+1474124..1474822	-	232	3999574376	-	DQL28_RS07490	-	-	3-oxoacyl-ACP reductase
+1474815..1475051	-	78	3999574377	-	DQL28_RS07495	-	-	DUF2829 domain-containing protein
+1475410..1476075	+	221	3999574378	-	DQL28_RS07500	-	-	hypothetical protein
+1476345..1477043	+	232	3999574379	spej	DQL28_RS07505	-	-	streptococcal pyrogenic exotoxin SpeJ
+1477357..1477677	-	106	3999574380	-	DQL28_RS07510	-	-	hypothetical protein
+1478354..1478986	+	210	3999574381	-	DQL28_RS07515	-	-	hypothetical protein
+1479080..1479331	-	83	3999574382	-	DQL28_RS07520	-	-	hypothetical protein
+1479607..1480374	-	255	3999574383	-	DQL28_RS07530	-	-	hypothetical protein
+1480832..1481584	+	250	3999574384	-	DQL28_RS07535	-	-	ADP-ribosyltransferase
+1481790..1483970	-	726	3999574385	nrdE	DQL28_RS07545	-	-	class 1b ribonucleoside-diphosphate reductase subunit alpha
+1483937..1484425	-	162	3999574386	nrdI	DQL28_RS07550	-	-	class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+1484429..1485442	-	337	3999574387	nrdF	DQL28_RS07555	-	-	class 1b ribonucleoside-diphosphate reductase subunit beta
+1485936..1487936	-	666	3999574388	metG	DQL28_RS07560	-	-	methionine--tRNA ligase
+1488176..1488883	-	235	3999574389	-	DQL28_RS07565	-	-	YoaK family protein
+1489672..1494615	-	1647	3999574390	scpC	DQL28_RS07575	-	-	CXC chemokine-degrading serine protease SpyCEP
+1494881..1496062	-	393	3999574391	lctO	DQL28_RS07580	-	-	L-lactate oxidase
+1496297..1497124	+	275	3999574392	-	DQL28_RS07590	-	-	exodeoxyribonuclease III
+1497198..1497554	-	118	3999574393	-	DQL28_RS07595	-	-	arsenate reductase family protein
+1497860..1498489	+	209	3999574394	-	DQL28_RS07600	-	-	copper homeostasis protein CutC
+1498536..1498928	-	130	3999574395	-	DQL28_RS07605	-	-	DUF5684 domain-containing protein
+1498955..1499818	-	287	3999574396	rsmI	DQL28_RS07610	-	-	16S rRNA (cytidine(1402)-2'-O)-methyltransferase
+1499823..1500146	-	107	3999574397	yabA	DQL28_RS07615	-	-	DNA replication initiation control protein YabA
+1500644..1500790	-	48	3999574398	-	DQL28_RS09570	-	-	hypothetical protein
+1500809..1501684	-	291	3999574399	-	DQL28_RS07625	-	-	DNA polymerase III subunit delta'
+1501702..1502337	-	211	3999574400	tmk	DQL28_RS07630	-	-	dTMP kinase
+1502586..1502861	-	91	3999574401	-	DQL28_RS07635	-	-	YlbG family protein
+1503356..1503946	-	196	3999574402	-	DQL28_RS07640	-	-	ATP-dependent Clp protease proteolytic subunit
+1504170..1504799	-	209	3999574403	upp	DQL28_RS07650	-	-	uracil phosphoribosyltransferase
+1504967..1506601	-	544	3999574404	-	DQL28_RS07655	-	-	polysaccharide biosynthesis protein
+1506689..1508134	+	481	3999574405	-	DQL28_RS07660	-	-	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L- lysine ligase
+1508380..1509162	+	260	3999574406	-	DQL28_RS07665	-	-	ABC transporter ATP-binding protein
+1509188..1510120	+	310	3999574407	-	DQL28_RS07670	-	-	iron-hydroxamate ABC transporter substrate-binding protein
+1510110..1511162	+	350	3999574408	-	DQL28_RS07675	-	-	iron ABC transporter permease
+1511123..1512160	+	345	3999574409	-	DQL28_RS07680	-	-	iron ABC transporter permease
+1512205..1512858	-	217	3999574410	-	DQL28_RS07685	-	-	DUF1803 domain-containing protein
+1512934..1513869	-	311	3999574411	-	DQL28_RS07690	-	-	manganese-dependent inorganic pyrophosphatase
+1514000..1514791	-	263	3999574412	pflA	DQL28_RS07695	-	-	pyruvate formate-lyase-activating protein
+1514869..1516203	-	444	3999574413	-	DQL28_RS07700	-	-	hemolysin family protein
+1516336..1516890	-	184	3999574414	-	DQL28_RS07705	-	-	class I SAM-dependent methyltransferase
+1516929..1517849	-	306	3999574415	-	DQL28_RS07710	-	-	TIGR01212 family radical SAM protein
+1518142..1518795	-	217	3999574416	-	DQL28_RS07715	-	-	phosphatase PAP2 family protein
+1518797..1519360	-	187	3999574417	-	DQL28_RS07720	-	-	ECF transporter S component
+1519672..1520220	-	182	3999574418	-	DQL28_RS07725	-	-	tRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL
+1520398..1520661	-	87	3999574419	yidD	DQL28_RS07730	-	-	membrane protein insertion efficiency factor YidD
+1520658..1521380	-	240	3999574420	-	DQL28_RS07735	-	-	pseudouridine synthase
+1521503..1522054	-	183	3999574421	scpB	DQL28_RS07740	-	-	SMC-Scp complex subunit ScpB
+1522051..1522755	-	234	3999574422	-	DQL28_RS07745	-	-	segregation/condensation protein A
+1522755..1523501	-	248	3999574423	xerD	DQL28_RS07750	-	-	site-specific tyrosine recombinase XerD
+1523498..1523959	-	153	3999574424	-	DQL28_RS07755	-	-	CBS domain-containing protein
+1523956..1524477	-	173	3999574425	-	DQL28_RS07760	-	-	metallophosphoesterase
+1524456..1525442	-	328	3999574426	-	DQL28_RS07765	-	-	nucleoside-triphosphate diphosphatase
+1525439..1526233	-	264	3999574427	racE	DQL28_RS07770	-	-	glutamate racemase
+1526411..1526653	-	80	3999574428	-	DQL28_RS07775	-	-	YneF family protein
+1526831..1527520	-	229	3999574429	-	DQL28_RS07780	-	-	Bax inhibitor-1/YccA family protein
+1527535..1528035	-	166	3999574430	-	DQL28_RS07785	-	-	HD domain-containing protein
+1528074..1528811	-	245	3999574431	-	DQL28_RS07790	-	-	RNA methyltransferase
+1529072..1529350	+	92	3999574432	-	DQL28_RS07795	-	-	acylphosphatase
+1529432..1530355	+	307	3999574433	yidC	DQL28_RS07800	-	-	membrane protein insertase YidC
+1530979..1531461	-	160	3999574434	greA	DQL28_RS07805	-	-	transcription elongation factor GreA
+1531535..1533109	-	524	3999574435	mltG	DQL28_RS07810	-	-	endolytic transglycosylase MltG
+1533221..1533703	-	160	3999574436	-	DQL28_RS07815	-	-	GNAT family N-acetyltransferase
+1533749..1535077	-	442	3999574437	murC	DQL28_RS07820	-	-	UDP-N-acetylmuramate--L-alanine ligase
+1535117..1535719	-	200	3999574438	-	DQL28_RS07825	-	-	hypothetical protein
+1535963..1539061	-	1032	3999574439	-	DQL28_RS07830	-	-	DEAD/DEAH box helicase
+1539268..1540578	-	436	3999574440	der	DQL28_RS07835	-	-	ribosome biogenesis GTPase Der
+1540641..1541543	-	300	3999574441	dnaI	DQL28_RS07840	-	-	primosomal protein DnaI
+1541544..1542719	-	391	3999574442	-	DQL28_RS07845	-	-	replication initiation and membrane attachment family protein
+1542703..1543197	-	164	3999574443	nrdR	DQL28_RS07850	-	-	transcriptional regulator NrdR
+1543411..1544913	-	500	3999574444	covS	DQL28_RS07855	-	-	two-component system sensor histidine kinase CovS
+1544919..1545605	-	228	3999574445	covR	DQL28_RS07860	-	-	two-component system response regulator CovR
+1545872..1546405	-	177	3999574446	-	DQL28_RS07865	-	-	DUF177 domain-containing protein
+1546639..1547535	-	298	3999574447	htpX	DQL28_RS07870	-	-	zinc metalloprotease HtpX
+1547582..1548139	-	185	3999574448	-	DQL28_RS07875	-	-	LemA family protein
+1548289..1549002	+	237	3999574449	rsmG	DQL28_RS07880	-	-	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+1549086..1550462	+	458	3999574450	ktrB	DQL28_RS07885	-	-	potassium uptake transporter channel subunit KtrB
+1550472..1551146	+	224	3999574451	ktrA	DQL28_RS07890	-	-	potassium uptake transporter gating subunit KtrA
+1551201..1552415	-	404	3999574452	sstT	DQL28_RS07895	-	-	serine/threonine transporter SstT
+1552649..1554019	+	456	3999574453	brnQ	DQL28_RS07900	-	-	branched-chain amino acid transport system II carrier protein
+1554073..1554765	-	230	3999574454	-	DQL28_RS07905	-	-	ABC transporter permease
+1554766..1555830	-	354	3999574455	-	DQL28_RS07910	-	-	methionine ABC transporter ATP-binding protein
+1556080..1556925	-	281	3999574456	-	DQL28_RS07915	-	-	MetQ/NlpA family ABC transporter substrate-binding protein
+1557252..1558094	-	280	3999574457	-	DQL28_RS07920	-	-	amino acid ABC transporter substrate-binding protein
+1558297..1559013	-	238	3999574458	-	DQL28_RS07925	-	-	YebC/PmpR family DNA-binding transcriptional regulator
+1559495..1560601	-	368	3999574459	-	DQL28_RS07935	-	-	nucleotidyltransferase
+1560855..1561598	-	247	3999574460	-	DQL28_RS07940	-	-	class I SAM-dependent methyltransferase
+1561646..1561999	-	117	3999574461	rsfS	DQL28_RS07945	-	-	ribosome silencing factor
+1562023..1562616	-	197	3999574462	yqeK	DQL28_RS07950	-	-	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK
+1562613..1563245	-	210	3999574463	-	DQL28_RS07955	-	-	nicotinate-nucleotide adenylyltransferase
+1563314..1563622	-	102	3999574464	yhbY	DQL28_RS07960	-	-	ribosome assembly RNA-binding protein YhbY
+1563647..1564765	-	372	3999574465	yqeH	DQL28_RS07965	-	-	ribosome biogenesis GTPase YqeH
+1564765..1565292	-	175	3999574466	-	DQL28_RS07970	-	-	YqeG family HAD IIIA-type phosphatase
+1565367..1565471	-	34	3999574467	-	DQL28_RS09575	-	-	exfoliative toxin
+1567195..1567776	-	193	3999574469	-	DQL28_RS07985	-	-	sigma-70 family RNA polymerase sigma factor
+1573465..1574607	-	380	3999574470	-	DQL28_RS08020	-	-	glycerate kinase
+1574889..1577867	+	992	3999574471	-	DQL28_RS08025	-	-	type I restriction endonuclease subunit R
+1577880..1579112	+	410	3999574472	-	DQL28_RS08030	-	-	restriction endonuclease subunit S
+1579125..1580705	+	526	3999574473	-	DQL28_RS08035	-	-	type I restriction-modification system subunit M
+1581261..1581866	-	201	3999574474	-	DQL28_RS08045	-	-	response regulator transcription factor
+1581847..1583409	-	520	3999574475	-	DQL28_RS08050	-	-	hypothetical protein
+1583449..1585356	-	635	3999574476	-	DQL28_RS08055	-	-	FtsX-like permease family protein
+1585358..1586095	-	245	3999574477	-	DQL28_RS08060	-	-	ABC transporter ATP-binding protein
+1586092..1586571	-	159	3999574478	-	DQL28_RS08065	-	-	ATP-binding cassette domain-containing protein
+1586627..1588252	-	541	3999574479	-	DQL28_RS08070	-	-	DUF4135 domain-containing protein
+1588334..1588489	-	51	3999574480	-	DQL28_RS08075	-	-	type A2 lanthipeptide
+1588980..1590386	-	468	3999574481	lacG	DQL28_RS08080	-	-	6-phospho-beta-galactosidase
+1590474..1592171	-	565	3999574482	-	DQL28_RS08085	-	-	lactose-specific PTS transporter subunit EIIC
+1592171..1592488	-	105	3999574483	-	DQL28_RS08090	-	-	PTS lactose/cellobiose transporter subunit IIA
+1592512..1593495	-	327	3999574484	lacD	DQL28_RS08095	-	-	tagatose-bisphosphate aldolase
+1593499..1594428	-	309	3999574485	-	DQL28_RS08100	-	-	tagatose-6-phosphate kinase
+1594474..1594989	-	171	3999574486	lacB	DQL28_RS08105	-	-	galactose-6-phosphate isomerase subunit LacB
+1595024..1595452	-	142	3999574487	lacA	DQL28_RS08110	-	-	galactose-6-phosphate isomerase subunit LacA
+1595898..1596671	+	257	3999574488	-	DQL28_RS08115	-	-	DeoR/GlpR family DNA-binding transcription regulator
+1597321..1597608	+	95	3999574489	-	DQL28_RS08120	-	-	DNA-damage-inducible protein J
+1597598..1597933	+	111	3999574490	-	DQL28_RS08125	-	-	type II toxin-antitoxin system RelE/ParE family toxin
+1599186..1599578	-	130	3999574492	rpsI	DQL28_RS08145	-	-	30S ribosomal protein S9
+1599599..1600045	-	148	3999574493	rplM	DQL28_RS08150	-	-	50S ribosomal protein L13
+1600263..1600469	-	68	3999574494	-	DQL28_RS08155	-	-	helix-turn-helix transcriptional regulator
+1600466..1601164	-	232	3999574495	-	DQL28_RS08160	-	-	hypothetical protein
+1601300..1602160	-	286	3999574496	-	DQL28_RS08165	-	-	DegV family protein
+1602257..1602775	-	172	3999574497	-	DQL28_RS08170	-	-	NYN domain-containing protein
+1602779..1603525	-	248	3999574498	rlmB	DQL28_RS08175	-	-	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+1603572..1604369	-	265	3999574499	-	DQL28_RS08180	-	-	hypothetical protein
+1604565..1604978	-	137	3999574500	-	DQL28_RS08185	-	-	Mini-ribonuclease 3
+1604971..1606314	-	447	3999574501	cysS	DQL28_RS08190	-	-	cysteine--tRNA ligase
+1606342..1606572	-	76	3999574502	-	DQL28_RS08195	-	-	hypothetical protein
+1607051..1607632	-	193	3999574503	cysE	DQL28_RS08205	-	-	serine O-acetyltransferase
+1607641..1608393	-	250	3999574504	-	DQL28_RS08210	-	-	SseB family protein
+1608386..1610518	-	710	3999574505	pnp	DQL28_RS08215	-	-	polyribonucleotide nucleotidyltransferase
+1610798..1611529	-	243	3999574506	-	DQL28_RS08220	-	-	transaldolase
+1611539..1612918	-	459	3999574507	-	DQL28_RS08225	-	-	PTS ascorbate transporter subunit IIC
+1612945..1613229	-	94	3999574508	-	DQL28_RS08230	-	-	PTS sugar transporter subunit IIB
+1613222..1615282	-	686	3999574509	-	DQL28_RS08235	-	-	BglG family transcription antiterminator
+1615634..1615903	-	89	3999574510	rpsO	DQL28_RS08240	-	-	30S ribosomal protein S15
+1616061..1616216	-	51	3999574511	-	DQL28_RS08245	-	-	hypothetical protein
+1616342..1616611	+	89	3999574512	-	DQL28_RS08250	-	-	transcriptional regulator
+1616712..1617326	+	204	3999574513	def	DQL28_RS08255	-	-	peptide deformylase
+1617360..1617902	-	180	3999574514	-	DQL28_RS08260	-	-	NAD(P)H-dependent oxidoreductase
+1618032..1618460	-	142	3999574515	-	DQL28_RS08265	-	-	MarR family transcriptional regulator
+1618570..1622967	-	1465	3999574516	-	DQL28_RS08270	-	-	PolC-type DNA polymerase III
+1623221..1625077	-	618	3999574517	-	DQL28_RS08275	-	-	proline--tRNA ligase
+1625275..1626534	-	419	3999574518	rseP	DQL28_RS08280	-	-	RIP metalloprotease RseP
+1626607..1627401	-	264	3999574519	-	DQL28_RS08285	-	-	phosphatidate cytidylyltransferase
+1627414..1628163	-	249	3999574520	-	DQL28_RS08290	-	-	isoprenyl transferase
+1628382..1628747	-	121	3999574521	yajC	DQL28_RS08295	-	-	preprotein translocase subunit YajC
+1628863..1629246	-	127	3999574522	-	DQL28_RS08300	-	-	DUF953 domain-containing protein
+1629361..1632858	-	1165	3999574523	-	DQL28_RS08305	-	-	pullulanase
+1634234..1635310	-	358	3999574525	-	DQL28_RS08315	-	-	hypothetical protein
+1635317..1635973	-	218	3999574526	-	DQL28_RS08320	-	-	YiiX/YebB-like N1pC/P60 family cysteine hydrolase
+1637758..1639365	-	535	3999574528	-	DQL28_RS08335	-	-	alpha-glucosidase
+1639500..1640633	-	377	3999574529	ugpC	DQL28_RS08340	-	-	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+1640735..1640878	-	47	3999574530	-	DQL28_RS09415	-	-	hypothetical protein
+1640931..1641821	-	296	3999574531	-	DQL28_RS08345	-	-	PucR family transcriptional regulator
+1642119..1643441	+	440	3999574532	ska	DQL28_RS08350	-	-	streptokinase
+1643539..1643982	-	147	3999574533	dtd	DQL28_RS08355	-	-	D-aminoacyl-tRNA deacylase
+1643997..1646216	-	739	3999574534	-	DQL28_RS08360	-	-	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+1646468..1647400	-	310	3999574535	scl1	DQL28_RS08365	-	-	LPXTG-anchored collagen-like adhesin Scl1/SclA
+1647439..1647699	-	86	3999574536	-	DQL28_RS09585	-	-	hypothetical protein
+1648082..1648564	+	160	3999574537	nrdI	DQL28_RS08370	-	-	class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI
+1648959..1649777	-	272	3999574538	-	DQL28_RS08375	-	-	endonuclease/exonuclease/phosphatase family protein
+1649855..1652041	-	728	3999574539	-	DQL28_RS08380	-	-	PTS transporter subunit IIBC
+1652398..1653147	-	249	3999574540	-	DQL28_RS08385	-	-	16S rRNA (uracil(1498)-N(3))-methyltransferase
+1653147..1654100	-	317	3999574541	prmA	DQL28_RS08390	-	-	50S ribosomal protein L11 methyltransferase
+1654171..1654641	-	156	3999574542	-	DQL28_RS08395	-	-	DUF3013 family protein
+1654814..1656787	+	657	3999574543	-	DQL28_RS08400	-	-	amidase family protein
+1656972..1658729	+	585	3999574544	pabB	DQL28_RS08405	-	-	aminodeoxychorismate synthase component I
+1658762..1659328	+	188	3999574545	-	DQL28_RS08410	-	-	aminodeoxychorismate/anthranilate synthase component II
+1659361..1660629	+	422	3999574546	-	DQL28_RS08415	-	-	replication-associated recombination protein A
+1661201..1661902	+	233	3999574547	smeZ	DQL28_RS08430	-	-	streptococcal mitogenic exotoxin SmeZ
+1662228..1662452	-	74	3999574548	-	DQL28_RS08435	-	-	hypothetical protein
+1662631..1664259	+	542	3999574549	-	DQL28_RS08440	-	-	ABC transporter substrate-binding protein
+1664372..1665349	+	325	3999574550	-	DQL28_RS08445	-	-	ABC transporter permease
+1665346..1666167	+	273	3999574551	-	DQL28_RS08450	-	-	ABC transporter permease
+1666179..1666982	+	267	3999574552	-	DQL28_RS08455	-	-	ABC transporter ATP-binding protein
+1666966..1667592	+	208	3999574553	-	DQL28_RS08460	-	-	ABC transporter ATP-binding protein
+1667674..1667874	-	66	3999574554	-	DQL28_RS08465	-	-	CsbD family protein
+1668043..1670520	-	825	3999574555	-	DQL28_RS08470	-	-	pneumococcal-type histidine triad protein
+1670533..1671453	-	306	3999574556	lmb	DQL28_RS08475	-	-	metal ABC transporter substrate-binding lipoprotein/laminin-binding adhesin Lmb
+1671705..1672898	-	397	3999574557	-	DQL28_RS08480	-	-	YSIRK-type signal peptide-containing protein
+1672995..1676489	-	1164	3999574558	scpA/B	DQL28_RS08485	-	-	C5a peptidase ScpA/B
+1676824..1677906	-	360	3999574559	enn	DQL28_RS08490	-	-	M-related protein Enn
+1678116..1679402	-	428	3999574560	emm	DQL28_RS08495	-	-	M protein
+1679625..1680686	-	353	3999574561	-	DQL28_RS08500	-	-	YSIRK-type signal peptide-containing protein
+1680876..1682477	-	533	3999574562	-	DQL28_RS08505	-	-	helix-turn-helix domain-containing protein
+1683153..1683404	-	83	3999574563	-	DQL28_RS08515	-	-	hypothetical protein
+1683482..1685107	-	541	3999574564	-	DQL28_RS08520	-	-	CHAP domain-containing protein
+1685209..1686597	-	462	3999574565	-	DQL28_RS08525	-	-	HAMP domain-containing sensor histidine kinase
+1686594..1687247	-	217	3999574566	-	DQL28_RS08530	-	-	response regulator transcription factor
+1687341..1688558	-	405	3999574567	-	DQL28_RS08535	-	-	ABC transporter permease
+1688571..1689245	-	224	3999574568	-	DQL28_RS08540	-	-	ABC transporter ATP-binding protein
+1689232..1690500	-	422	3999574569	-	DQL28_RS08545	-	-	efflux RND transporter periplasmic adaptor subunit
+1690923..1691327	-	134	3999574570	-	DQL28_RS08550	-	-	hypothetical protein
+1691354..1691650	-	98	3999574571	-	DQL28_RS08555	-	-	DUF4298 domain-containing protein
+1691894..1692130	+	78	3999574572	-	DQL28_RS08560	-	-	hypothetical protein
+1692401..1693330	-	309	3999574573	prsA	DQL28_RS08565	-	-	peptidylprolyl isomerase PrsA
+1693386..1693703	-	105	3999574574	-	DQL28_RS08570	-	-	hypothetical protein
+1693810..1694115	-	101	3999574575	-	DQL28_RS08575	-	-	Spi family protease inhibitor
+1694117..1695313	-	398	3999574576	speB	DQL28_RS08580	-	-	cysteine proteinase exotoxin SpeB
+1695585..1695755	-	56	3999574577	-	DQL28_RS08585	-	-	hypothetical protein
+1696254..1697096	+	280	3999574578	ropB	DQL28_RS08595	-	-	quorum-sensing system transcriptional regulator RopB/Rgg1
+1697337..1698152	-	271	3999574579	sdaB	DQL28_RS08600	-	-	streptodornase B
+1698514..1699023	+	169	3999574580	-	DQL28_RS08605	-	-	phosphatidylglycerophosphatase A
+1699105..1700193	-	362	3999574581	-	DQL28_RS08610	-	-	glycerol dehydrogenase
+1700250..1700918	-	222	3999574582	-	DQL28_RS08615	-	-	fructose-6-phosphate aldolase
+1700931..1703348	-	805	3999574583	-	DQL28_RS08620	-	-	glycyl radical protein
+1703559..1704863	-	434	3999574584	-	DQL28_RS08625	-	-	PTS sugar transporter subunit IIC
+1704873..1705181	-	102	3999574585	-	DQL28_RS08630	-	-	PTS sugar transporter subunit IIB
+1705209..1705529	-	106	3999574586	-	DQL28_RS08635	-	-	PTS lactose/cellobiose transporter subunit IIA
+1705815..1706795	-	326	3999574587	-	DQL28_RS08640	-	-	sugar-binding transcriptional regulator
+1706811..1707557	-	248	3999574588	-	DQL28_RS08645	-	-	DeoR/GlpR family DNA-binding transcription regulator
+1707683..1708456	+	257	3999574589	-	DQL28_RS08650	-	-	glycyl-radical enzyme activating protein
+1708693..1708869	-	58	3999574590	secE	DQL28_RS08660	-	-	preprotein translocase subunit SecE
+1708883..1709035	-	50	3999574591	rpmG	DQL28_RS08665	-	-	50S ribosomal protein L33
+1709084..1711420	-	778	3999574592	pbp2a	DQL28_RS08670	-	-	penicillin-binding protein PBP2A
+1711459..1711839	-	126	3999574593	-	DQL28_RS08675	-	-	RidA family protein
+1712330..1712521	+	63	3999574594	-	DQL28_RS09590	-	-	hypothetical protein
+1712505..1713416	+	303	3999574595	-	DQL28_RS08685	-	-	RluA family pseudouridine synthase
+1713505..1715157	-	550	3999574596	-	DQL28_RS08690	-	-	hypothetical protein
+1715404..1716903	+	499	3999574597	-	DQL28_RS08695	-	-	C69 family dipeptidase
+1717616..1717921	-	101	3999574599	-	DQL28_RS08705	-	-	helix-turn-helix transcriptional regulator
+1718123..1719754	-	543	3999574600	groL	DQL28_RS08710	-	-	chaperonin GroEL
+1719790..1720080	-	96	3999574601	groES	DQL28_RS08715	-	-	co-chaperone GroES
+1720258..1722702	-	814	3999574602	-	DQL28_RS08720	-	-	ATP-dependent Clp protease ATP-binding subunit
+1722702..1723163	-	153	3999574603	-	DQL28_RS08725	-	-	CtsR family transcriptional regulator
+1723359..1723562	-	67	3999574604	-	DQL28_RS08730	-	-	cold-shock protein
+1724546..1725106	+	186	3999574605	ahpC	DQL28_RS08740	-	-	alkyl hydroperoxide reductase subunit C
+1725127..1726659	+	510	3999574606	ahpF	DQL28_RS08745	-	-	alkyl hydroperoxide reductase subunit F
+1726717..1727982	-	421	3999574607	hutI	DQL28_RS08750	-	-	imidazolonepropionase
+1728271..1730301	+	676	3999574608	-	DQL28_RS08755	-	-	urocanate hydratase
+1730390..1731289	+	299	3999574609	ftcD	DQL28_RS08760	-	-	glutamate formimidoyltransferase
+1731300..1731926	+	208	3999574610	-	DQL28_RS08765	-	-	cyclodeaminase/cyclohydrolase family protein
+1731944..1733617	+	557	3999574611	-	DQL28_RS08770	-	-	formate--tetrahydrofolate ligase
+1733639..1734235	+	198	3999574612	-	DQL28_RS08775	-	-	HutD family protein
+1734455..1735798	+	447	3999574613	-	DQL28_RS08780	-	-	APC family permease
+1735810..1737351	+	513	3999574614	hutH	DQL28_RS08785	-	-	histidine ammonia-lyase
+1737537..1738523	+	328	3999574615	-	DQL28_RS08790	-	-	formimidoylglutamase
+1738561..1741635	-	1024	3999574616	-	DQL28_RS08795	-	-	AAA family ATPase
+1741939..1742706	+	255	3999574617	rpsB	DQL28_RS08800	-	-	30S ribosomal protein S2
+1742840..1743880	+	346	3999574618	tsf	DQL28_RS08805	-	-	translation elongation factor Ts
+1744046..1745941	-	631	3999574619	pepO	DQL28_RS08810	-	-	endopeptidase PepO
+1746149..1747777	-	542	3999574620	treC	DQL28_RS08815	-	-	alpha,alpha-phosphotrehalase
+1747844..1749868	-	674	3999574621	treP	DQL28_RS08820	-	-	PTS system trehalose-specific EIIBC component
+1750079..1750792	+	237	3999574622	treR	DQL28_RS08825	-	-	trehalose operon repressor
+1751598..1752455	+	285	3999574624	-	DQL28_RS08840	-	-	VOC family protein
+1752497..1753228	+	243	3999574625	yaaA	DQL28_RS08845	-	-	peroxide stress protein YaaA
+1753402..1754016	-	204	3999574626	nrdG	DQL28_RS08850	-	-	anaerobic ribonucleoside-triphosphate reductase activating protein
+1754016..1754525	-	169	3999574627	-	DQL28_RS08855	-	-	GNAT family N-acetyltransferase
+1754534..1755469	-	311	3999574628	-	DQL28_RS08860	-	-	Gfo/Idh/MocA family oxidoreductase
+1755498..1755644	-	48	3999574629	-	DQL28_RS09420	-	-	hypothetical protein
+1755827..1758025	-	732	3999574630	nrdD	DQL28_RS08865	-	-	anaerobic ribonucleoside-triphosphate reductase
+1758122..1759681	-	519	3999574631	-	DQL28_RS08870	-	-	membrane protein
+1760094..1760399	-	101	3999574632	-	DQL28_RS08875	-	-	DUF1292 domain-containing protein
+1760411..1760830	-	139	3999574633	ruvX	DQL28_RS08880	-	-	Holliday junction resolvase RuvX
+1760827..1761096	-	89	3999574634	-	DQL28_RS08885	-	-	IreB family regulatory phosphoprotein
+1761211..1761609	-	132	3999574635	spx	DQL28_RS08890	-	-	transcriptional regulator Spx
+1761900..1763036	-	378	3999574636	recA	DQL28_RS08895	-	-	recombinase RecA
+1763125..1764396	-	423	3999574637	-	DQL28_RS08900	-	-	competence/damage-inducible protein A
+1764465..1765025	-	186	3999574638	-	DQL28_RS08905	-	-	DNA-3-methyladenine glycosylase I
+1765035..1765631	-	198	3999574639	ruvA	DQL28_RS08910	-	-	Holliday junction branch migration protein RuvA
+1765633..1766853	-	406	3999574640	-	DQL28_RS08915	-	-	MFS transporter
+1766864..1768846	-	660	3999574641	mutL	DQL28_RS08920	-	-	DNA mismatch repair endonuclease MutL
+1768975..1771530	-	851	3999574642	mutS	DQL28_RS08925	-	-	DNA mismatch repair protein MutS
+1771865..1772302	-	145	3999574644	argR	DQL28_RS08935	-	-	arginine repressor
+1772593..1774284	+	563	3999574645	argS	DQL28_RS08940	-	-	arginine--tRNA ligase
+1774372..1774680	+	102	3999574646	-	DQL28_RS08945	-	-	bacteriocin immunity protein
+1774707..1775579	-	290	3999574647	-	DQL28_RS08950	-	-	YitT family protein
+1775622..1776500	-	292	3999574648	-	DQL28_RS08955	-	-	YitT family protein
+1776520..1777461	-	313	3999574649	-	DQL28_RS08960	-	-	YitT family protein
+1777454..1779202	-	582	3999574650	aspS	DQL28_RS08965	-	-	aspartate--tRNA ligase
+1779540..1780820	-	426	3999574651	hisS	DQL28_RS08970	-	-	histidine--tRNA ligase
+1781040..1781222	+	60	3999574652	rpmF	DQL28_RS08975	-	-	50S ribosomal protein L32
+1781238..1781387	+	49	3999574653	rpmG	DQL28_RS08980	-	-	50S ribosomal protein L33
+1781681..1782295	+	204	3999574655	-	DQL28_RS08990	-	-	CadD family cadmium resistance transporter
+1782307..1782645	+	112	3999574656	cadX	DQL28_RS08995	-	-	Cd(II)/Zn(II)-sensing metalloregulatory transcriptional regulator CadX
+1784427..1785029	+	200	3999574659	-	DQL28_RS09010	-	-	hypothetical protein
+1785505..1785801	-	98	3999574660	-	DQL28_RS09015	-	-	transcriptional regulator
+1786241..1787083	+	280	3999574661	-	DQL28_RS09020	-	-	DUF368 domain-containing protein
+1787130..1787771	-	213	3999574662	-	DQL28_RS09025	-	-	CoA pyrophosphatase
+1787977..1788303	+	108	3999574663	-	DQL28_RS09030	-	-	PadR family transcriptional regulator
+1788290..1788877	+	195	3999574664	-	DQL28_RS09035	-	-	DUF1700 domain-containing protein
+1788874..1789956	+	360	3999574665	-	DQL28_RS09040	-	-	DUF4097 family beta strand repeat-containing protein
+1790025..1792298	-	757	3999574666	-	DQL28_RS09045	-	-	YhgE/Pip domain-containing protein
+1792432..1792965	+	177	3999574667	-	DQL28_RS09050	-	-	TetR/AcrR family transcriptional regulator
+1793119..1793730	-	203	3999574668	rpsD	DQL28_RS09055	-	-	30S ribosomal protein S4
+1794460..1794732	-	90	3999574669	-	DQL28_RS09060	-	-	Veg family protein
+1794749..1796110	-	453	3999574670	dnaB	DQL28_RS09065	-	-	replicative DNA helicase
+1796146..1796598	-	150	3999574671	rplI	DQL28_RS09070	-	-	50S ribosomal protein L9
+1796595..1798571	-	658	3999574672	-	DQL28_RS09075	-	-	DHH family phosphoesterase
+1798661..1800559	-	632	3999574673	mnmG	DQL28_RS09080	-	-	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+1800683..1801000	-	105	3999574674	-	DQL28_RS09085	-	-	NUDIX domain-containing protein
+1801776..1802897	-	373	3999574675	mnmA	DQL28_RS09090	-	-	tRNA 2-thiouridine(34) synthase MnmA
+1803195..1803866	+	223	3999574676	sdaAB	DQL28_RS09095	-	-	L-serine ammonia-lyase, iron-sulfur-dependent subunit beta
+1803878..1804750	+	290	3999574677	sdaAA	DQL28_RS09100	-	-	L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha
+1805164..1805778	-	204	3999574678	-	DQL28_RS09105	-	-	transglycosylase SLT domain-containing protein
+1806083..1806883	-	266	3999574679	-	DQL28_RS09110	-	-	energy-coupling factor transporter transmembrane protein EcfT
+1806876..1807718	-	280	3999574680	-	DQL28_RS09115	-	-	energy-coupling factor transporter ATPase
+1807694..1808533	-	279	3999574681	-	DQL28_RS09120	-	-	energy-coupling factor ABC transporter ATP-binding protein
+1808535..1809077	-	180	3999574682	pgsA	DQL28_RS09125	-	-	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+1809091..1810116	-	341	3999574683	-	DQL28_RS09130	-	-	helix-turn-helix domain-containing protein
+1810166..1811455	-	429	3999574684	-	DQL28_RS09135	-	-	pitrilysin family protein
+1811457..1812701	-	414	3999574685	-	DQL28_RS09140	-	-	pitrilysin family protein
+1813138..1814397	+	419	3999574686	hasA	DQL28_RS09145	-	-	hyaluronan synthase HasA
+1814433..1815641	+	402	3999574687	hasB	DQL28_RS09150	-	-	UDP-glucose 6-dehydrogenase HasB
+1815823..1816737	+	304	3999574688	hasC	DQL28_RS09160	-	-	UTP--glucose-1-phosphate uridylyltransferase HasC
+1817045..1817458	+	137	3999574689	yaaA	DQL28_RS09165	-	-	S4 domain-containing protein YaaA
+1817460..1818566	+	368	3999574690	recF	DQL28_RS09170	-	-	DNA replication/repair protein RecF
+1818623..1819486	-	287	3999574691	-	DQL28_RS09175	-	-	GRP family sugar transporter
+1819812..1821029	-	405	3999574692	-	DQL28_RS09180	-	-	tyrosine-type recombinase/integrase
+1821111..1821314	-	67	3999574693	-	DQL28_RS09185	-	-	excisionase
+1821298..1821549	+	83	3999574694	-	DQL28_RS09605	-	-	hypothetical protein
+1821775..1822005	-	76	3999574695	-	DQL28_RS09195	-	-	helix-turn-helix domain-containing protein
+1822002..1822424	-	140	3999574696	-	DQL28_RS09200	-	-	sigma-70 family RNA polymerase sigma factor
+1822929..1823282	+	117	3999574697	-	DQL28_RS09210	-	-	helix-turn-helix transcriptional regulator
+1823342..1823509	-	55	3999574698	-	DQL28_RS09215	-	-	cysteine-rich KTR domain-containing protein
+1823628..1825547	-	639	3999574699	tet(M)	DQL28_RS09220	-	-	tetracycline resistance ribosomal protection protein Tet(M)
+1825563..1825679	-	38	3999574700	-	DQL28_RS09225	-	-	tetracycline resistance determinant leader peptide
+1825924..1826856	-	310	3999574701	-	DQL28_RS09230	-	-	conjugal transfer protein
+1826853..1827854	-	333	3999574702	-	DQL28_RS09235	-	-	bifunctional lysozyme/C40 family peptidase
+1827851..1830028	-	725	3999574703	-	DQL28_RS09240	-	-	membrane protein
+1830031..1832478	-	815	3999574704	-	DQL28_RS09245	-	-	ATP-binding protein
+1832462..1832854	-	130	3999574705	-	DQL28_RS09250	-	-	conjugal transfer protein
+1832943..1833440	-	165	3999574706	-	DQL28_RS09255	-	-	antirestriction protein ArdA
+1833557..1833778	-	73	3999574707	-	DQL28_RS09260	-	-	hypothetical protein
+1833821..1835026	-	401	3999574708	-	DQL28_RS09265	-	-	replication initiation factor domain-containing protein
+1835049..1835201	-	50	3999574709	-	DQL28_RS09270	-	-	hypothetical protein
+1835204..1836589	-	461	3999574710	-	DQL28_RS09275	-	-	FtsK/SpoIIIE domain-containing protein
+1836618..1837004	-	128	3999574711	-	DQL28_RS09280	-	-	YdcP family protein
+1837020..1837334	-	104	3999574712	-	DQL28_RS09285	-	-	YdcP family protein
+1837728..1839209	-	493	3999574713	guaB	DQL28_RS09295	-	-	IMP dehydrogenase
+1839517..1840539	-	340	3999574714	trpS	DQL28_RS09300	-	-	tryptophan--tRNA ligase
+1840958..1841830	+	290	3999574715	-	DQL28_RS09305	-	-	YitT family protein
+1841909..1843528	+	539	3999574716	-	DQL28_RS09310	-	-	ATP-binding cassette domain-containing protein
+1843611..1846187	+	858	3999574717	-	DQL28_RS09315	-	-	YfhO family protein
+1848227..1848706	-	159	3999574719	rlmH	DQL28_RS09340	-	-	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+1848918..1850141	+	407	3999574720	-	DQL28_RS09345	-	-	trypsin-like peptidase domain-containing protein
+1850200..1851006	+	268	3999574721	-	DQL28_RS09350	-	-	ParB/RepB/Spo0J family partition protein

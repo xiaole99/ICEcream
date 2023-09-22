@@ -1,0 +1,4 @@
+subject	query	identity	V4	V5	V6	querystart	queryend	V9	V10	evalue	bitscore	slen	qlen	alignlength	alignqueryratio	alignsubjectratio	New.Subtype	New.New.Subtype	New.Type	Family	subfamily	subfamily2	Seq.ID.in.CARD..need.to.redo.	X
+CAJ00294	GCF_900474925.1.gbff.1.gbk_GCF_900474925.1.gbff.1.gbk_NZ_LS483334.1_1823627_1825547	100	639	0	0	1	639	1	639	0	1319	639	639	639	100	100	tet(M)	tet(M)	tetracycline	ribosomal protection			gb|AKQ05895.1|ARO:3004586|tet(51)	NA
+gb|AAK99775.1|ARO:3000614|mefE	GCF_900474925.1.gbff.1.gbk_GCF_900474925.1.gbff.1.gbk_NZ_LS483334.1_1375985_1377194	79.5	400	82	0	1	400	1	400	0	639	403	402	400	99.5024875621891	99.2555831265509	mef(E)	mef(E)	MLS	MLS_macrolide	MFS antibiotic efflux pump		gb|AAK99775.1|ARO:3000614|mefE	NA
+gb|ABF33001.1|ARO:3003969|lmrP	GCF_900474925.1.gbff.1.gbk_GCF_900474925.1.gbff.1.gbk_NZ_LS483334.1_1765632_1766853	99.261	406	3	0	1	406	1	406	0	811	406	406	406	100	100	lmrP	lmrP	multidrug					NA

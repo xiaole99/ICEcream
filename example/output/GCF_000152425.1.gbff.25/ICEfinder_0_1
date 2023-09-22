@@ -1,0 +1,86 @@
+Description: Putative conjugative region
+Location: 297660..391968
+oriT: -
+Length: 94309 bp
+GC content: 45.73 %
+DR: -
+Insert: -
+297660..298901	-	413	2653578032	VCHOM_RS03925	Integrase	Phage_integrase	integrase family protein
+298903..299172	-	89	2653578033	VCHOM_RS03920	-		hypothetical protein
+299175..300149	-	324	2653578034	VCHOM_RS03915	-		ParM/StbA family protein
+300614..301057	+	147	2653578035	mobI	-		conjugative transfer protein MobI(A/C)
+301068..302240	-	390	2653578036	umuC	-		translesion error-prone DNA polymerase V subunit UmuC
+302524..303088	+	187.333333333333	2653578037	VCHOM_RS03900	-		Tn3 family transposase
+304538..306208	+	556	2653578038	VCHOM_RS03895	-		Tn3 family transposase
+306626..308119	+	497	2653578040	VCHOM_RS03885	-		IS91-like element ISVsa3 family transposase
+308480..309034	-	184	2653578041	dfrA18	-		trimethoprim-resistant dihydrofolate reductase DfrA18
+309048..309593	-	181	2653578042	VCHOM_RS03875	-		hypothetical protein
+309593..310759	-	388	2653578043	VCHOM_RS03870	-		hypothetical protein
+310774..311400	-	208	2653578044	dcd	-		dCTP deaminase
+312125..313009	+	294	2653578046	VCHOM_RS20115	-		DUF3363 domain-containing protein
+313226..314440	+	404	2653578047	floR	-		chloramphenicol/florfenicol efflux MFS transporter FloR
+314468..314773	+	101	2653578048	VCHOM_RS03845	-		LysR family transcriptional regulator
+315396..316232	-	278	2653578050	VCHOM_RS03840	-		aminoglycoside O-phosphotransferase APH(6)-Id
+316232..317035	-	267	2653578051	aph(3'')-Ib	-		aminoglycoside O-phosphotransferase APH(3'')-Ib
+317096..317911	-	271	2653578052	sul2	-		sulfonamide-resistant dihydropteroate synthase Sul2
+320338..320607	-	89	2653578054	VCHOM_RS03820	-		hypothetical protein
+320615..321064	-	149	2653578055	umuD	-		translesion error-prone DNA polymerase V autoproteolytic subunit
+321063..321320	+	85	2653578056	VCHOM_RS18675	-		hypothetical protein
+321703..322611	+	302	2653578057	VCHOM_RS03810	-		3'-5' exonuclease
+322685..322999	+	104	2653578058	VCHOM_RS03805	-		hypothetical protein
+323068..323994	+	308	2653578059	VCHOM_RS03800	-		WYL domain-containing protein
+324004..324603	+	199	2653578060	VCHOM_RS03795	-		DUF1819 family protein
+324600..325184	+	194	2653578061	VCHOM_RS03790	-		DUF1788 domain-containing protein
+325203..328880	+	1225	2653578062	brxC	-		BREX system P-loop protein BrxC
+328891..330060	+	389	2653578063	VCHOM_RS03780	-		AAA family ATPase
+330057..330815	+	252	2653578064	VCHOM_RS03775	-		hypothetical protein
+330819..334391	+	1190	2653578065	pglX	-		BREX-1 system adenine-specific DNA-methyltransferase PglX
+334391..337048	+	885	2653578066	pglZ	-		BREX-1 system phosphatase PglZ type A
+337110..339140	+	676	2653578067	brxL	-		protease Lon-related BREX system protein BrxL
+339184..341835	+	883	2653578068	VCHOM_RS03755	-		AAA family ATPase
+341990..344140	+	716	2653578069	mobH	Relaxase	TraI_2	MobH family relaxase
+344189..346009	+	606	2653578070	traD	T4SS ATPase	AAA_10	conjugative transfer system coupling protein TraD
+346019..346579	+	186	2653578071	VCHOM_RS03740	-		hypothetical protein
+346566..347201	+	211	2653578072	VCHOM_RS03735	T4SS	DUF4400	DUF4400 domain-containing protein
+347227..347505	-	92	2653578073	VCHOM_RS03730	-		helix-turn-helix transcriptional regulator
+347502..347825	-	107	2653578074	VCHOM_RS03725	-		type II toxin-antitoxin system RelE/ParE family toxin
+348006..348287	+	93	2653578075	traL	T4SS	TraL	type IV conjugative transfer system protein TraL
+348284..348910	+	208	2653578076	VCHOM_RS03715	T4SS	TraE	TraE/TraK family type IV conjugative transfer system protein
+348894..349790	+	298	2653578077	VCHOM_RS03710	T4SS	TraK	type-F conjugative transfer system secretin TraK
+349793..351082	+	429	2653578078	VCHOM_RS03705	T4SS	TrbI	TraB/VirB10 family protein
+351157..351729	+	190	2653578079	traV	T4SS	TraV	type IV conjugative transfer system lipoprotein TraV
+351726..352112	+	128	2653578080	traA	T4SS	TrbC	TraA family conjugative transfer protein
+352333..353124	+	263	2653578081	VCHOM_RS03690	-		type IV toxin-antitoxin system AbiEi family antitoxin
+353117..354055	+	312	2653578082	VCHOM_RS03685	-		nucleotidyl transferase AbiEii/AbiGii toxin family protein
+354187..354879	+	230	2653578083	VCHOM_RS03680	T4SS	TraF	DsbC family protein
+354879..357278	+	799	2653578084	traC	T4SS ATPase	AAA_10	type IV secretion system protein TraC
+357271..357618	+	115	2653578085	VCHOM_RS03670	-		hypothetical protein
+357602..358114	+	170	2653578086	VCHOM_RS03665	-		S26 family signal peptidase
+358125..359249	+	374	2653578087	VCHOM_RS03660	T4SS	Pfam-B_1474	TrbC family F-type conjugative pilus assembly protein
+359233..360261	+	342	2653578088	VCHOM_RS03655	T4SS	TraU	TraU family protein
+360264..363962	+	1232	2653578089	traN	T4SS	TraN	conjugal transfer protein TraN
+364055..364735	-	226	2653578090	VCHOM_RS03645	-		hypothetical protein
+364742..365827	-	361	2653578091	VCHOM_RS03640	-		hypothetical protein
+365827..366891	-	354	2653578092	VCHOM_RS03635	-		hypothetical protein
+367004..367687	-	227	2653578093	VCHOM_RS03630	-		endonuclease
+367828..368430	-	200	2653578094	VCHOM_RS03625	-		hypothetical protein
+368798..369124	+	108	2653578095	VCHOM_RS03620	-		hypothetical protein
+369140..369559	+	139	2653578096	ssb	-		single-stranded DNA-binding protein
+369639..370457	+	272	2653578097	bet	-		phage recombination protein Bet
+370539..370682	+	47	2653578098	VCHOM_RS19925	-		hypothetical protein
+370743..371759	+	338	2653578099	VCHOM_RS03605	-		YqaJ viral recombinase family protein
+371969..372928	+	319	2653578100	VCHOM_RS03600	T4SS	T2SSE	CbbQ/NirQ/NorQ C-terminal domain-containing protein
+372928..373695	+	255	2653578101	VCHOM_RS03595	-		hypothetical protein
+373794..374747	+	317	2653578102	VCHOM_RS03590	-		DUF3150 domain-containing protein
+374809..375249	+	146	2653578103	VCHOM_RS03585	-		hypothetical protein
+375319..376974	+	551	2653578104	VCHOM_RS03580	-		VWA domain-containing protein
+377056..377553	+	165	2653578105	radC	-		DNA repair protein RadC
+377553..377894	+	113	2653578106	VCHOM_RS03570	-		hypothetical protein
+377986..379059	+	357	2653578107	VCHOM_RS03565	-		primase-helicase zinc-binding domain-containing protein
+379150..379857	+	235	2653578108	VCHOM_RS03560	-		hypothetical protein
+380120..381049	-	309	2653578109	VCHOM_RS03555	-		diguanylate cyclase
+381055..384861	-	1268	2653578110	VCHOM_RS03550	-		response regulator
+385596..386540	+	314	2653578111	VCHOM_RS03545	T4SS	TraF	thioredoxin family protein
+386543..387931	+	462	2653578112	VCHOM_RS03540	T4SS	TraH	conjugal transfer protein TraH
+387935..391504	+	1189	2653578113	VCHOM_RS03535	T4SS	TraG_N	conjugal transfer protein TraG N-terminal domain-containing protein
+391537..391968	-	143	2653578114	eexS	T4SS	TraL	entry exclusion protein EexS
