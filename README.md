@@ -3,6 +3,13 @@ Integrative and Conjugative Elements Classification and gRaphical gEne Arrangeme
 
 ## how to use
 
+download the github folder to you local server
+
+navigate to the downloaded folder
+cd ICEcream/ICEcream
+
+bash ICEcream.sh --input <input_folder> --temp <temp_path> --output <output_path>
+
 ## Introduction
 To analyze Integrative and Conjugative Elements (ICEs) and Integrative and Mobilizable Elements (IMEs) more efficiently, the ICEcream pipeline was developed to achieve the following goals: 1) to identify ICE and IME loci from genomes via ICEfinder. In this step, ICEs were initially classified into AICEs or T4SS-type ICEs. 2) to classify identified T4SS-type ICEs into one of 26 families by profiling the occurrence and arrangements of conjugation elements. Concurrently, ARGs were annotated by aligning against the SARG v3.0 database 3) to visualize ICEs and ARGs using the python library DNAFeaturesViewer (Fig. 1). 
 
