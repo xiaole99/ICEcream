@@ -1,8 +1,27 @@
 # ICEcream
 Integrative and Conjugative Elements Classification and gRaphical gEne Arrangement Method
 
-## how to use
+## How to use
+Option 1. Conda 
 
+Installation
+
+mamba create -n ice  -c bioconda -c conda-forge 'python>=3.6' perl-bioperl=1.7.2 prokka biopython aragorn hmmer vmatch blast prodigal pandas 'r-base>=4.2' r-reshape2 dna_features_viewer
+
+Quick start:
+
+download the example folder: 
+
+wget https://figshare.com/ndownloader/files/42457437/example_input.tar.gz
+
+tar xvzf example_input.tar.gz
+
+conda activate ice
+
+ice --input example_input --temp your_temp_folder --output your_outputfolder 
+
+
+Option 2. download source code
 download the github folder to you local server
 
 navigate to the downloaded folder
