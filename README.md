@@ -22,6 +22,7 @@ ice --input example_input --temp your_temp_folder --output your_outputfolder
 
 
 Option 2. download source code
+
 download the github folder to you local server
 
 navigate to the downloaded folder
