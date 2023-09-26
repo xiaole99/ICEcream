@@ -18,7 +18,7 @@ tar xvzf example_input.tar.gz
 
 conda activate ice
 
-ice --input example_input --temp your_temp_folder --output your_outputfolder 
+ICEcream.sh --input example_input --temp your_temp_folder --output your_outputfolder 
 
 
 Option 2. download source code
