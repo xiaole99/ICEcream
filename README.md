@@ -6,7 +6,7 @@ Option 1. Conda
 
 Installation
 
-mamba create -n ice  -c bioconda -c conda-forge 'python>=3.6' perl-bioperl=1.7.2 prokka biopython aragorn hmmer vmatch blast prodigal pandas 'r-base>=4.2' r-reshape2 dna_features_viewer
+mamba create -n icecream  -c bioconda -c conda-forge ice-cream
 
 Quick start:
 
@@ -16,7 +16,7 @@ wget https://figshare.com/ndownloader/files/42457437/example_input.tar.gz
 
 tar xvzf example_input.tar.gz
 
-conda activate ice
+conda activate icecream
 
 ICEcream.sh --input example_input --temp your_temp_folder --output your_outputfolder 
 
